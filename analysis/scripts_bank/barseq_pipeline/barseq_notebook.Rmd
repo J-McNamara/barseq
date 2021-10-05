@@ -1,0 +1,54 @@
+---
+title: "Barseq pipeline pilot"
+output: html_notebook
+author: Josh McNamara
+---
+* Notebook to develop barcode sequencing analysis pipeline.
+\
+  
+## Generate simulated data
+
+* Generate a simulated fastq dataset to debug analysis pipeline.
+
+\
+**Load in the barcode data and libraries**
+```{r}
+
+library(dplyr)
+library(tidyr)
+
+exp_id <- read.csv('ids.csv')
+exp_id <- as.character(exp_id[,1])
+
+barcode <- read.csv('uptags.csv')
+barcode <- as.character(barcode[,1])
+barcode <- tolower(barcode)
+
+```
+**Analyze the barcodes**
+```{r}
+min(nchar(barcode))
+max(nchar(barcode))
+sum(nchar(barcode) == 19)
+sum(nchar(barcode) == 20)
+sum(nchar(barcode) == 21)
+```
+It appears that the barcodes range from length of 19:21. Most barcodes have 20bp.
+
+
+**Simulate the reads**
+```{r}
+
+reads <- 1000
+simulated_reads <- c()
+
+for (i in 1:reads){
+  simulated_reads <- append(simulated_reads, paste('GTCGACCTGCAGCGTAC', sample(x=barcode,1), 'AGAGACCTCGTGGACATC', sample(exp_id,1), sep = ''))
+}
+head(simulated_reads, 3)
+```
+
+**a**
+```{r}
+
+```

@@ -1,0 +1,149 @@
+---
+title: "Comparing stress resistance screens"
+author: "Josh McNamara"
+date: "01/28/2021"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+Directory: siqi-liu-2021_data
+
+### OXPHOS deficiency activates global adaptation pathways to maintain mitochondrial membrane potential
+Siqi Liu et al 2021
+RNA seq and proteomic mass spec of rho0 vs WT yeast cells
+
+```{r}
+# Load standard anaylsis packages
+library(reshape2)
+library(tidyr)
+library(ggplot2)
+library(dplyr)
+library(RColorBrewer)
+library(ggthemes)
+library(ggrepel)
+library(magrittr)
+
+# Load RNA seq dataset
+liu_RNA <- read.csv('./siqi-liu-2021_data/rho0_rna.csv')
+liu_RNA <- liu_RNA[,c(1, 9, 10)]
+colnames(liu_RNA) <- c('gene', 'logFC_RNA', 'PValue_RNA')
+
+# Load my dataset
+load('../analysis_notebook/outputs/de_results.rdata')
+de_results <- de_results[de_results$condition == 'm2',]
+
+# Merge the dataframes
+rna_compare <- merge(x = de_results, y = liu_RNA, by = 'gene', sort = TRUE, all.x = TRUE, all.y = TRUE)
+rna_compare<- rna_compare[complete.cases(rna_compare),]
+```
+
+### Plotting
+```{r}
+p <- ggplot(data = rna_compare, aes(x = logFC, y = logFC_RNA)) +
+      geom_point(color = 'blue') +
+      #theme_basic() +
+      geom_abline(intercept = 0, slope = 1, color = 'red') +
+      theme(plot.title = element_text(hjust=0.5)) + 
+      theme(legend.position = "none") +
+      xlab('My screen') +
+        ylab('RNA seq screen') +
+        ggtitle(label = 'Comparing screens') +
+        geom_text_repel(
+                fontface = 'bold',
+                data=subset(rna_compare,
+                        logFC * logFC_RNA > 2),
+                aes(x=logFC, y=logFC_RNA,
+                label=common),
+                force = 20,
+                show.legend = FALSE) +
+      geom_hline(yintercept=0)+geom_vline(xintercept=0)
+p
+ggsave(filename = '~/Desktop/comparing_screens.png', plot = p)
+# # 
+# 
+# print('Check for correlation')
+# cor.test(rna_compare$logFC, rna_compare$logFC_RNA)
+
+
+       
+```
+
+### Compare to the proteomics data 
+
+```{r}
+# Load protein data
+liu_protein <- read.csv(file = 'siqi-liu-2021_data/rho0_proteome.csv')
+liu_protein <- liu_protein[,c(2, 9, 10)]
+liu_protein <- liu_protein[-1,]
+colnames(liu_protein) <- c('gene', 'logFC_protein_liu', 'PValue_protein_liu')
+liu_protein$logFC_protein_liu <- as.numeric(liu_protein$logFC_protein_liu)
+liu_protein$PValue_protein_liu <- as.numeric(liu_protein$PValue_protein_liu)
+
+# Merge with other data
+protein_compare <- merge(x = rna_compare, y = liu_protein, by = 'gene', sort = TRUE, all.x = TRUE, all.y = TRUE)
+protein_compare<- protein_compare[complete.cases(protein_compare),]
+
+
+# Compare Liu RNA and protein
+p <- ggplot(data = protein_compare, aes(x = logFC_RNA, y = logFC_protein_liu)) +
+      geom_point(color = 'blue') +
+      geom_abline(intercept = 0, slope = 1, color = 'red') +
+      theme(plot.title = element_text(hjust=0.5)) + 
+      theme(legend.position = "none") +
+      xlab('RNA expression') +
+      ylab('Protein expression') +
+      ggtitle(label = 'RNA vs Protein expression, Liu et al 2021') +
+      geom_text_repel(
+                fontface = 'bold',
+                data=subset(protein_compare,
+                        abs(logFC_RNA *logFC_protein_liu) > .1),
+                aes(x=logFC_RNA, y=logFC_protein_liu,
+                label=common),
+                force = 20,
+                show.legend = FALSE) + 
+            geom_hline(yintercept=0)+geom_vline(xintercept=0)
+
+p
+ggsave(filename = '~/Desktop/RNA_prot-screens.png', plot = p)
+# Gene does increase 
+p <- ggplot(data = protein_compare, aes(x = logFC, y = logFC_protein_liu)) +
+      geom_point(color = 'blue') +
+      geom_abline(intercept = 0, slope = 1, color = 'red') +
+      theme(plot.title = element_text(hjust=0.5)) + 
+      theme(legend.position = "none") +
+      xlab('MoBY logFC') +
+      ylab('Protein logFC, Liu et al 2021') +
+      ggtitle(label = 'MoBY logFC vs Liu et al 2021 Protein logFC') +
+      geom_text_repel(
+                fontface = 'bold',
+                data=subset(protein_compare,
+                        abs(logFC *logFC_protein_liu) > 2),
+                aes(x=logFC, y=logFC_protein_liu,
+                label=common),
+                force = 20,
+                show.legend = FALSE) + 
+            geom_hline(yintercept=0)+geom_vline(xintercept=0)
+p
+ggsave(filename = '~/Desktop/comparing_screens2.png', plot = p)
+```
+
+### Comparing Mootha Data
+
+```{r}
+
+
+```
+
+# Make some plots and summarize findings after each one
+
+```{r}
+
+# code here
+
+```
+
+# Make some conclusions
+
+

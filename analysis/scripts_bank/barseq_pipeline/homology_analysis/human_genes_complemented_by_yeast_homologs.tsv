@@ -1,0 +1,2046 @@
+ENSG00000000419	DPM1	H. sapiens	S000006148	ALG5	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000000419	DPM1	H. sapiens	S000006387	DPM1	S. cerevisiae	homologue
+ENSG00000000419	DPM1	H. sapiens	S000006387	DPM1	S. cerevisiae	least diverged orthologue
+ENSG00000001630	CYP51A1	H. sapiens	S000001049	ERG11	S. cerevisiae	homologue
+ENSG00000001630	CYP51A1	H. sapiens	S000001049	ERG11	S. cerevisiae	least diverged orthologue
+ENSG00000001630	CYP51A1	H. sapiens	S000001049	ERG11	S. cerevisiae	orthologue
+ENSG00000001630	CYP51A1	H. sapiens	S000001049	ERG11	S. cerevisiae	orthologue
+ENSG00000004059	ARF5	H. sapiens	S000002296	ARF2	S. cerevisiae	homologue
+ENSG00000004059	ARF5	H. sapiens	S000002296	ARF2	S. cerevisiae	orthologue
+ENSG00000004059	ARF5	H. sapiens	S000002351	ARF1	S. cerevisiae	homologue
+ENSG00000004059	ARF5	H. sapiens	S000002351	ARF1	S. cerevisiae	orthologue
+ENSG00000004864	SLC25A13	H. sapiens	S000006225	AGC1	S. cerevisiae	homologue
+ENSG00000004864	SLC25A13	H. sapiens	S000006225	AGC1	S. cerevisiae	orthologue
+ENSG00000004864	SLC25A13	H. sapiens	S000006225	AGC1	S. cerevisiae	orthologue
+ENSG00000004864	SLC25A13	H. sapiens	S000006332	ANT1	S. cerevisiae	orthologue
+ENSG00000004961	HCCS	H. sapiens	S000000037	CYC3	S. cerevisiae	homologue
+ENSG00000004961	HCCS	H. sapiens	S000000037	CYC3	S. cerevisiae	orthologue
+ENSG00000004961	HCCS	H. sapiens	S000001570	CYT2	S. cerevisiae	least diverged orthologue
+ENSG00000004961	HCCS	H. sapiens	S000001570	CYT2	S. cerevisiae	orthologue
+ENSG00000004961	HCCS	H. sapiens	S000001570	CYT2	S. cerevisiae	orthologue
+ENSG00000005007	UPF1	H. sapiens	S000000978	ECM32	S. cerevisiae	orthologue
+ENSG00000005007	UPF1	H. sapiens	S000004685	NAM7	S. cerevisiae	homologue
+ENSG00000005007	UPF1	H. sapiens	S000004685	NAM7	S. cerevisiae	least diverged orthologue
+ENSG00000005007	UPF1	H. sapiens	S000004685	NAM7	S. cerevisiae	orthologue
+ENSG00000005007	UPF1	H. sapiens	S000004685	NAM7	S. cerevisiae	orthologue
+ENSG00000005194	CIAPIN1	H. sapiens	S000001779	DRE2	S. cerevisiae	homologue
+ENSG00000005194	CIAPIN1	H. sapiens	S000001779	DRE2	S. cerevisiae	least diverged orthologue
+ENSG00000005194	CIAPIN1	H. sapiens	S000001779	DRE2	S. cerevisiae	orthologue
+ENSG00000006634	DBF4	H. sapiens	S000002459	DBF4	S. cerevisiae	least diverged orthologue
+ENSG00000006695	COX10	H. sapiens	S000006093	COX10	S. cerevisiae	homologue
+ENSG00000006695	COX10	H. sapiens	S000006093	COX10	S. cerevisiae	least diverged orthologue
+ENSG00000006695	COX10	H. sapiens	S000006093	COX10	S. cerevisiae	orthologue
+ENSG00000008952	SEC62	H. sapiens	S000006015	SEC62	S. cerevisiae	homologue
+ENSG00000008952	SEC62	H. sapiens	S000006015	SEC62	S. cerevisiae	least diverged orthologue
+ENSG00000008952	SEC62	H. sapiens	S000006015	SEC62	S. cerevisiae	orthologue
+ENSG00000011376	LARS2	H. sapiens	S000003403	MSM1	S. cerevisiae	horizontal gene transfer
+ENSG00000011376	LARS2	H. sapiens	S000004374	NAM2	S. cerevisiae	homologue
+ENSG00000011376	LARS2	H. sapiens	S000004374	NAM2	S. cerevisiae	least diverged orthologue
+ENSG00000011376	LARS2	H. sapiens	S000004374	NAM2	S. cerevisiae	orthologue
+ENSG00000011376	LARS2	H. sapiens	S000004374	NAM2	S. cerevisiae	orthologue
+ENSG00000013275	PSMC4	H. sapiens	S000002802	RPT3	S. cerevisiae	homologue
+ENSG00000013275	PSMC4	H. sapiens	S000002802	RPT3	S. cerevisiae	least diverged orthologue
+ENSG00000013275	PSMC4	H. sapiens	S000002802	RPT3	S. cerevisiae	orthologue
+ENSG00000013275	PSMC4	H. sapiens	S000002802	RPT3	S. cerevisiae	orthologue
+ENSG00000013375	PGM3	H. sapiens	S000000784	PCM1	S. cerevisiae	homologue
+ENSG00000013375	PGM3	H. sapiens	S000000784	PCM1	S. cerevisiae	least diverged orthologue
+ENSG00000013375	PGM3	H. sapiens	S000000784	PCM1	S. cerevisiae	orthologue
+ENSG00000013375	PGM3	H. sapiens	S000004891	PRM15	S. cerevisiae	horizontal gene transfer
+ENSG00000015285	WAS	H. sapiens	S000005707	LAS17	S. cerevisiae	homologue
+ENSG00000015285	WAS	H. sapiens	S000005707	LAS17	S. cerevisiae	least diverged orthologue
+ENSG00000015285	WAS	H. sapiens	S000005707	LAS17	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000002445	ENA5	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000002446	ENA2	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000002447	ENA1	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000002976	PMA1	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000003135	PMR1	S. cerevisiae	homologue
+ENSG00000017260	ATP2C1	H. sapiens	S000003135	PMR1	S. cerevisiae	least diverged orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000003135	PMR1	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000003135	PMR1	S. cerevisiae	orthologue
+ENSG00000017260	ATP2C1	H. sapiens	S000005957	PMA2	S. cerevisiae	orthologue
+ENSG00000020426	MNAT1	H. sapiens	S000002868	TFB3	S. cerevisiae	homologue
+ENSG00000020426	MNAT1	H. sapiens	S000002868	TFB3	S. cerevisiae	least diverged orthologue
+ENSG00000020426	MNAT1	H. sapiens	S000002868	TFB3	S. cerevisiae	orthologue
+ENSG00000020426	MNAT1	H. sapiens	S000002868	TFB3	S. cerevisiae	orthologue
+ENSG00000023041	ZDHHC6	H. sapiens	S000005363	PFA4	S. cerevisiae	homologue
+ENSG00000027075	PRKCH	H. sapiens	S000000201	PKC1	S. cerevisiae	orthologue
+ENSG00000027075	PRKCH	H. sapiens	S000001248	SCH9	S. cerevisiae	homologue
+ENSG00000027075	PRKCH	H. sapiens	S000001609	YPK1	S. cerevisiae	homologue
+ENSG00000027075	PRKCH	H. sapiens	S000004710	YPK2	S. cerevisiae	homologue
+ENSG00000031698	SARS	H. sapiens	S000002430	SES1	S. cerevisiae	homologue
+ENSG00000031698	SARS	H. sapiens	S000002430	SES1	S. cerevisiae	least diverged orthologue
+ENSG00000031698	SARS	H. sapiens	S000002430	SES1	S. cerevisiae	orthologue
+ENSG00000031698	SARS	H. sapiens	S000002430	SES1	S. cerevisiae	orthologue
+ENSG00000033011	ALG1	H. sapiens	S000000314	ALG1	S. cerevisiae	homologue
+ENSG00000033011	ALG1	H. sapiens	S000000314	ALG1	S. cerevisiae	least diverged orthologue
+ENSG00000033011	ALG1	H. sapiens	S000000314	ALG1	S. cerevisiae	orthologue
+ENSG00000033011	ALG1	H. sapiens	S000000314	ALG1	S. cerevisiae	orthologue
+ENSG00000033050	ABCF2	H. sapiens	S000000838	ARB1	S. cerevisiae	homologue
+ENSG00000033050	ABCF2	H. sapiens	S000000838	ARB1	S. cerevisiae	least diverged orthologue
+ENSG00000033050	ABCF2	H. sapiens	S000000838	ARB1	S. cerevisiae	orthologue
+ENSG00000033050	ABCF2	H. sapiens	S000000838	ARB1	S. cerevisiae	orthologue
+ENSG00000037474	NSUN2	H. sapiens	S000000120	NCL1	S. cerevisiae	homologue
+ENSG00000037474	NSUN2	H. sapiens	S000000120	NCL1	S. cerevisiae	least diverged orthologue
+ENSG00000037474	NSUN2	H. sapiens	S000000120	NCL1	S. cerevisiae	orthologue
+ENSG00000037474	NSUN2	H. sapiens	S000000120	NCL1	S. cerevisiae	orthologue
+ENSG00000039123	SKIV2L2	H. sapiens	S000003586	MTR4	S. cerevisiae	homologue
+ENSG00000039123	SKIV2L2	H. sapiens	S000003586	MTR4	S. cerevisiae	orthologue
+ENSG00000039123	SKIV2L2	H. sapiens	S000003586	MTR4	S. cerevisiae	orthologue
+ENSG00000040531	CTNS	H. sapiens	S000000671	ERS1	S. cerevisiae	homologue
+ENSG00000043514	TRIT1	H. sapiens	S000005800	MOD5	S. cerevisiae	homologue
+ENSG00000043514	TRIT1	H. sapiens	S000005800	MOD5	S. cerevisiae	least diverged orthologue
+ENSG00000043514	TRIT1	H. sapiens	S000005800	MOD5	S. cerevisiae	orthologue
+ENSG00000043514	TRIT1	H. sapiens	S000005800	MOD5	S. cerevisiae	orthologue
+ENSG00000047230	CTPS2	H. sapiens	S000000135	URA7	S. cerevisiae	homologue
+ENSG00000047230	CTPS2	H. sapiens	S000000135	URA7	S. cerevisiae	least diverged orthologue
+ENSG00000047230	CTPS2	H. sapiens	S000000135	URA7	S. cerevisiae	orthologue
+ENSG00000047230	CTPS2	H. sapiens	S000000135	URA7	S. cerevisiae	orthologue
+ENSG00000047230	CTPS2	H. sapiens	S000003864	URA8	S. cerevisiae	homologue
+ENSG00000047230	CTPS2	H. sapiens	S000003864	URA8	S. cerevisiae	orthologue
+ENSG00000047230	CTPS2	H. sapiens	S000003864	URA8	S. cerevisiae	orthologue
+ENSG00000052802	MSMO1	H. sapiens	S000002705	SUR2	S. cerevisiae	orthologue
+ENSG00000052802	MSMO1	H. sapiens	S000003292	ERG25	S. cerevisiae	homologue
+ENSG00000052802	MSMO1	H. sapiens	S000003292	ERG25	S. cerevisiae	orthologue
+ENSG00000052802	MSMO1	H. sapiens	S000003292	ERG25	S. cerevisiae	orthologue
+ENSG00000055130	CUL1	H. sapiens	S000002290	CDC53	S. cerevisiae	homologue
+ENSG00000055130	CUL1	H. sapiens	S000002290	CDC53	S. cerevisiae	least diverged orthologue
+ENSG00000055130	CUL1	H. sapiens	S000002290	CDC53	S. cerevisiae	orthologue
+ENSG00000055483	USP36	H. sapiens	S000005130	UBP10	S. cerevisiae	homologue
+ENSG00000057608	GDI2	H. sapiens	S000000938	GDI1	S. cerevisiae	homologue
+ENSG00000057608	GDI2	H. sapiens	S000000938	GDI1	S. cerevisiae	least diverged orthologue
+ENSG00000057608	GDI2	H. sapiens	S000005897	MRS6	S. cerevisiae	orthologue
+ENSG00000058262	SEC61A1	H. sapiens	S000000487	SSH1	S. cerevisiae	orthologue
+ENSG00000058262	SEC61A1	H. sapiens	S000000487	SSH1	S. cerevisiae	orthologue
+ENSG00000058262	SEC61A1	H. sapiens	S000004370	SEC61	S. cerevisiae	homologue
+ENSG00000058262	SEC61A1	H. sapiens	S000004370	SEC61	S. cerevisiae	least diverged orthologue
+ENSG00000058262	SEC61A1	H. sapiens	S000004370	SEC61	S. cerevisiae	orthologue
+ENSG00000058262	SEC61A1	H. sapiens	S000004370	SEC61	S. cerevisiae	orthologue
+ENSG00000058335	RASGRF1	H. sapiens	S000003939	SDC25	S. cerevisiae	orthologue
+ENSG00000058335	RASGRF1	H. sapiens	S000004301	CDC25	S. cerevisiae	homologue
+ENSG00000058335	RASGRF1	H. sapiens	S000004301	CDC25	S. cerevisiae	orthologue
+ENSG00000060642	PIGV	H. sapiens	S000000208	GPI18	S. cerevisiae	least diverged orthologue
+ENSG00000060762	MPC1	H. sapiens	S000003048	MPC1	S. cerevisiae	homologue
+ENSG00000060762	MPC1	H. sapiens	S000003048	MPC1	S. cerevisiae	least diverged orthologue
+ENSG00000060762	MPC1	H. sapiens	S000003048	MPC1	S. cerevisiae	orthologue
+ENSG00000060762	MPC1	H. sapiens	S000003048	MPC1	S. cerevisiae	orthologue
+ENSG00000064933	PMS1	H. sapiens	S000004025	MLH2	S. cerevisiae	least diverged orthologue
+ENSG00000064933	PMS1	H. sapiens	S000005026	PMS1	S. cerevisiae	homologue
+ENSG00000064933	PMS1	H. sapiens	S000005026	PMS1	S. cerevisiae	orthologue
+ENSG00000065150	IPO5	H. sapiens	S000004925	PSE1	S. cerevisiae	homologue
+ENSG00000065150	IPO5	H. sapiens	S000004925	PSE1	S. cerevisiae	least diverged orthologue
+ENSG00000065150	IPO5	H. sapiens	S000004925	PSE1	S. cerevisiae	orthologue
+ENSG00000065150	IPO5	H. sapiens	S000004925	PSE1	S. cerevisiae	orthologue
+ENSG00000065154	OAT	H. sapiens	S000004430	CAR2	S. cerevisiae	homologue
+ENSG00000065154	OAT	H. sapiens	S000004430	CAR2	S. cerevisiae	least diverged orthologue
+ENSG00000065154	OAT	H. sapiens	S000004430	CAR2	S. cerevisiae	orthologue
+ENSG00000065154	OAT	H. sapiens	S000004430	CAR2	S. cerevisiae	orthologue
+ENSG00000065427	KARS	H. sapiens	S000002444	KRS1	S. cerevisiae	homologue
+ENSG00000065427	KARS	H. sapiens	S000002444	KRS1	S. cerevisiae	least diverged orthologue
+ENSG00000065427	KARS	H. sapiens	S000002444	KRS1	S. cerevisiae	orthologue
+ENSG00000065427	KARS	H. sapiens	S000002444	KRS1	S. cerevisiae	orthologue
+ENSG00000065427	KARS	H. sapiens	S000003941	DPS1	S. cerevisiae	horizontal gene transfer
+ENSG00000065427	KARS	H. sapiens	S000005017	MSK1	S. cerevisiae	orthologue
+ENSG00000065989	PDE4A	H. sapiens	S000005887	PDE2	S. cerevisiae	orthologue
+ENSG00000065989	PDE4A	H. sapiens	S000005887	PDE2	S. cerevisiae	orthologue
+ENSG00000066322	ELOVL1	H. sapiens	S000000630	ELO2	S. cerevisiae	homologue
+ENSG00000066322	ELOVL1	H. sapiens	S000003732	ELO1	S. cerevisiae	homologue
+ENSG00000066322	ELOVL1	H. sapiens	S000004364	ELO3	S. cerevisiae	homologue
+ENSG00000066926	FECH	H. sapiens	S000005702	HEM15	S. cerevisiae	homologue
+ENSG00000066926	FECH	H. sapiens	S000005702	HEM15	S. cerevisiae	least diverged orthologue
+ENSG00000066926	FECH	H. sapiens	S000005702	HEM15	S. cerevisiae	orthologue
+ENSG00000066926	FECH	H. sapiens	S000005702	HEM15	S. cerevisiae	orthologue
+ENSG00000067064	IDI1	H. sapiens	S000006038	IDI1	S. cerevisiae	homologue
+ENSG00000067064	IDI1	H. sapiens	S000006038	IDI1	S. cerevisiae	least diverged orthologue
+ENSG00000067064	IDI1	H. sapiens	S000006038	IDI1	S. cerevisiae	orthologue
+ENSG00000067064	IDI1	H. sapiens	S000006038	IDI1	S. cerevisiae	orthologue
+ENSG00000067560	RHOA	H. sapiens	S000001763	RHO4	S. cerevisiae	orthologue
+ENSG00000067560	RHOA	H. sapiens	S000005034	RHO2	S. cerevisiae	orthologue
+ENSG00000067560	RHOA	H. sapiens	S000006369	RHO1	S. cerevisiae	homologue
+ENSG00000067560	RHOA	H. sapiens	S000006369	RHO1	S. cerevisiae	orthologue
+ENSG00000067560	RHOA	H. sapiens	S000006369	RHO1	S. cerevisiae	orthologue
+ENSG00000067560	RHOA	H. sapiens	S000006369	RHO1	S. cerevisiae	orthologue
+ENSG00000067596	DHX8	H. sapiens	S000000815	PRP22	S. cerevisiae	homologue
+ENSG00000067596	DHX8	H. sapiens	S000000815	PRP22	S. cerevisiae	least diverged orthologue
+ENSG00000067596	DHX8	H. sapiens	S000000815	PRP22	S. cerevisiae	orthologue
+ENSG00000067596	DHX8	H. sapiens	S000000815	PRP22	S. cerevisiae	orthologue
+ENSG00000067704	IARS2	H. sapiens	S000003403	MSM1	S. cerevisiae	horizontal gene transfer
+ENSG00000067704	IARS2	H. sapiens	S000005961	ISM1	S. cerevisiae	homologue
+ENSG00000067704	IARS2	H. sapiens	S000005961	ISM1	S. cerevisiae	orthologue
+ENSG00000067704	IARS2	H. sapiens	S000005961	ISM1	S. cerevisiae	orthologue
+ENSG00000068120	COASY	H. sapiens	S000003509	CAB4	S. cerevisiae	homologue
+ENSG00000068366	ACSL4	H. sapiens	S000001271	FAA3	S. cerevisiae	homologue
+ENSG00000068366	ACSL4	H. sapiens	S000001271	FAA3	S. cerevisiae	orthologue
+ENSG00000068366	ACSL4	H. sapiens	S000001271	FAA3	S. cerevisiae	orthologue
+ENSG00000068366	ACSL4	H. sapiens	S000004860	FAA4	S. cerevisiae	homologue
+ENSG00000068366	ACSL4	H. sapiens	S000004860	FAA4	S. cerevisiae	orthologue
+ENSG00000068366	ACSL4	H. sapiens	S000004860	FAA4	S. cerevisiae	orthologue
+ENSG00000068366	ACSL4	H. sapiens	S000005844	FAA1	S. cerevisiae	homologue
+ENSG00000068366	ACSL4	H. sapiens	S000005844	FAA1	S. cerevisiae	orthologue
+ENSG00000068366	ACSL4	H. sapiens	S000005844	FAA1	S. cerevisiae	orthologue
+ENSG00000068438	FTSJ1	H. sapiens	S000000265	TRM7	S. cerevisiae	homologue
+ENSG00000068438	FTSJ1	H. sapiens	S000000265	TRM7	S. cerevisiae	least diverged orthologue
+ENSG00000068438	FTSJ1	H. sapiens	S000000265	TRM7	S. cerevisiae	orthologue
+ENSG00000068654	POLR1A	H. sapiens	S000005868	RPA190	S. cerevisiae	homologue
+ENSG00000068654	POLR1A	H. sapiens	S000005868	RPA190	S. cerevisiae	least diverged orthologue
+ENSG00000068654	POLR1A	H. sapiens	S000005868	RPA190	S. cerevisiae	orthologue
+ENSG00000068654	POLR1A	H. sapiens	S000005868	RPA190	S. cerevisiae	orthologue
+ENSG00000069345	DNAJA2	H. sapiens	S000005008	YDJ1	S. cerevisiae	homologue
+ENSG00000069345	DNAJA2	H. sapiens	S000005008	YDJ1	S. cerevisiae	orthologue
+ENSG00000069345	DNAJA2	H. sapiens	S000005008	YDJ1	S. cerevisiae	orthologue
+ENSG00000069345	DNAJA2	H. sapiens	S000005008	YDJ1	S. cerevisiae	orthologue
+ENSG00000069345	DNAJA2	H. sapiens	S000005021	APJ1	S. cerevisiae	orthologue
+ENSG00000069943	PIGB	H. sapiens	S000003110	GPI10	S. cerevisiae	homologue
+ENSG00000069943	PIGB	H. sapiens	S000003110	GPI10	S. cerevisiae	least diverged orthologue
+ENSG00000069943	PIGB	H. sapiens	S000003110	GPI10	S. cerevisiae	orthologue
+ENSG00000069966	GNB5	H. sapiens	S000005738	STE4	S. cerevisiae	homologue
+ENSG00000069966	GNB5	H. sapiens	S000005738	STE4	S. cerevisiae	orthologue
+ENSG00000069966	GNB5	H. sapiens	S000005738	STE4	S. cerevisiae	orthologue
+ENSG00000069966	GNB5	H. sapiens	S000005738	STE4	S. cerevisiae	orthologue
+ENSG00000070010	UFD1L	H. sapiens	S000003280	UFD1	S. cerevisiae	homologue
+ENSG00000070010	UFD1L	H. sapiens	S000003280	UFD1	S. cerevisiae	least diverged orthologue
+ENSG00000070010	UFD1L	H. sapiens	S000003280	UFD1	S. cerevisiae	orthologue
+ENSG00000070010	UFD1L	H. sapiens	S000003280	UFD1	S. cerevisiae	orthologue
+ENSG00000070831	CDC42	H. sapiens	S000004219	CDC42	S. cerevisiae	homologue
+ENSG00000070831	CDC42	H. sapiens	S000004219	CDC42	S. cerevisiae	orthologue
+ENSG00000070831	CDC42	H. sapiens	S000004219	CDC42	S. cerevisiae	orthologue
+ENSG00000070831	CDC42	H. sapiens	S000005124	RHO5	S. cerevisiae	least diverged orthologue
+ENSG00000071794	HLTF	H. sapiens	S000000318	RAD16	S. cerevisiae	homologue
+ENSG00000071794	HLTF	H. sapiens	S000004022	RAD5	S. cerevisiae	homologue
+ENSG00000071794	HLTF	H. sapiens	S000004022	RAD5	S. cerevisiae	orthologue
+ENSG00000071794	HLTF	H. sapiens	S000005717	ULS1	S. cerevisiae	homologue
+ENSG00000072210	ALDH3A2	H. sapiens	S000004716	HFD1	S. cerevisiae	homologue
+ENSG00000072210	ALDH3A2	H. sapiens	S000004716	HFD1	S. cerevisiae	least diverged orthologue
+ENSG00000072210	ALDH3A2	H. sapiens	S000004716	HFD1	S. cerevisiae	orthologue
+ENSG00000072756	TRNT1	H. sapiens	S000000970	CCA1	S. cerevisiae	homologue
+ENSG00000072756	TRNT1	H. sapiens	S000000970	CCA1	S. cerevisiae	least diverged orthologue
+ENSG00000074582	BCS1L	H. sapiens	S000002783	BCS1	S. cerevisiae	homologue
+ENSG00000074582	BCS1L	H. sapiens	S000002783	BCS1	S. cerevisiae	least diverged orthologue
+ENSG00000074582	BCS1L	H. sapiens	S000002783	BCS1	S. cerevisiae	orthologue
+ENSG00000074582	BCS1L	H. sapiens	S000002783	BCS1	S. cerevisiae	orthologue
+ENSG00000075239	ACAT1	H. sapiens	S000005949	ERG10	S. cerevisiae	homologue
+ENSG00000075239	ACAT1	H. sapiens	S000005949	ERG10	S. cerevisiae	orthologue
+ENSG00000075239	ACAT1	H. sapiens	S000005949	ERG10	S. cerevisiae	orthologue
+ENSG00000075415	SLC25A3	H. sapiens	S000000855	PIC2	S. cerevisiae	homologue
+ENSG00000075415	SLC25A3	H. sapiens	S000000855	PIC2	S. cerevisiae	orthologue
+ENSG00000075415	SLC25A3	H. sapiens	S000003838	MIR1	S. cerevisiae	least diverged orthologue
+ENSG00000075415	SLC25A3	H. sapiens	S000003838	MIR1	S. cerevisiae	orthologue
+ENSG00000076242	MLH1	H. sapiens	S000004777	MLH1	S. cerevisiae	homologue
+ENSG00000076242	MLH1	H. sapiens	S000004777	MLH1	S. cerevisiae	least diverged orthologue
+ENSG00000076242	MLH1	H. sapiens	S000004777	MLH1	S. cerevisiae	orthologue
+ENSG00000076242	MLH1	H. sapiens	S000004777	MLH1	S. cerevisiae	orthologue
+ENSG00000076248	UNG	H. sapiens	S000004483	UNG1	S. cerevisiae	homologue
+ENSG00000076248	UNG	H. sapiens	S000004483	UNG1	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000076248	UNG	H. sapiens	S000004483	UNG1	S. cerevisiae	orthologue
+ENSG00000076248	UNG	H. sapiens	S000004483	UNG1	S. cerevisiae	orthologue
+ENSG00000077721	UBE2A	H. sapiens	S000003026	RAD6	S. cerevisiae	homologue
+ENSG00000077721	UBE2A	H. sapiens	S000003026	RAD6	S. cerevisiae	least diverged orthologue
+ENSG00000077721	UBE2A	H. sapiens	S000003026	RAD6	S. cerevisiae	orthologue
+ENSG00000077721	UBE2A	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000078140	UBE2K	H. sapiens	S000002584	UBC1	S. cerevisiae	homologue
+ENSG00000078140	UBE2K	H. sapiens	S000002584	UBC1	S. cerevisiae	least diverged orthologue
+ENSG00000078140	UBE2K	H. sapiens	S000002584	UBC1	S. cerevisiae	orthologue
+ENSG00000078140	UBE2K	H. sapiens	S000002584	UBC1	S. cerevisiae	orthologue
+ENSG00000078140	UBE2K	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000078902	TOLLIP	H. sapiens	S000002681	DON1	S. cerevisiae	orthologue
+ENSG00000078902	TOLLIP	H. sapiens	S000005568	CUE5	S. cerevisiae	least diverged orthologue
+ENSG00000079335	CDC14A	H. sapiens	S000001924	CDC14	S. cerevisiae	homologue
+ENSG00000079335	CDC14A	H. sapiens	S000001924	CDC14	S. cerevisiae	least diverged orthologue
+ENSG00000079335	CDC14A	H. sapiens	S000001924	CDC14	S. cerevisiae	orthologue
+ENSG00000080819	CPOX	H. sapiens	S000002451	HEM13	S. cerevisiae	homologue
+ENSG00000080819	CPOX	H. sapiens	S000002451	HEM13	S. cerevisiae	least diverged orthologue
+ENSG00000080819	CPOX	H. sapiens	S000002451	HEM13	S. cerevisiae	orthologue
+ENSG00000080819	CPOX	H. sapiens	S000002451	HEM13	S. cerevisiae	orthologue
+ENSG00000080824	HSP90AA1	H. sapiens	S000004798	HSC82	S. cerevisiae	orthologue
+ENSG00000080824	HSP90AA1	H. sapiens	S000004798	HSC82	S. cerevisiae	orthologue
+ENSG00000080824	HSP90AA1	H. sapiens	S000006161	HSP82	S. cerevisiae	homologue
+ENSG00000080824	HSP90AA1	H. sapiens	S000006161	HSP82	S. cerevisiae	orthologue
+ENSG00000080824	HSP90AA1	H. sapiens	S000006161	HSP82	S. cerevisiae	orthologue
+ENSG00000080986	NDC80	H. sapiens	S000001406	NDC80	S. cerevisiae	homologue
+ENSG00000080986	NDC80	H. sapiens	S000001406	NDC80	S. cerevisiae	least diverged orthologue
+ENSG00000083520	DIS3	H. sapiens	S000005381	DIS3	S. cerevisiae	homologue
+ENSG00000083520	DIS3	H. sapiens	S000005381	DIS3	S. cerevisiae	least diverged orthologue
+ENSG00000083520	DIS3	H. sapiens	S000005381	DIS3	S. cerevisiae	orthologue
+ENSG00000083520	DIS3	H. sapiens	S000005381	DIS3	S. cerevisiae	orthologue
+ENSG00000083750	RRAGB	H. sapiens	S000004590	GTR1	S. cerevisiae	homologue
+ENSG00000083750	RRAGB	H. sapiens	S000004590	GTR1	S. cerevisiae	orthologue
+ENSG00000083845	RPS5	H. sapiens	S000003884	RPS5	S. cerevisiae	homologue
+ENSG00000083845	RPS5	H. sapiens	S000003884	RPS5	S. cerevisiae	least diverged orthologue
+ENSG00000083845	RPS5	H. sapiens	S000003884	RPS5	S. cerevisiae	orthologue
+ENSG00000083845	RPS5	H. sapiens	S000003884	RPS5	S. cerevisiae	orthologue
+ENSG00000084073	ZMPSTE24	H. sapiens	S000003878	STE24	S. cerevisiae	homologue
+ENSG00000084073	ZMPSTE24	H. sapiens	S000003878	STE24	S. cerevisiae	least diverged orthologue
+ENSG00000084073	ZMPSTE24	H. sapiens	S000003878	STE24	S. cerevisiae	orthologue
+ENSG00000084073	ZMPSTE24	H. sapiens	S000003878	STE24	S. cerevisiae	orthologue
+ENSG00000085511	MAP3K4	H. sapiens	S000000669	SSK22	S. cerevisiae	homologue
+ENSG00000085511	MAP3K4	H. sapiens	S000005314	SSK2	S. cerevisiae	homologue
+ENSG00000085662	AKR1B1	H. sapiens	S000002776	YPR1	S. cerevisiae	homologue
+ENSG00000085662	AKR1B1	H. sapiens	S000005646	GCY1	S. cerevisiae	homologue
+ENSG00000085721	RRN3	H. sapiens	S000001608	RRN3	S. cerevisiae	homologue
+ENSG00000085721	RRN3	H. sapiens	S000001608	RRN3	S. cerevisiae	least diverged orthologue
+ENSG00000085721	RRN3	H. sapiens	S000001608	RRN3	S. cerevisiae	orthologue
+ENSG00000086848	ALG9	H. sapiens	S000005163	ALG9	S. cerevisiae	homologue
+ENSG00000086848	ALG9	H. sapiens	S000005163	ALG9	S. cerevisiae	least diverged orthologue
+ENSG00000086848	ALG9	H. sapiens	S000005163	ALG9	S. cerevisiae	orthologue
+ENSG00000086848	ALG9	H. sapiens	S000005163	ALG9	S. cerevisiae	orthologue
+ENSG00000087191	PSMC5	H. sapiens	S000003016	RPT6	S. cerevisiae	homologue
+ENSG00000087191	PSMC5	H. sapiens	S000003016	RPT6	S. cerevisiae	least diverged orthologue
+ENSG00000087191	PSMC5	H. sapiens	S000003016	RPT6	S. cerevisiae	orthologue
+ENSG00000087191	PSMC5	H. sapiens	S000003016	RPT6	S. cerevisiae	orthologue
+ENSG00000088035	ALG6	H. sapiens	S000005528	ALG6	S. cerevisiae	homologue
+ENSG00000088035	ALG6	H. sapiens	S000005528	ALG6	S. cerevisiae	least diverged orthologue
+ENSG00000088035	ALG6	H. sapiens	S000005528	ALG6	S. cerevisiae	orthologue
+ENSG00000088035	ALG6	H. sapiens	S000005528	ALG6	S. cerevisiae	orthologue
+ENSG00000088682	COQ9	H. sapiens	S000004191	COQ9	S. cerevisiae	homologue
+ENSG00000088682	COQ9	H. sapiens	S000004191	COQ9	S. cerevisiae	least diverged orthologue
+ENSG00000088682	COQ9	H. sapiens	S000004191	COQ9	S. cerevisiae	orthologue
+ENSG00000088832	FKBP1A	H. sapiens	S000005079	FPR1	S. cerevisiae	homologue
+ENSG00000088832	FKBP1A	H. sapiens	S000005079	FPR1	S. cerevisiae	orthologue
+ENSG00000089157	RPLP0	H. sapiens	S000004332	RPP0	S. cerevisiae	homologue
+ENSG00000089157	RPLP0	H. sapiens	S000004332	RPP0	S. cerevisiae	orthologue
+ENSG00000089157	RPLP0	H. sapiens	S000004332	RPP0	S. cerevisiae	orthologue
+ENSG00000089157	RPLP0	H. sapiens	S000004332	RPP0	S. cerevisiae	orthologue
+ENSG00000089195	TRMT6	H. sapiens	S000005006	GCD10	S. cerevisiae	homologue
+ENSG00000089195	TRMT6	H. sapiens	S000005006	GCD10	S. cerevisiae	least diverged orthologue
+ENSG00000089195	TRMT6	H. sapiens	S000005006	GCD10	S. cerevisiae	orthologue
+ENSG00000090054	SPTLC1	H. sapiens	S000004911	LCB1	S. cerevisiae	homologue
+ENSG00000090054	SPTLC1	H. sapiens	S000004911	LCB1	S. cerevisiae	least diverged orthologue
+ENSG00000090054	SPTLC1	H. sapiens	S000004911	LCB1	S. cerevisiae	orthologue
+ENSG00000090054	SPTLC1	H. sapiens	S000004911	LCB1	S. cerevisiae	orthologue
+ENSG00000090520	DNAJB11	H. sapiens	S000005008	YDJ1	S. cerevisiae	homologue
+ENSG00000090661	CERS4	H. sapiens	S000000995	LAG1	S. cerevisiae	orthologue
+ENSG00000090661	CERS4	H. sapiens	S000000995	LAG1	S. cerevisiae	orthologue
+ENSG00000090661	CERS4	H. sapiens	S000001491	LAC1	S. cerevisiae	orthologue
+ENSG00000090661	CERS4	H. sapiens	S000001491	LAC1	S. cerevisiae	orthologue
+ENSG00000090861	AARS	H. sapiens	S000004985	""	S. cerevisiae	horizontal gene transfer
+ENSG00000090861	AARS	H. sapiens	S000005862	ALA1	S. cerevisiae	homologue
+ENSG00000090861	AARS	H. sapiens	S000005862	ALA1	S. cerevisiae	least diverged orthologue
+ENSG00000090861	AARS	H. sapiens	S000005862	ALA1	S. cerevisiae	orthologue
+ENSG00000090861	AARS	H. sapiens	S000005862	ALA1	S. cerevisiae	orthologue
+ENSG00000091140	DLD	H. sapiens	S000001148	TRR2	S. cerevisiae	horizontal gene transfer
+ENSG00000091140	DLD	H. sapiens	S000001876	LPD1	S. cerevisiae	homologue
+ENSG00000091140	DLD	H. sapiens	S000001876	LPD1	S. cerevisiae	least diverged orthologue
+ENSG00000091140	DLD	H. sapiens	S000001876	LPD1	S. cerevisiae	orthologue
+ENSG00000091140	DLD	H. sapiens	S000001876	LPD1	S. cerevisiae	orthologue
+ENSG00000091140	DLD	H. sapiens	S000002761	TRR1	S. cerevisiae	horizontal gene transfer
+ENSG00000091140	DLD	H. sapiens	S000005938	IRC15	S. cerevisiae	orthologue
+ENSG00000091140	DLD	H. sapiens	S000006012	GLR1	S. cerevisiae	horizontal gene transfer
+ENSG00000092094	OSGEP	H. sapiens	S000001746	KAE1	S. cerevisiae	homologue
+ENSG00000092094	OSGEP	H. sapiens	S000001746	KAE1	S. cerevisiae	least diverged orthologue
+ENSG00000092094	OSGEP	H. sapiens	S000001746	KAE1	S. cerevisiae	orthologue
+ENSG00000092094	OSGEP	H. sapiens	S000001746	KAE1	S. cerevisiae	orthologue
+ENSG00000095059	DHPS	H. sapiens	S000001110	DYS1	S. cerevisiae	homologue
+ENSG00000095059	DHPS	H. sapiens	S000001110	DYS1	S. cerevisiae	least diverged orthologue
+ENSG00000095059	DHPS	H. sapiens	S000001110	DYS1	S. cerevisiae	orthologue
+ENSG00000095059	DHPS	H. sapiens	S000001110	DYS1	S. cerevisiae	orthologue
+ENSG00000096063	SRPK1	H. sapiens	S000004829	SKY1	S. cerevisiae	homologue
+ENSG00000096063	SRPK1	H. sapiens	S000004829	SKY1	S. cerevisiae	least diverged orthologue
+ENSG00000096063	SRPK1	H. sapiens	S000004829	SKY1	S. cerevisiae	orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000004798	HSC82	S. cerevisiae	least diverged orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000004798	HSC82	S. cerevisiae	orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000004798	HSC82	S. cerevisiae	orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000006161	HSP82	S. cerevisiae	homologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000006161	HSP82	S. cerevisiae	least diverged orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000006161	HSP82	S. cerevisiae	orthologue
+ENSG00000096384	HSP90AB1	H. sapiens	S000006161	HSP82	S. cerevisiae	orthologue
+ENSG00000096717	SIRT1	H. sapiens	S000002200	SIR2	S. cerevisiae	homologue
+ENSG00000096717	SIRT1	H. sapiens	S000002200	SIR2	S. cerevisiae	least diverged orthologue
+ENSG00000096717	SIRT1	H. sapiens	S000005429	HST1	S. cerevisiae	homologue
+ENSG00000096717	SIRT1	H. sapiens	S000005429	HST1	S. cerevisiae	least diverged orthologue
+ENSG00000097046	CDC7	H. sapiens	S000002175	CDC7	S. cerevisiae	homologue
+ENSG00000097046	CDC7	H. sapiens	S000002175	CDC7	S. cerevisiae	least diverged orthologue
+ENSG00000097046	CDC7	H. sapiens	S000002175	CDC7	S. cerevisiae	orthologue
+ENSG00000099797	TECR	H. sapiens	S000002173	TSC13	S. cerevisiae	homologue
+ENSG00000099797	TECR	H. sapiens	S000002173	TSC13	S. cerevisiae	orthologue
+ENSG00000099797	TECR	H. sapiens	S000002173	TSC13	S. cerevisiae	orthologue
+ENSG00000099797	TECR	H. sapiens	S000002173	TSC13	S. cerevisiae	orthologue
+ENSG00000099800	TIMM13	H. sapiens	S000003413	TIM13	S. cerevisiae	homologue
+ENSG00000099800	TIMM13	H. sapiens	S000003413	TIM13	S. cerevisiae	least diverged orthologue
+ENSG00000099800	TIMM13	H. sapiens	S000003413	TIM13	S. cerevisiae	orthologue
+ENSG00000099804	CDC34	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000099804	CDC34	H. sapiens	S000004624	UBC7	S. cerevisiae	homologue
+ENSG00000099817	POLR2E	H. sapiens	S000000358	RPB5	S. cerevisiae	homologue
+ENSG00000099817	POLR2E	H. sapiens	S000000358	RPB5	S. cerevisiae	least diverged orthologue
+ENSG00000099817	POLR2E	H. sapiens	S000000358	RPB5	S. cerevisiae	orthologue
+ENSG00000099817	POLR2E	H. sapiens	S000000358	RPB5	S. cerevisiae	orthologue
+ENSG00000099904	ZDHHC8	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000100138	SNU13	H. sapiens	S000000752	SNU13	S. cerevisiae	homologue
+ENSG00000100138	SNU13	H. sapiens	S000000752	SNU13	S. cerevisiae	least diverged orthologue
+ENSG00000100138	SNU13	H. sapiens	S000000752	SNU13	S. cerevisiae	orthologue
+ENSG00000100138	SNU13	H. sapiens	S000000752	SNU13	S. cerevisiae	orthologue
+ENSG00000100142	POLR2F	H. sapiens	S000006391	RPO26	S. cerevisiae	homologue
+ENSG00000100142	POLR2F	H. sapiens	S000006391	RPO26	S. cerevisiae	least diverged orthologue
+ENSG00000100142	POLR2F	H. sapiens	S000006391	RPO26	S. cerevisiae	orthologue
+ENSG00000100150	DEPDC5	H. sapiens	S000003899	IML1	S. cerevisiae	homologue
+ENSG00000100150	DEPDC5	H. sapiens	S000003899	IML1	S. cerevisiae	least diverged orthologue
+ENSG00000100150	DEPDC5	H. sapiens	S000003899	IML1	S. cerevisiae	orthologue
+ENSG00000100209	HSCB	H. sapiens	S000002986	JAC1	S. cerevisiae	homologue
+ENSG00000100209	HSCB	H. sapiens	S000002986	JAC1	S. cerevisiae	least diverged orthologue
+ENSG00000100209	HSCB	H. sapiens	S000002986	JAC1	S. cerevisiae	orthologue
+ENSG00000100401	RANGAP1	H. sapiens	S000004848	RNA1	S. cerevisiae	homologue
+ENSG00000100401	RANGAP1	H. sapiens	S000004848	RNA1	S. cerevisiae	least diverged orthologue
+ENSG00000100401	RANGAP1	H. sapiens	S000004848	RNA1	S. cerevisiae	orthologue
+ENSG00000100412	ACO2	H. sapiens	S000002977	LEU1	S. cerevisiae	horizontal gene transfer
+ENSG00000100412	ACO2	H. sapiens	S000003736	ACO2	S. cerevisiae	homologue
+ENSG00000100412	ACO2	H. sapiens	S000004295	ACO1	S. cerevisiae	least diverged orthologue
+ENSG00000100412	ACO2	H. sapiens	S000004295	ACO1	S. cerevisiae	orthologue
+ENSG00000100412	ACO2	H. sapiens	S000004295	ACO1	S. cerevisiae	orthologue
+ENSG00000100416	TRMU	H. sapiens	S000002191	SLM3	S. cerevisiae	homologue
+ENSG00000100416	TRMU	H. sapiens	S000002191	SLM3	S. cerevisiae	least diverged orthologue
+ENSG00000100416	TRMU	H. sapiens	S000002191	SLM3	S. cerevisiae	orthologue
+ENSG00000100416	TRMU	H. sapiens	S000002191	SLM3	S. cerevisiae	orthologue
+ENSG00000100462	PRMT5	H. sapiens	S000000337	HSL7	S. cerevisiae	homologue
+ENSG00000100462	PRMT5	H. sapiens	S000000337	HSL7	S. cerevisiae	least diverged orthologue
+ENSG00000100462	PRMT5	H. sapiens	S000000337	HSL7	S. cerevisiae	orthologue
+ENSG00000100519	PSMC6	H. sapiens	S000005785	RPT4	S. cerevisiae	homologue
+ENSG00000100519	PSMC6	H. sapiens	S000005785	RPT4	S. cerevisiae	least diverged orthologue
+ENSG00000100519	PSMC6	H. sapiens	S000005785	RPT4	S. cerevisiae	orthologue
+ENSG00000100519	PSMC6	H. sapiens	S000005785	RPT4	S. cerevisiae	orthologue
+ENSG00000100522	GNPNAT1	H. sapiens	S000001877	GNA1	S. cerevisiae	homologue
+ENSG00000100522	GNPNAT1	H. sapiens	S000001877	GNA1	S. cerevisiae	least diverged orthologue
+ENSG00000100522	GNPNAT1	H. sapiens	S000001877	GNA1	S. cerevisiae	orthologue
+ENSG00000100522	GNPNAT1	H. sapiens	S000001877	GNA1	S. cerevisiae	orthologue
+ENSG00000100567	PSMA3	H. sapiens	S000005889	PRE10	S. cerevisiae	homologue
+ENSG00000100567	PSMA3	H. sapiens	S000005889	PRE10	S. cerevisiae	least diverged orthologue
+ENSG00000100567	PSMA3	H. sapiens	S000005889	PRE10	S. cerevisiae	orthologue
+ENSG00000100567	PSMA3	H. sapiens	S000005889	PRE10	S. cerevisiae	orthologue
+ENSG00000100603	SNW1	H. sapiens	S000000030	PRP45	S. cerevisiae	homologue
+ENSG00000100603	SNW1	H. sapiens	S000000030	PRP45	S. cerevisiae	least diverged orthologue
+ENSG00000100664	EIF5	H. sapiens	S000006245	TIF5	S. cerevisiae	homologue
+ENSG00000100664	EIF5	H. sapiens	S000006245	TIF5	S. cerevisiae	least diverged orthologue
+ENSG00000100664	EIF5	H. sapiens	S000006245	TIF5	S. cerevisiae	orthologue
+ENSG00000100664	EIF5	H. sapiens	S000006245	TIF5	S. cerevisiae	orthologue
+ENSG00000100764	PSMC1	H. sapiens	S000002165	RPT2	S. cerevisiae	homologue
+ENSG00000100764	PSMC1	H. sapiens	S000002165	RPT2	S. cerevisiae	least diverged orthologue
+ENSG00000100764	PSMC1	H. sapiens	S000002165	RPT2	S. cerevisiae	orthologue
+ENSG00000100902	PSMA6	H. sapiens	S000002979	SCL1	S. cerevisiae	homologue
+ENSG00000100902	PSMA6	H. sapiens	S000002979	SCL1	S. cerevisiae	least diverged orthologue
+ENSG00000100902	PSMA6	H. sapiens	S000002979	SCL1	S. cerevisiae	orthologue
+ENSG00000100902	PSMA6	H. sapiens	S000002979	SCL1	S. cerevisiae	orthologue
+ENSG00000100983	GSS	H. sapiens	S000005409	GSH2	S. cerevisiae	homologue
+ENSG00000100983	GSS	H. sapiens	S000005409	GSH2	S. cerevisiae	least diverged orthologue
+ENSG00000100983	GSS	H. sapiens	S000005409	GSH2	S. cerevisiae	orthologue
+ENSG00000100983	GSS	H. sapiens	S000005409	GSH2	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000000687	KIN82	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000001248	SCH9	S. cerevisiae	homologue
+ENSG00000101049	SGK2	H. sapiens	S000001248	SCH9	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000001609	YPK1	S. cerevisiae	homologue
+ENSG00000101049	SGK2	H. sapiens	S000001609	YPK1	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000001609	YPK1	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000004710	YPK2	S. cerevisiae	homologue
+ENSG00000101049	SGK2	H. sapiens	S000004710	YPK2	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000004710	YPK2	S. cerevisiae	orthologue
+ENSG00000101049	SGK2	H. sapiens	S000005330	FPK1	S. cerevisiae	orthologue
+ENSG00000101290	CDS2	H. sapiens	S000000233	CDS1	S. cerevisiae	homologue
+ENSG00000101290	CDS2	H. sapiens	S000000233	CDS1	S. cerevisiae	least diverged orthologue
+ENSG00000101290	CDS2	H. sapiens	S000000233	CDS1	S. cerevisiae	orthologue
+ENSG00000101407	TTI1	H. sapiens	S000001516	TTI1	S. cerevisiae	least diverged orthologue
+ENSG00000101558	VAPA	H. sapiens	S000000922	SCS2	S. cerevisiae	homologue
+ENSG00000101558	VAPA	H. sapiens	S000000922	SCS2	S. cerevisiae	orthologue
+ENSG00000101558	VAPA	H. sapiens	S000000922	SCS2	S. cerevisiae	orthologue
+ENSG00000101558	VAPA	H. sapiens	S000007228	SCS22	S. cerevisiae	homologue
+ENSG00000101558	VAPA	H. sapiens	S000007228	SCS22	S. cerevisiae	orthologue
+ENSG00000101558	VAPA	H. sapiens	S000007228	SCS22	S. cerevisiae	orthologue
+ENSG00000101577	LPIN2	H. sapiens	S000001012	OPI1	S. cerevisiae	orthologue
+ENSG00000101577	LPIN2	H. sapiens	S000004775	PAH1	S. cerevisiae	homologue
+ENSG00000101577	LPIN2	H. sapiens	S000004775	PAH1	S. cerevisiae	orthologue
+ENSG00000101577	LPIN2	H. sapiens	S000004775	PAH1	S. cerevisiae	orthologue
+ENSG00000101901	ALG13	H. sapiens	S000003015	ALG13	S. cerevisiae	least diverged orthologue
+ENSG00000101986	ABCD1	H. sapiens	S000001671	PXA2	S. cerevisiae	orthologue
+ENSG00000101986	ABCD1	H. sapiens	S000001671	PXA2	S. cerevisiae	orthologue
+ENSG00000101986	ABCD1	H. sapiens	S000006068	PXA1	S. cerevisiae	homologue
+ENSG00000101986	ABCD1	H. sapiens	S000006068	PXA1	S. cerevisiae	orthologue
+ENSG00000101986	ABCD1	H. sapiens	S000006068	PXA1	S. cerevisiae	orthologue
+ENSG00000102024	PLS3	H. sapiens	S000002536	SAC6	S. cerevisiae	homologue
+ENSG00000102024	PLS3	H. sapiens	S000002536	SAC6	S. cerevisiae	orthologue
+ENSG00000102125	TAZ	H. sapiens	S000006344	TAZ1	S. cerevisiae	least diverged orthologue
+ENSG00000102125	TAZ	H. sapiens	S000006344	TAZ1	S. cerevisiae	orthologue
+ENSG00000102125	TAZ	H. sapiens	S000006344	TAZ1	S. cerevisiae	orthologue
+ENSG00000102158	MAGT1	H. sapiens	S000004481	OST6	S. cerevisiae	orthologue
+ENSG00000102158	MAGT1	H. sapiens	S000004481	OST6	S. cerevisiae	orthologue
+ENSG00000102158	MAGT1	H. sapiens	S000005611	OST3	S. cerevisiae	homologue
+ENSG00000102158	MAGT1	H. sapiens	S000005611	OST3	S. cerevisiae	orthologue
+ENSG00000102158	MAGT1	H. sapiens	S000005611	OST3	S. cerevisiae	orthologue
+ENSG00000102383	ZDHHC15	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000102383	ZDHHC15	H. sapiens	S000005270	PFA3	S. cerevisiae	orthologue
+ENSG00000102383	ZDHHC15	H. sapiens	S000005363	PFA4	S. cerevisiae	orthologue
+ENSG00000102547	CAB39L	H. sapiens	S000001672	HYM1	S. cerevisiae	homologue
+ENSG00000102547	CAB39L	H. sapiens	S000001672	HYM1	S. cerevisiae	least diverged orthologue
+ENSG00000102547	CAB39L	H. sapiens	S000001672	HYM1	S. cerevisiae	orthologue
+ENSG00000102580	DNAJC3	H. sapiens	S000004952	SIS1	S. cerevisiae	homologue
+ENSG00000102967	DHODH	H. sapiens	S000001699	URA1	S. cerevisiae	homologue
+ENSG00000102967	DHODH	H. sapiens	S000001699	URA1	S. cerevisiae	horizontal gene transfer
+ENSG00000103035	PSMD7	H. sapiens	S000005787	RPN8	S. cerevisiae	homologue
+ENSG00000103035	PSMD7	H. sapiens	S000005787	RPN8	S. cerevisiae	least diverged orthologue
+ENSG00000103035	PSMD7	H. sapiens	S000005787	RPN8	S. cerevisiae	orthologue
+ENSG00000103035	PSMD7	H. sapiens	S000005787	RPN8	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000001027	VMR1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000001692	STE6	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000002542	YCF1	S. cerevisiae	homologue
+ENSG00000103222	ABCC1	H. sapiens	S000002542	YCF1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000002542	YCF1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000003513	YOR1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000003938	BPT1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000003938	BPT1	S. cerevisiae	orthologue
+ENSG00000103222	ABCC1	H. sapiens	S000003971	YBT1	S. cerevisiae	orthologue
+ENSG00000103275	UBE2I	H. sapiens	S000002222	UBC9	S. cerevisiae	homologue
+ENSG00000103275	UBE2I	H. sapiens	S000002222	UBC9	S. cerevisiae	least diverged orthologue
+ENSG00000103275	UBE2I	H. sapiens	S000002222	UBC9	S. cerevisiae	orthologue
+ENSG00000103275	UBE2I	H. sapiens	S000002222	UBC9	S. cerevisiae	orthologue
+ENSG00000103275	UBE2I	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000103502	CDIPT	H. sapiens	S000006317	PIS1	S. cerevisiae	homologue
+ENSG00000103502	CDIPT	H. sapiens	S000006317	PIS1	S. cerevisiae	least diverged orthologue
+ENSG00000103502	CDIPT	H. sapiens	S000006317	PIS1	S. cerevisiae	orthologue
+ENSG00000103502	CDIPT	H. sapiens	S000006317	PIS1	S. cerevisiae	orthologue
+ENSG00000104131	EIF3J	H. sapiens	S000004182	HCR1	S. cerevisiae	least diverged orthologue
+ENSG00000104131	EIF3J	H. sapiens	S000004182	HCR1	S. cerevisiae	orthologue
+ENSG00000104549	SQLE	H. sapiens	S000003407	ERG1	S. cerevisiae	homologue
+ENSG00000104549	SQLE	H. sapiens	S000003407	ERG1	S. cerevisiae	least diverged orthologue
+ENSG00000104549	SQLE	H. sapiens	S000003407	ERG1	S. cerevisiae	orthologue
+ENSG00000104549	SQLE	H. sapiens	S000003407	ERG1	S. cerevisiae	orthologue
+ENSG00000104723	TUSC3	H. sapiens	S000004481	OST6	S. cerevisiae	orthologue
+ENSG00000104723	TUSC3	H. sapiens	S000004481	OST6	S. cerevisiae	orthologue
+ENSG00000104723	TUSC3	H. sapiens	S000005611	OST3	S. cerevisiae	homologue
+ENSG00000104723	TUSC3	H. sapiens	S000005611	OST3	S. cerevisiae	least diverged orthologue
+ENSG00000104723	TUSC3	H. sapiens	S000005611	OST3	S. cerevisiae	orthologue
+ENSG00000104723	TUSC3	H. sapiens	S000005611	OST3	S. cerevisiae	orthologue
+ENSG00000104852	SNRNP70	H. sapiens	S000001323	SNP1	S. cerevisiae	homologue
+ENSG00000104852	SNRNP70	H. sapiens	S000001323	SNP1	S. cerevisiae	least diverged orthologue
+ENSG00000104884	ERCC2	H. sapiens	S000000973	RAD3	S. cerevisiae	homologue
+ENSG00000104884	ERCC2	H. sapiens	S000000973	RAD3	S. cerevisiae	least diverged orthologue
+ENSG00000104884	ERCC2	H. sapiens	S000000973	RAD3	S. cerevisiae	orthologue
+ENSG00000104884	ERCC2	H. sapiens	S000000973	RAD3	S. cerevisiae	orthologue
+ENSG00000105011	ASF1B	H. sapiens	S000003651	ASF1	S. cerevisiae	homologue
+ENSG00000105011	ASF1B	H. sapiens	S000003651	ASF1	S. cerevisiae	orthologue
+ENSG00000105011	ASF1B	H. sapiens	S000003651	ASF1	S. cerevisiae	orthologue
+ENSG00000105171	POP4	H. sapiens	S000000461	POP4	S. cerevisiae	homologue
+ENSG00000105171	POP4	H. sapiens	S000000461	POP4	S. cerevisiae	least diverged orthologue
+ENSG00000105171	POP4	H. sapiens	S000000461	POP4	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000000038	CLN3	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000002314	CLB3	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000003340	CLB1	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000003340	CLB1	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000003341	CLB6	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000003341	CLB6	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000004200	CLB4	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000004200	CLB4	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000004812	CLN1	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000006177	CLN2	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000006323	CLB2	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000006323	CLB2	S. cerevisiae	orthologue
+ENSG00000105173	CCNE1	H. sapiens	S000006324	CLB5	S. cerevisiae	homologue
+ENSG00000105173	CCNE1	H. sapiens	S000006324	CLB5	S. cerevisiae	orthologue
+ENSG00000105202	FBL	H. sapiens	S000002172	NOP1	S. cerevisiae	homologue
+ENSG00000105202	FBL	H. sapiens	S000002172	NOP1	S. cerevisiae	least diverged orthologue
+ENSG00000105202	FBL	H. sapiens	S000002172	NOP1	S. cerevisiae	orthologue
+ENSG00000105202	FBL	H. sapiens	S000002172	NOP1	S. cerevisiae	orthologue
+ENSG00000105258	POLR2I	H. sapiens	S000003038	RPB9	S. cerevisiae	homologue
+ENSG00000105258	POLR2I	H. sapiens	S000003038	RPB9	S. cerevisiae	least diverged orthologue
+ENSG00000105258	POLR2I	H. sapiens	S000003038	RPB9	S. cerevisiae	orthologue
+ENSG00000105258	POLR2I	H. sapiens	S000003038	RPB9	S. cerevisiae	orthologue
+ENSG00000105486	LIG1	H. sapiens	S000002323	CDC9	S. cerevisiae	homologue
+ENSG00000105486	LIG1	H. sapiens	S000002323	CDC9	S. cerevisiae	least diverged orthologue
+ENSG00000105486	LIG1	H. sapiens	S000002323	CDC9	S. cerevisiae	orthologue
+ENSG00000105486	LIG1	H. sapiens	S000002323	CDC9	S. cerevisiae	orthologue
+ENSG00000105821	DNAJC2	H. sapiens	S000003517	ZUO1	S. cerevisiae	homologue
+ENSG00000105821	DNAJC2	H. sapiens	S000003517	ZUO1	S. cerevisiae	least diverged orthologue
+ENSG00000105821	DNAJC2	H. sapiens	S000003517	ZUO1	S. cerevisiae	orthologue
+ENSG00000105821	DNAJC2	H. sapiens	S000003517	ZUO1	S. cerevisiae	orthologue
+ENSG00000105929	ATP6V0A4	H. sapiens	S000004658	STV1	S. cerevisiae	homologue
+ENSG00000105929	ATP6V0A4	H. sapiens	S000005796	VPH1	S. cerevisiae	homologue
+ENSG00000106105	GARS	H. sapiens	S000000325	GRS1	S. cerevisiae	homologue
+ENSG00000106105	GARS	H. sapiens	S000000325	GRS1	S. cerevisiae	least diverged orthologue
+ENSG00000106105	GARS	H. sapiens	S000000325	GRS1	S. cerevisiae	orthologue
+ENSG00000106105	GARS	H. sapiens	S000000325	GRS1	S. cerevisiae	orthologue
+ENSG00000106105	GARS	H. sapiens	S000006285	GRS2	S. cerevisiae	orthologue
+ENSG00000106105	GARS	H. sapiens	S000006285	GRS2	S. cerevisiae	orthologue
+ENSG00000106344	RBM28	H. sapiens	S000005964	NOP4	S. cerevisiae	homologue
+ENSG00000106344	RBM28	H. sapiens	S000005964	NOP4	S. cerevisiae	orthologue
+ENSG00000106355	LSM5	H. sapiens	S000000948	LSM5	S. cerevisiae	homologue
+ENSG00000106355	LSM5	H. sapiens	S000000948	LSM5	S. cerevisiae	least diverged orthologue
+ENSG00000106355	LSM5	H. sapiens	S000000948	LSM5	S. cerevisiae	orthologue
+ENSG00000106628	POLD2	H. sapiens	S000003766	POL31	S. cerevisiae	homologue
+ENSG00000106628	POLD2	H. sapiens	S000003766	POL31	S. cerevisiae	least diverged orthologue
+ENSG00000106628	POLD2	H. sapiens	S000003766	POL31	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000000545	GLK1	S. cerevisiae	homologue
+ENSG00000106633	GCK	H. sapiens	S000000545	GLK1	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000000545	GLK1	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000001949	HXK1	S. cerevisiae	homologue
+ENSG00000106633	GCK	H. sapiens	S000001949	HXK1	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000001949	HXK1	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000002924	EMI2	S. cerevisiae	homologue
+ENSG00000106633	GCK	H. sapiens	S000002924	EMI2	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000002924	EMI2	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000003222	HXK2	S. cerevisiae	homologue
+ENSG00000106633	GCK	H. sapiens	S000003222	HXK2	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000003222	HXK2	S. cerevisiae	orthologue
+ENSG00000106633	GCK	H. sapiens	S000004438	""	S. cerevisiae	orthologue
+ENSG00000106636	YKT6	H. sapiens	S000001679	YKT6	S. cerevisiae	homologue
+ENSG00000106636	YKT6	H. sapiens	S000001679	YKT6	S. cerevisiae	least diverged orthologue
+ENSG00000106636	YKT6	H. sapiens	S000001679	YKT6	S. cerevisiae	orthologue
+ENSG00000106636	YKT6	H. sapiens	S000001679	YKT6	S. cerevisiae	orthologue
+ENSG00000106992	AK1	H. sapiens	S000001507	URA6	S. cerevisiae	homologue
+ENSG00000107130	NCS1	H. sapiens	S000002781	FRQ1	S. cerevisiae	homologue
+ENSG00000107130	NCS1	H. sapiens	S000002781	FRQ1	S. cerevisiae	least diverged orthologue
+ENSG00000107130	NCS1	H. sapiens	S000002781	FRQ1	S. cerevisiae	orthologue
+ENSG00000107130	NCS1	H. sapiens	S000002781	FRQ1	S. cerevisiae	orthologue
+ENSG00000107242	PIP5K1B	H. sapiens	S000002616	MSS4	S. cerevisiae	homologue
+ENSG00000107242	PIP5K1B	H. sapiens	S000002616	MSS4	S. cerevisiae	orthologue
+ENSG00000107242	PIP5K1B	H. sapiens	S000002616	MSS4	S. cerevisiae	orthologue
+ENSG00000107341	UBE2R2	H. sapiens	S000002461	CDC34	S. cerevisiae	orthologue
+ENSG00000107341	UBE2R2	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000107341	UBE2R2	H. sapiens	S000004624	UBC7	S. cerevisiae	homologue
+ENSG00000108064	TFAM	H. sapiens	S000001515	IXR1	S. cerevisiae	orthologue
+ENSG00000108064	TFAM	H. sapiens	S000002157	NHP6B	S. cerevisiae	orthologue
+ENSG00000108064	TFAM	H. sapiens	S000002581	HMO1	S. cerevisiae	orthologue
+ENSG00000108064	TFAM	H. sapiens	S000006256	NHP6A	S. cerevisiae	orthologue
+ENSG00000108344	PSMD3	H. sapiens	S000000823	RPN3	S. cerevisiae	homologue
+ENSG00000108344	PSMD3	H. sapiens	S000000823	RPN3	S. cerevisiae	least diverged orthologue
+ENSG00000108344	PSMD3	H. sapiens	S000000823	RPN3	S. cerevisiae	orthologue
+ENSG00000108344	PSMD3	H. sapiens	S000000823	RPN3	S. cerevisiae	orthologue
+ENSG00000108474	PIGL	H. sapiens	S000004894	GPI12	S. cerevisiae	homologue
+ENSG00000108474	PIGL	H. sapiens	S000004894	GPI12	S. cerevisiae	least diverged orthologue
+ENSG00000108474	PIGL	H. sapiens	S000004894	GPI12	S. cerevisiae	orthologue
+ENSG00000108474	PIGL	H. sapiens	S000004894	GPI12	S. cerevisiae	orthologue
+ENSG00000108671	PSMD11	H. sapiens	S000002255	RPN6	S. cerevisiae	homologue
+ENSG00000108671	PSMD11	H. sapiens	S000002255	RPN6	S. cerevisiae	least diverged orthologue
+ENSG00000108671	PSMD11	H. sapiens	S000002255	RPN6	S. cerevisiae	orthologue
+ENSG00000108671	PSMD11	H. sapiens	S000002255	RPN6	S. cerevisiae	orthologue
+ENSG00000108961	RANGRF	H. sapiens	S000003835	MOG1	S. cerevisiae	homologue
+ENSG00000108961	RANGRF	H. sapiens	S000003835	MOG1	S. cerevisiae	least diverged orthologue
+ENSG00000108961	RANGRF	H. sapiens	S000003835	MOG1	S. cerevisiae	orthologue
+ENSG00000109572	CLCN3	H. sapiens	S000003801	GEF1	S. cerevisiae	homologue
+ENSG00000109572	CLCN3	H. sapiens	S000003801	GEF1	S. cerevisiae	orthologue
+ENSG00000109572	CLCN3	H. sapiens	S000003801	GEF1	S. cerevisiae	orthologue
+ENSG00000109606	DHX15	H. sapiens	S000000815	PRP22	S. cerevisiae	homologue
+ENSG00000109606	DHX15	H. sapiens	S000003088	PRP43	S. cerevisiae	least diverged orthologue
+ENSG00000109606	DHX15	H. sapiens	S000003088	PRP43	S. cerevisiae	orthologue
+ENSG00000109606	DHX15	H. sapiens	S000003088	PRP43	S. cerevisiae	orthologue
+ENSG00000110092	CCND1	H. sapiens	S000002314	CLB3	S. cerevisiae	homologue
+ENSG00000110092	CCND1	H. sapiens	S000003340	CLB1	S. cerevisiae	homologue
+ENSG00000110092	CCND1	H. sapiens	S000003341	CLB6	S. cerevisiae	homologue
+ENSG00000110092	CCND1	H. sapiens	S000004200	CLB4	S. cerevisiae	homologue
+ENSG00000110092	CCND1	H. sapiens	S000006323	CLB2	S. cerevisiae	homologue
+ENSG00000110092	CCND1	H. sapiens	S000006324	CLB5	S. cerevisiae	homologue
+ENSG00000110107	PRPF19	H. sapiens	S000000402	TAF5	S. cerevisiae	homologue
+ENSG00000110619	CARS	H. sapiens	S000005191	CRS1	S. cerevisiae	homologue
+ENSG00000110619	CARS	H. sapiens	S000005191	CRS1	S. cerevisiae	least diverged orthologue
+ENSG00000110619	CARS	H. sapiens	S000005191	CRS1	S. cerevisiae	orthologue
+ENSG00000110619	CARS	H. sapiens	S000005191	CRS1	S. cerevisiae	orthologue
+ENSG00000110700	RPS13	H. sapiens	S000002471	RPS13	S. cerevisiae	homologue
+ENSG00000110700	RPS13	H. sapiens	S000002471	RPS13	S. cerevisiae	orthologue
+ENSG00000110700	RPS13	H. sapiens	S000002471	RPS13	S. cerevisiae	orthologue
+ENSG00000110700	RPS13	H. sapiens	S000002471	RPS13	S. cerevisiae	orthologue
+ENSG00000110871	COQ5	H. sapiens	S000004578	COQ5	S. cerevisiae	homologue
+ENSG00000110871	COQ5	H. sapiens	S000004578	COQ5	S. cerevisiae	orthologue
+ENSG00000110871	COQ5	H. sapiens	S000004578	COQ5	S. cerevisiae	orthologue
+ENSG00000110871	COQ5	H. sapiens	S000005456	COQ3	S. cerevisiae	horizontal gene transfer
+ENSG00000110921	MVK	H. sapiens	S000004821	ERG12	S. cerevisiae	homologue
+ENSG00000110921	MVK	H. sapiens	S000004821	ERG12	S. cerevisiae	least diverged orthologue
+ENSG00000110921	MVK	H. sapiens	S000004821	ERG12	S. cerevisiae	orthologue
+ENSG00000110921	MVK	H. sapiens	S000004821	ERG12	S. cerevisiae	orthologue
+ENSG00000110958	PTGES3	H. sapiens	S000001600	SBA1	S. cerevisiae	least diverged orthologue
+ENSG00000110958	PTGES3	H. sapiens	S000001600	SBA1	S. cerevisiae	orthologue
+ENSG00000110958	PTGES3	H. sapiens	S000004985	""	S. cerevisiae	homologue
+ENSG00000111275	ALDH2	H. sapiens	S000000875	ALD5	S. cerevisiae	homologue
+ENSG00000111275	ALDH2	H. sapiens	S000000875	ALD5	S. cerevisiae	least diverged orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000000875	ALD5	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000000875	ALD5	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000004779	ALD3	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000004779	ALD3	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000004780	ALD2	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000004780	ALD2	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000005901	ALD4	S. cerevisiae	homologue
+ENSG00000111275	ALDH2	H. sapiens	S000005901	ALD4	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000005901	ALD4	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000005982	ALD6	S. cerevisiae	homologue
+ENSG00000111275	ALDH2	H. sapiens	S000005982	ALD6	S. cerevisiae	orthologue
+ENSG00000111275	ALDH2	H. sapiens	S000005982	ALD6	S. cerevisiae	orthologue
+ENSG00000111445	RFC5	H. sapiens	S000003829	RFC2	S. cerevisiae	orthologue
+ENSG00000111445	RFC5	H. sapiens	S000005234	RFC3	S. cerevisiae	homologue
+ENSG00000111445	RFC5	H. sapiens	S000005234	RFC3	S. cerevisiae	least diverged orthologue
+ENSG00000111445	RFC5	H. sapiens	S000005234	RFC3	S. cerevisiae	orthologue
+ENSG00000111445	RFC5	H. sapiens	S000005234	RFC3	S. cerevisiae	orthologue
+ENSG00000111641	NOP2	H. sapiens	S000005005	NOP2	S. cerevisiae	homologue
+ENSG00000111641	NOP2	H. sapiens	S000005005	NOP2	S. cerevisiae	least diverged orthologue
+ENSG00000111641	NOP2	H. sapiens	S000005005	NOP2	S. cerevisiae	orthologue
+ENSG00000111669	TPI1	H. sapiens	S000002457	TPI1	S. cerevisiae	homologue
+ENSG00000111669	TPI1	H. sapiens	S000002457	TPI1	S. cerevisiae	least diverged orthologue
+ENSG00000111669	TPI1	H. sapiens	S000002457	TPI1	S. cerevisiae	orthologue
+ENSG00000111669	TPI1	H. sapiens	S000002457	TPI1	S. cerevisiae	orthologue
+ENSG00000111875	ASF1A	H. sapiens	S000003651	ASF1	S. cerevisiae	homologue
+ENSG00000111875	ASF1A	H. sapiens	S000003651	ASF1	S. cerevisiae	least diverged orthologue
+ENSG00000111875	ASF1A	H. sapiens	S000003651	ASF1	S. cerevisiae	orthologue
+ENSG00000111875	ASF1A	H. sapiens	S000003651	ASF1	S. cerevisiae	orthologue
+ENSG00000111880	RNGTT	H. sapiens	S000003098	CEG1	S. cerevisiae	least diverged orthologue
+ENSG00000112096	SOD2	H. sapiens	S000001050	SOD2	S. cerevisiae	orthologue
+ENSG00000112096	SOD2	H. sapiens	S000001050	SOD2	S. cerevisiae	orthologue
+ENSG00000112186	CAP2	H. sapiens	S000005082	SRV2	S. cerevisiae	homologue
+ENSG00000112186	CAP2	H. sapiens	S000005082	SRV2	S. cerevisiae	orthologue
+ENSG00000112186	CAP2	H. sapiens	S000005082	SRV2	S. cerevisiae	orthologue
+ENSG00000112237	CCNC	H. sapiens	S000004970	SSN8	S. cerevisiae	homologue
+ENSG00000112237	CCNC	H. sapiens	S000004970	SSN8	S. cerevisiae	least diverged orthologue
+ENSG00000112237	CCNC	H. sapiens	S000004970	SSN8	S. cerevisiae	orthologue
+ENSG00000112578	BYSL	H. sapiens	S000000451	ENP1	S. cerevisiae	homologue
+ENSG00000112578	BYSL	H. sapiens	S000000451	ENP1	S. cerevisiae	least diverged orthologue
+ENSG00000112578	BYSL	H. sapiens	S000000451	ENP1	S. cerevisiae	orthologue
+ENSG00000112578	BYSL	H. sapiens	S000000451	ENP1	S. cerevisiae	orthologue
+ENSG00000112592	TBP	H. sapiens	S000000950	SPT15	S. cerevisiae	homologue
+ENSG00000112592	TBP	H. sapiens	S000000950	SPT15	S. cerevisiae	least diverged orthologue
+ENSG00000112592	TBP	H. sapiens	S000000950	SPT15	S. cerevisiae	orthologue
+ENSG00000112592	TBP	H. sapiens	S000000950	SPT15	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000000690	CDC50	S. cerevisiae	homologue
+ENSG00000112697	TMEM30A	H. sapiens	S000000690	CDC50	S. cerevisiae	least diverged orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000000690	CDC50	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005267	LEM3	S. cerevisiae	homologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005267	LEM3	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005267	LEM3	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005331	""	S. cerevisiae	homologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005331	""	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005331	""	S. cerevisiae	orthologue
+ENSG00000112697	TMEM30A	H. sapiens	S000005331	""	S. cerevisiae	orthologue
+ENSG00000113161	HMGCR	H. sapiens	S000004442	HMG2	S. cerevisiae	homologue
+ENSG00000113161	HMGCR	H. sapiens	S000004442	HMG2	S. cerevisiae	orthologue
+ENSG00000113161	HMGCR	H. sapiens	S000004442	HMG2	S. cerevisiae	orthologue
+ENSG00000113161	HMGCR	H. sapiens	S000004540	HMG1	S. cerevisiae	homologue
+ENSG00000113161	HMGCR	H. sapiens	S000004540	HMG1	S. cerevisiae	least diverged orthologue
+ENSG00000113161	HMGCR	H. sapiens	S000004540	HMG1	S. cerevisiae	orthologue
+ENSG00000113161	HMGCR	H. sapiens	S000004540	HMG1	S. cerevisiae	orthologue
+ENSG00000113384	GOLPH3	H. sapiens	S000002780	VPS74	S. cerevisiae	homologue
+ENSG00000113384	GOLPH3	H. sapiens	S000002780	VPS74	S. cerevisiae	least diverged orthologue
+ENSG00000113384	GOLPH3	H. sapiens	S000002780	VPS74	S. cerevisiae	orthologue
+ENSG00000113387	SUB1	H. sapiens	S000004642	SUB1	S. cerevisiae	homologue
+ENSG00000113387	SUB1	H. sapiens	S000004642	SUB1	S. cerevisiae	least diverged orthologue
+ENSG00000113387	SUB1	H. sapiens	S000004642	SUB1	S. cerevisiae	orthologue
+ENSG00000113407	TARS	H. sapiens	S000001340	THS1	S. cerevisiae	homologue
+ENSG00000113407	TARS	H. sapiens	S000001340	THS1	S. cerevisiae	orthologue
+ENSG00000113407	TARS	H. sapiens	S000001340	THS1	S. cerevisiae	orthologue
+ENSG00000113407	TARS	H. sapiens	S000001340	THS1	S. cerevisiae	orthologue
+ENSG00000113407	TARS	H. sapiens	S000001677	MST1	S. cerevisiae	orthologue
+ENSG00000114480	GBE1	H. sapiens	S000000737	GLC3	S. cerevisiae	homologue
+ENSG00000114480	GBE1	H. sapiens	S000000737	GLC3	S. cerevisiae	least diverged orthologue
+ENSG00000114480	GBE1	H. sapiens	S000000737	GLC3	S. cerevisiae	orthologue
+ENSG00000114480	GBE1	H. sapiens	S000000737	GLC3	S. cerevisiae	orthologue
+ENSG00000114942	EEF1B2	H. sapiens	S000000003	EFB1	S. cerevisiae	homologue
+ENSG00000114942	EEF1B2	H. sapiens	S000000003	EFB1	S. cerevisiae	least diverged orthologue
+ENSG00000114942	EEF1B2	H. sapiens	S000000003	EFB1	S. cerevisiae	orthologue
+ENSG00000114942	EEF1B2	H. sapiens	S000000003	EFB1	S. cerevisiae	orthologue
+ENSG00000115163	CENPA	H. sapiens	S000001532	CSE4	S. cerevisiae	homologue
+ENSG00000115163	CENPA	H. sapiens	S000001532	CSE4	S. cerevisiae	least diverged orthologue
+ENSG00000115163	CENPA	H. sapiens	S000001532	CSE4	S. cerevisiae	orthologue
+ENSG00000115204	MPV17	H. sapiens	S000004241	SYM1	S. cerevisiae	homologue
+ENSG00000115204	MPV17	H. sapiens	S000004241	SYM1	S. cerevisiae	least diverged orthologue
+ENSG00000115204	MPV17	H. sapiens	S000004241	SYM1	S. cerevisiae	orthologue
+ENSG00000115233	PSMD14	H. sapiens	S000001900	RPN11	S. cerevisiae	homologue
+ENSG00000115233	PSMD14	H. sapiens	S000001900	RPN11	S. cerevisiae	least diverged orthologue
+ENSG00000115233	PSMD14	H. sapiens	S000001900	RPN11	S. cerevisiae	orthologue
+ENSG00000115233	PSMD14	H. sapiens	S000001900	RPN11	S. cerevisiae	orthologue
+ENSG00000115685	PPP1R7	H. sapiens	S000001676	SDS22	S. cerevisiae	homologue
+ENSG00000115685	PPP1R7	H. sapiens	S000001676	SDS22	S. cerevisiae	orthologue
+ENSG00000115685	PPP1R7	H. sapiens	S000001676	SDS22	S. cerevisiae	orthologue
+ENSG00000115840	SLC25A12	H. sapiens	S000006225	AGC1	S. cerevisiae	homologue
+ENSG00000115840	SLC25A12	H. sapiens	S000006225	AGC1	S. cerevisiae	least diverged orthologue
+ENSG00000115840	SLC25A12	H. sapiens	S000006225	AGC1	S. cerevisiae	orthologue
+ENSG00000115840	SLC25A12	H. sapiens	S000006332	ANT1	S. cerevisiae	orthologue
+ENSG00000115904	SOS1	H. sapiens	S000000634	BUD5	S. cerevisiae	orthologue
+ENSG00000115904	SOS1	H. sapiens	S000004301	CDC25	S. cerevisiae	homologue
+ENSG00000115904	SOS1	H. sapiens	S000004301	CDC25	S. cerevisiae	orthologue
+ENSG00000115970	THADA	H. sapiens	S000004872	TRM732	S. cerevisiae	homologue
+ENSG00000115970	THADA	H. sapiens	S000004872	TRM732	S. cerevisiae	least diverged orthologue
+ENSG00000116030	SUMO1	H. sapiens	S000002771	ESC2	S. cerevisiae	orthologue
+ENSG00000116030	SUMO1	H. sapiens	S000002918	SMT3	S. cerevisiae	homologue
+ENSG00000116030	SUMO1	H. sapiens	S000002918	SMT3	S. cerevisiae	least diverged orthologue
+ENSG00000116030	SUMO1	H. sapiens	S000002918	SMT3	S. cerevisiae	orthologue
+ENSG00000116039	ATP6V1B1	H. sapiens	S000000331	VMA2	S. cerevisiae	homologue
+ENSG00000116039	ATP6V1B1	H. sapiens	S000000331	VMA2	S. cerevisiae	orthologue
+ENSG00000116039	ATP6V1B1	H. sapiens	S000000331	VMA2	S. cerevisiae	orthologue
+ENSG00000116237	ICMT	H. sapiens	S000002818	STE14	S. cerevisiae	homologue
+ENSG00000116237	ICMT	H. sapiens	S000002818	STE14	S. cerevisiae	least diverged orthologue
+ENSG00000116237	ICMT	H. sapiens	S000002818	STE14	S. cerevisiae	orthologue
+ENSG00000116237	ICMT	H. sapiens	S000002818	STE14	S. cerevisiae	orthologue
+ENSG00000116353	MECR	H. sapiens	S000000230	ETR1	S. cerevisiae	homologue
+ENSG00000116353	MECR	H. sapiens	S000000230	ETR1	S. cerevisiae	least diverged orthologue
+ENSG00000116353	MECR	H. sapiens	S000000230	ETR1	S. cerevisiae	orthologue
+ENSG00000116353	MECR	H. sapiens	S000000230	ETR1	S. cerevisiae	orthologue
+ENSG00000116353	MECR	H. sapiens	S000002405	SOR2	S. cerevisiae	horizontal gene transfer
+ENSG00000116353	MECR	H. sapiens	S000003920	SOR1	S. cerevisiae	horizontal gene transfer
+ENSG00000116353	MECR	H. sapiens	S000004060	XYL2	S. cerevisiae	horizontal gene transfer
+ENSG00000116353	MECR	H. sapiens	S000004600	""	S. cerevisiae	orthologue
+ENSG00000117118	SDHB	H. sapiens	S000003964	SDH2	S. cerevisiae	homologue
+ENSG00000117118	SDHB	H. sapiens	S000003964	SDH2	S. cerevisiae	least diverged orthologue
+ENSG00000117118	SDHB	H. sapiens	S000003964	SDH2	S. cerevisiae	orthologue
+ENSG00000117118	SDHB	H. sapiens	S000003964	SDH2	S. cerevisiae	orthologue
+ENSG00000117143	UAP1	H. sapiens	S000001004	""	S. cerevisiae	horizontal gene transfer
+ENSG00000117143	UAP1	H. sapiens	S000001518	UGP1	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000117143	UAP1	H. sapiens	S000002261	QRI1	S. cerevisiae	homologue
+ENSG00000117143	UAP1	H. sapiens	S000002261	QRI1	S. cerevisiae	least diverged orthologue
+ENSG00000117143	UAP1	H. sapiens	S000002261	QRI1	S. cerevisiae	orthologue
+ENSG00000117143	UAP1	H. sapiens	S000002261	QRI1	S. cerevisiae	orthologue
+ENSG00000117308	GALE	H. sapiens	S000000223	GAL10	S. cerevisiae	homologue
+ENSG00000117308	GALE	H. sapiens	S000000223	GAL10	S. cerevisiae	least diverged orthologue
+ENSG00000117308	GALE	H. sapiens	S000000223	GAL10	S. cerevisiae	orthologue
+ENSG00000117682	DHDDS	H. sapiens	S000000206	RER2	S. cerevisiae	homologue
+ENSG00000117682	DHDDS	H. sapiens	S000000206	RER2	S. cerevisiae	least diverged orthologue
+ENSG00000117682	DHDDS	H. sapiens	S000000206	RER2	S. cerevisiae	orthologue
+ENSG00000117682	DHDDS	H. sapiens	S000000206	RER2	S. cerevisiae	orthologue
+ENSG00000117682	DHDDS	H. sapiens	S000004707	SRT1	S. cerevisiae	orthologue
+ENSG00000117682	DHDDS	H. sapiens	S000004707	SRT1	S. cerevisiae	orthologue
+ENSG00000118515	SGK1	H. sapiens	S000000687	KIN82	S. cerevisiae	orthologue
+ENSG00000118515	SGK1	H. sapiens	S000001248	SCH9	S. cerevisiae	homologue
+ENSG00000118515	SGK1	H. sapiens	S000001248	SCH9	S. cerevisiae	orthologue
+ENSG00000118515	SGK1	H. sapiens	S000001609	YPK1	S. cerevisiae	homologue
+ENSG00000118515	SGK1	H. sapiens	S000001609	YPK1	S. cerevisiae	orthologue
+ENSG00000118515	SGK1	H. sapiens	S000004710	YPK2	S. cerevisiae	homologue
+ENSG00000118515	SGK1	H. sapiens	S000004710	YPK2	S. cerevisiae	orthologue
+ENSG00000118515	SGK1	H. sapiens	S000005330	FPK1	S. cerevisiae	orthologue
+ENSG00000119048	UBE2B	H. sapiens	S000003026	RAD6	S. cerevisiae	homologue
+ENSG00000119048	UBE2B	H. sapiens	S000003026	RAD6	S. cerevisiae	orthologue
+ENSG00000119048	UBE2B	H. sapiens	S000003026	RAD6	S. cerevisiae	orthologue
+ENSG00000119048	UBE2B	H. sapiens	S000003026	RAD6	S. cerevisiae	orthologue
+ENSG00000119048	UBE2B	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000119227	PIGZ	H. sapiens	S000005675	SMP3	S. cerevisiae	homologue
+ENSG00000119227	PIGZ	H. sapiens	S000005675	SMP3	S. cerevisiae	least diverged orthologue
+ENSG00000119227	PIGZ	H. sapiens	S000005675	SMP3	S. cerevisiae	orthologue
+ENSG00000119414	PPP6C	H. sapiens	S000002205	SIT4	S. cerevisiae	homologue
+ENSG00000119414	PPP6C	H. sapiens	S000002205	SIT4	S. cerevisiae	least diverged orthologue
+ENSG00000119414	PPP6C	H. sapiens	S000002205	SIT4	S. cerevisiae	orthologue
+ENSG00000119414	PPP6C	H. sapiens	S000002205	SIT4	S. cerevisiae	orthologue
+ENSG00000119523	ALG2	H. sapiens	S000003033	ALG2	S. cerevisiae	homologue
+ENSG00000119523	ALG2	H. sapiens	S000003033	ALG2	S. cerevisiae	least diverged orthologue
+ENSG00000119523	ALG2	H. sapiens	S000003033	ALG2	S. cerevisiae	orthologue
+ENSG00000119523	ALG2	H. sapiens	S000003033	ALG2	S. cerevisiae	orthologue
+ENSG00000119537	KDSR	H. sapiens	S000000319	LYS2	S. cerevisiae	homologue
+ENSG00000119537	KDSR	H. sapiens	S000000469	TSC10	S. cerevisiae	least diverged orthologue
+ENSG00000119655	NPC2	H. sapiens	S000002204	NPC2	S. cerevisiae	least diverged orthologue
+ENSG00000119723	COQ6	H. sapiens	S000000194	BNA4	S. cerevisiae	horizontal gene transfer
+ENSG00000119723	COQ6	H. sapiens	S000003487	COQ6	S. cerevisiae	homologue
+ENSG00000119723	COQ6	H. sapiens	S000003487	COQ6	S. cerevisiae	least diverged orthologue
+ENSG00000119723	COQ6	H. sapiens	S000003487	COQ6	S. cerevisiae	orthologue
+ENSG00000119723	COQ6	H. sapiens	S000003487	COQ6	S. cerevisiae	orthologue
+ENSG00000119915	ELOVL3	H. sapiens	S000000630	ELO2	S. cerevisiae	homologue
+ENSG00000119915	ELOVL3	H. sapiens	S000003732	ELO1	S. cerevisiae	homologue
+ENSG00000119915	ELOVL3	H. sapiens	S000003732	ELO1	S. cerevisiae	orthologue
+ENSG00000119915	ELOVL3	H. sapiens	S000004364	ELO3	S. cerevisiae	homologue
+ENSG00000119915	ELOVL3	H. sapiens	S000004364	ELO3	S. cerevisiae	orthologue
+ENSG00000120697	ALG5	H. sapiens	S000006148	ALG5	S. cerevisiae	homologue
+ENSG00000120697	ALG5	H. sapiens	S000006148	ALG5	S. cerevisiae	least diverged orthologue
+ENSG00000120697	ALG5	H. sapiens	S000006148	ALG5	S. cerevisiae	orthologue
+ENSG00000120697	ALG5	H. sapiens	S000006148	ALG5	S. cerevisiae	orthologue
+ENSG00000120697	ALG5	H. sapiens	S000006387	DPM1	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000120705	ETF1	H. sapiens	S000000347	SUP45	S. cerevisiae	homologue
+ENSG00000120705	ETF1	H. sapiens	S000000347	SUP45	S. cerevisiae	least diverged orthologue
+ENSG00000120705	ETF1	H. sapiens	S000000347	SUP45	S. cerevisiae	orthologue
+ENSG00000120705	ETF1	H. sapiens	S000000347	SUP45	S. cerevisiae	orthologue
+ENSG00000122406	RPL5	H. sapiens	S000006052	RPL5	S. cerevisiae	homologue
+ENSG00000122406	RPL5	H. sapiens	S000006052	RPL5	S. cerevisiae	least diverged orthologue
+ENSG00000122406	RPL5	H. sapiens	S000006052	RPL5	S. cerevisiae	orthologue
+ENSG00000122406	RPL5	H. sapiens	S000006052	RPL5	S. cerevisiae	orthologue
+ENSG00000123136	DDX39A	H. sapiens	S000002242	SUB2	S. cerevisiae	homologue
+ENSG00000123136	DDX39A	H. sapiens	S000002242	SUB2	S. cerevisiae	least diverged orthologue
+ENSG00000123136	DDX39A	H. sapiens	S000002242	SUB2	S. cerevisiae	orthologue
+ENSG00000123191	ATP7B	H. sapiens	S000000499	PCA1	S. cerevisiae	orthologue
+ENSG00000123191	ATP7B	H. sapiens	S000002678	CCC2	S. cerevisiae	homologue
+ENSG00000123191	ATP7B	H. sapiens	S000002678	CCC2	S. cerevisiae	least diverged orthologue
+ENSG00000123191	ATP7B	H. sapiens	S000002678	CCC2	S. cerevisiae	orthologue
+ENSG00000123374	CDK2	H. sapiens	S000000364	CDC28	S. cerevisiae	homologue
+ENSG00000123374	CDK2	H. sapiens	S000000364	CDC28	S. cerevisiae	least diverged orthologue
+ENSG00000123374	CDK2	H. sapiens	S000000364	CDC28	S. cerevisiae	orthologue
+ENSG00000123374	CDK2	H. sapiens	S000000364	CDC28	S. cerevisiae	orthologue
+ENSG00000123737	EXOSC9	H. sapiens	S000002688	RRP45	S. cerevisiae	homologue
+ENSG00000123737	EXOSC9	H. sapiens	S000002688	RRP45	S. cerevisiae	least diverged orthologue
+ENSG00000123737	EXOSC9	H. sapiens	S000002688	RRP45	S. cerevisiae	orthologue
+ENSG00000123737	EXOSC9	H. sapiens	S000002688	RRP45	S. cerevisiae	orthologue
+ENSG00000123975	CKS2	H. sapiens	S000000339	CKS1	S. cerevisiae	homologue
+ENSG00000123975	CKS2	H. sapiens	S000000339	CKS1	S. cerevisiae	least diverged orthologue
+ENSG00000125743	SNRPD2	H. sapiens	S000004265	SMD2	S. cerevisiae	homologue
+ENSG00000125743	SNRPD2	H. sapiens	S000004265	SMD2	S. cerevisiae	least diverged orthologue
+ENSG00000125743	SNRPD2	H. sapiens	S000004265	SMD2	S. cerevisiae	orthologue
+ENSG00000125877	ITPA	H. sapiens	S000003830	HAM1	S. cerevisiae	homologue
+ENSG00000125877	ITPA	H. sapiens	S000003830	HAM1	S. cerevisiae	least diverged orthologue
+ENSG00000125877	ITPA	H. sapiens	S000003830	HAM1	S. cerevisiae	orthologue
+ENSG00000125977	EIF2S2	H. sapiens	S000006158	SUI3	S. cerevisiae	homologue
+ENSG00000125977	EIF2S2	H. sapiens	S000006158	SUI3	S. cerevisiae	least diverged orthologue
+ENSG00000125977	EIF2S2	H. sapiens	S000006158	SUI3	S. cerevisiae	orthologue
+ENSG00000126067	PSMB2	H. sapiens	S000000814	PRE1	S. cerevisiae	homologue
+ENSG00000126067	PSMB2	H. sapiens	S000000814	PRE1	S. cerevisiae	least diverged orthologue
+ENSG00000126067	PSMB2	H. sapiens	S000000814	PRE1	S. cerevisiae	orthologue
+ENSG00000126067	PSMB2	H. sapiens	S000000814	PRE1	S. cerevisiae	orthologue
+ENSG00000126267	COX6B1	H. sapiens	S000004028	COX12	S. cerevisiae	homologue
+ENSG00000126267	COX6B1	H. sapiens	S000004028	COX12	S. cerevisiae	least diverged orthologue
+ENSG00000126267	COX6B1	H. sapiens	S000004028	COX12	S. cerevisiae	orthologue
+ENSG00000126267	COX6B1	H. sapiens	S000004028	COX12	S. cerevisiae	orthologue
+ENSG00000126524	SBDS	H. sapiens	S000004012	SDO1	S. cerevisiae	homologue
+ENSG00000126524	SBDS	H. sapiens	S000004012	SDO1	S. cerevisiae	least diverged orthologue
+ENSG00000126524	SBDS	H. sapiens	S000004012	SDO1	S. cerevisiae	orthologue
+ENSG00000126524	SBDS	H. sapiens	S000004012	SDO1	S. cerevisiae	orthologue
+ENSG00000126581	BECN1	H. sapiens	S000006041	VPS30	S. cerevisiae	homologue
+ENSG00000126581	BECN1	H. sapiens	S000006041	VPS30	S. cerevisiae	least diverged orthologue
+ENSG00000126581	BECN1	H. sapiens	S000006041	VPS30	S. cerevisiae	orthologue
+ENSG00000126581	BECN1	H. sapiens	S000006041	VPS30	S. cerevisiae	orthologue
+ENSG00000126814	TRMT5	H. sapiens	S000001112	TRM5	S. cerevisiae	homologue
+ENSG00000126814	TRMT5	H. sapiens	S000001112	TRM5	S. cerevisiae	least diverged orthologue
+ENSG00000126814	TRMT5	H. sapiens	S000001112	TRM5	S. cerevisiae	orthologue
+ENSG00000126814	TRMT5	H. sapiens	S000001112	TRM5	S. cerevisiae	orthologue
+ENSG00000126821	SGPP1	H. sapiens	S000001761	YSR3	S. cerevisiae	homologue
+ENSG00000126821	SGPP1	H. sapiens	S000001761	YSR3	S. cerevisiae	least diverged orthologue
+ENSG00000126821	SGPP1	H. sapiens	S000001761	YSR3	S. cerevisiae	orthologue
+ENSG00000126821	SGPP1	H. sapiens	S000003670	LCB3	S. cerevisiae	homologue
+ENSG00000126821	SGPP1	H. sapiens	S000003670	LCB3	S. cerevisiae	least diverged orthologue
+ENSG00000126821	SGPP1	H. sapiens	S000003670	LCB3	S. cerevisiae	orthologue
+ENSG00000126953	TIMM8A	H. sapiens	S000007348	TIM8	S. cerevisiae	homologue
+ENSG00000126953	TIMM8A	H. sapiens	S000007348	TIM8	S. cerevisiae	orthologue
+ENSG00000127080	IPPK	H. sapiens	S000002723	IPK1	S. cerevisiae	least diverged orthologue
+ENSG00000127445	PIN1	H. sapiens	S000003778	ESS1	S. cerevisiae	homologue
+ENSG00000127445	PIN1	H. sapiens	S000003778	ESS1	S. cerevisiae	least diverged orthologue
+ENSG00000127445	PIN1	H. sapiens	S000003778	ESS1	S. cerevisiae	orthologue
+ENSG00000127445	PIN1	H. sapiens	S000003778	ESS1	S. cerevisiae	orthologue
+ENSG00000127554	GFER	H. sapiens	S000003261	ERV1	S. cerevisiae	homologue
+ENSG00000127554	GFER	H. sapiens	S000003261	ERV1	S. cerevisiae	least diverged orthologue
+ENSG00000127554	GFER	H. sapiens	S000003261	ERV1	S. cerevisiae	orthologue
+ENSG00000127554	GFER	H. sapiens	S000006241	ERV2	S. cerevisiae	orthologue
+ENSG00000127554	GFER	H. sapiens	S000006241	ERV2	S. cerevisiae	orthologue
+ENSG00000128039	SRD5A3	H. sapiens	S000001311	DFG10	S. cerevisiae	least diverged orthologue
+ENSG00000128039	SRD5A3	H. sapiens	S000001311	DFG10	S. cerevisiae	orthologue
+ENSG00000128463	EMC4	H. sapiens	S000003200	EMC4	S. cerevisiae	homologue
+ENSG00000128463	EMC4	H. sapiens	S000003200	EMC4	S. cerevisiae	least diverged orthologue
+ENSG00000128463	EMC4	H. sapiens	S000003200	EMC4	S. cerevisiae	orthologue
+ENSG00000128951	DUT	H. sapiens	S000000456	DUT1	S. cerevisiae	homologue
+ENSG00000128951	DUT	H. sapiens	S000000456	DUT1	S. cerevisiae	least diverged orthologue
+ENSG00000128951	DUT	H. sapiens	S000000456	DUT1	S. cerevisiae	orthologue
+ENSG00000129084	PSMA1	H. sapiens	S000004931	PRE5	S. cerevisiae	homologue
+ENSG00000129084	PSMA1	H. sapiens	S000004931	PRE5	S. cerevisiae	least diverged orthologue
+ENSG00000129084	PSMA1	H. sapiens	S000004931	PRE5	S. cerevisiae	orthologue
+ENSG00000129084	PSMA1	H. sapiens	S000004931	PRE5	S. cerevisiae	orthologue
+ENSG00000130520	LSM4	H. sapiens	S000000914	LSM4	S. cerevisiae	homologue
+ENSG00000130520	LSM4	H. sapiens	S000000914	LSM4	S. cerevisiae	least diverged orthologue
+ENSG00000130520	LSM4	H. sapiens	S000000914	LSM4	S. cerevisiae	orthologue
+ENSG00000130713	EXOSC2	H. sapiens	S000001111	RRP4	S. cerevisiae	homologue
+ENSG00000130713	EXOSC2	H. sapiens	S000001111	RRP4	S. cerevisiae	least diverged orthologue
+ENSG00000130713	EXOSC2	H. sapiens	S000001111	RRP4	S. cerevisiae	orthologue
+ENSG00000130713	EXOSC2	H. sapiens	S000001111	RRP4	S. cerevisiae	orthologue
+ENSG00000130811	EIF3G	H. sapiens	S000002837	TIF35	S. cerevisiae	homologue
+ENSG00000130811	EIF3G	H. sapiens	S000002837	TIF35	S. cerevisiae	least diverged orthologue
+ENSG00000130811	EIF3G	H. sapiens	S000002837	TIF35	S. cerevisiae	orthologue
+ENSG00000131236	CAP1	H. sapiens	S000005082	SRV2	S. cerevisiae	homologue
+ENSG00000131236	CAP1	H. sapiens	S000005082	SRV2	S. cerevisiae	least diverged orthologue
+ENSG00000131236	CAP1	H. sapiens	S000005082	SRV2	S. cerevisiae	orthologue
+ENSG00000131236	CAP1	H. sapiens	S000005082	SRV2	S. cerevisiae	orthologue
+ENSG00000131269	ABCB7	H. sapiens	S000004916	ATM1	S. cerevisiae	homologue
+ENSG00000131269	ABCB7	H. sapiens	S000004916	ATM1	S. cerevisiae	orthologue
+ENSG00000131269	ABCB7	H. sapiens	S000004916	ATM1	S. cerevisiae	orthologue
+ENSG00000131747	TOP2A	H. sapiens	S000005032	TOP2	S. cerevisiae	homologue
+ENSG00000131747	TOP2A	H. sapiens	S000005032	TOP2	S. cerevisiae	orthologue
+ENSG00000131747	TOP2A	H. sapiens	S000005032	TOP2	S. cerevisiae	orthologue
+ENSG00000131899	LLGL1	H. sapiens	S000000202	SRO77	S. cerevisiae	orthologue
+ENSG00000131899	LLGL1	H. sapiens	S000006236	SRO7	S. cerevisiae	orthologue
+ENSG00000131979	GCH1	H. sapiens	S000003499	FOL2	S. cerevisiae	homologue
+ENSG00000131979	GCH1	H. sapiens	S000003499	FOL2	S. cerevisiae	least diverged orthologue
+ENSG00000131979	GCH1	H. sapiens	S000003499	FOL2	S. cerevisiae	orthologue
+ENSG00000131979	GCH1	H. sapiens	S000003499	FOL2	S. cerevisiae	orthologue
+ENSG00000132196	HSD17B7	H. sapiens	S000001717	FOX2	S. cerevisiae	horizontal gene transfer
+ENSG00000132196	HSD17B7	H. sapiens	S000004090	ERG27	S. cerevisiae	homologue
+ENSG00000132196	HSD17B7	H. sapiens	S000004090	ERG27	S. cerevisiae	orthologue
+ENSG00000132196	HSD17B7	H. sapiens	S000004090	ERG27	S. cerevisiae	orthologue
+ENSG00000132432	SEC61G	H. sapiens	S000002493	SSS1	S. cerevisiae	homologue
+ENSG00000132432	SEC61G	H. sapiens	S000002493	SSS1	S. cerevisiae	least diverged orthologue
+ENSG00000132507	EIF5A	H. sapiens	S000000760	HYP2	S. cerevisiae	homologue
+ENSG00000132507	EIF5A	H. sapiens	S000000760	HYP2	S. cerevisiae	orthologue
+ENSG00000132507	EIF5A	H. sapiens	S000000760	HYP2	S. cerevisiae	orthologue
+ENSG00000132507	EIF5A	H. sapiens	S000003808	ANB1	S. cerevisiae	homologue
+ENSG00000132507	EIF5A	H. sapiens	S000003808	ANB1	S. cerevisiae	least diverged orthologue
+ENSG00000132507	EIF5A	H. sapiens	S000003808	ANB1	S. cerevisiae	orthologue
+ENSG00000132541	HRSP12	H. sapiens	S000000859	HMF1	S. cerevisiae	homologue
+ENSG00000132541	HRSP12	H. sapiens	S000000859	HMF1	S. cerevisiae	orthologue
+ENSG00000132541	HRSP12	H. sapiens	S000000859	HMF1	S. cerevisiae	orthologue
+ENSG00000132541	HRSP12	H. sapiens	S000000859	HMF1	S. cerevisiae	orthologue
+ENSG00000132541	HRSP12	H. sapiens	S000001313	MMF1	S. cerevisiae	homologue
+ENSG00000132541	HRSP12	H. sapiens	S000001313	MMF1	S. cerevisiae	least diverged orthologue
+ENSG00000132541	HRSP12	H. sapiens	S000001313	MMF1	S. cerevisiae	orthologue
+ENSG00000132603	NIP7	H. sapiens	S000006132	NIP7	S. cerevisiae	homologue
+ENSG00000132603	NIP7	H. sapiens	S000006132	NIP7	S. cerevisiae	least diverged orthologue
+ENSG00000132603	NIP7	H. sapiens	S000006132	NIP7	S. cerevisiae	orthologue
+ENSG00000132603	NIP7	H. sapiens	S000006132	NIP7	S. cerevisiae	orthologue
+ENSG00000132664	POLR3F	H. sapiens	S000005286	RPC34	S. cerevisiae	homologue
+ENSG00000132664	POLR3F	H. sapiens	S000005286	RPC34	S. cerevisiae	least diverged orthologue
+ENSG00000132664	POLR3F	H. sapiens	S000005286	RPC34	S. cerevisiae	orthologue
+ENSG00000132664	POLR3F	H. sapiens	S000005286	RPC34	S. cerevisiae	orthologue
+ENSG00000132793	LPIN3	H. sapiens	S000001012	OPI1	S. cerevisiae	orthologue
+ENSG00000132793	LPIN3	H. sapiens	S000004775	PAH1	S. cerevisiae	homologue
+ENSG00000132793	LPIN3	H. sapiens	S000004775	PAH1	S. cerevisiae	least diverged orthologue
+ENSG00000132793	LPIN3	H. sapiens	S000004775	PAH1	S. cerevisiae	orthologue
+ENSG00000133028	SCO1	H. sapiens	S000000228	SCO2	S. cerevisiae	homologue
+ENSG00000133028	SCO1	H. sapiens	S000000228	SCO2	S. cerevisiae	orthologue
+ENSG00000133028	SCO1	H. sapiens	S000000228	SCO2	S. cerevisiae	orthologue
+ENSG00000133028	SCO1	H. sapiens	S000000241	SCO1	S. cerevisiae	homologue
+ENSG00000133028	SCO1	H. sapiens	S000000241	SCO1	S. cerevisiae	least diverged orthologue
+ENSG00000133028	SCO1	H. sapiens	S000000241	SCO1	S. cerevisiae	orthologue
+ENSG00000133028	SCO1	H. sapiens	S000000241	SCO1	S. cerevisiae	orthologue
+ENSG00000133313	CNDP2	H. sapiens	S000000485	DUG2	S. cerevisiae	orthologue
+ENSG00000133313	CNDP2	H. sapiens	S000000485	DUG2	S. cerevisiae	orthologue
+ENSG00000133313	CNDP2	H. sapiens	S000001940	DUG1	S. cerevisiae	homologue
+ENSG00000133313	CNDP2	H. sapiens	S000001940	DUG1	S. cerevisiae	least diverged orthologue
+ENSG00000133313	CNDP2	H. sapiens	S000001940	DUG1	S. cerevisiae	orthologue
+ENSG00000133313	CNDP2	H. sapiens	S000001940	DUG1	S. cerevisiae	orthologue
+ENSG00000133706	LARS	H. sapiens	S000003403	MSM1	S. cerevisiae	horizontal gene transfer
+ENSG00000133706	LARS	H. sapiens	S000006081	CDC60	S. cerevisiae	homologue
+ENSG00000133706	LARS	H. sapiens	S000006081	CDC60	S. cerevisiae	least diverged orthologue
+ENSG00000133706	LARS	H. sapiens	S000006081	CDC60	S. cerevisiae	orthologue
+ENSG00000133706	LARS	H. sapiens	S000006081	CDC60	S. cerevisiae	orthologue
+ENSG00000133835	HSD17B4	H. sapiens	S000001717	FOX2	S. cerevisiae	homologue
+ENSG00000133835	HSD17B4	H. sapiens	S000001717	FOX2	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000133835	HSD17B4	H. sapiens	S000001717	FOX2	S. cerevisiae	orthologue
+ENSG00000133835	HSD17B4	H. sapiens	S000001717	FOX2	S. cerevisiae	orthologue
+ENSG00000134001	EIF2S1	H. sapiens	S000003767	SUI2	S. cerevisiae	homologue
+ENSG00000134001	EIF2S1	H. sapiens	S000003767	SUI2	S. cerevisiae	least diverged orthologue
+ENSG00000134001	EIF2S1	H. sapiens	S000003767	SUI2	S. cerevisiae	orthologue
+ENSG00000134001	EIF2S1	H. sapiens	S000003767	SUI2	S. cerevisiae	orthologue
+ENSG00000134014	ELP3	H. sapiens	S000006007	ELP3	S. cerevisiae	homologue
+ENSG00000134014	ELP3	H. sapiens	S000006007	ELP3	S. cerevisiae	least diverged orthologue
+ENSG00000134014	ELP3	H. sapiens	S000006007	ELP3	S. cerevisiae	orthologue
+ENSG00000134014	ELP3	H. sapiens	S000006007	ELP3	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000000038	CLN3	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000002314	CLB3	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000003340	CLB1	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000003340	CLB1	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000003340	CLB1	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000003341	CLB6	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000003341	CLB6	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000003341	CLB6	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000004200	CLB4	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000004200	CLB4	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000004200	CLB4	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000004812	CLN1	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000006177	CLN2	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000006323	CLB2	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000006323	CLB2	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000006323	CLB2	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000006324	CLB5	S. cerevisiae	homologue
+ENSG00000134057	CCNB1	H. sapiens	S000006324	CLB5	S. cerevisiae	orthologue
+ENSG00000134057	CCNB1	H. sapiens	S000006324	CLB5	S. cerevisiae	orthologue
+ENSG00000134109	EDEM1	H. sapiens	S000001247	MNL1	S. cerevisiae	homologue
+ENSG00000134109	EDEM1	H. sapiens	S000001247	MNL1	S. cerevisiae	least diverged orthologue
+ENSG00000134109	EDEM1	H. sapiens	S000001247	MNL1	S. cerevisiae	orthologue
+ENSG00000134324	LPIN1	H. sapiens	S000001012	OPI1	S. cerevisiae	orthologue
+ENSG00000134324	LPIN1	H. sapiens	S000004775	PAH1	S. cerevisiae	homologue
+ENSG00000134324	LPIN1	H. sapiens	S000004775	PAH1	S. cerevisiae	orthologue
+ENSG00000134324	LPIN1	H. sapiens	S000004775	PAH1	S. cerevisiae	orthologue
+ENSG00000134480	CCNH	H. sapiens	S000006229	CCL1	S. cerevisiae	homologue
+ENSG00000134480	CCNH	H. sapiens	S000006229	CCL1	S. cerevisiae	least diverged orthologue
+ENSG00000134480	CCNH	H. sapiens	S000006229	CCL1	S. cerevisiae	orthologue
+ENSG00000134684	YARS	H. sapiens	S000003403	MSM1	S. cerevisiae	horizontal gene transfer
+ENSG00000134684	YARS	H. sapiens	S000003417	TYS1	S. cerevisiae	homologue
+ENSG00000134684	YARS	H. sapiens	S000003417	TYS1	S. cerevisiae	least diverged orthologue
+ENSG00000134684	YARS	H. sapiens	S000003417	TYS1	S. cerevisiae	orthologue
+ENSG00000134684	YARS	H. sapiens	S000003417	TYS1	S. cerevisiae	orthologue
+ENSG00000134697	GNL2	H. sapiens	S000005336	NOG2	S. cerevisiae	homologue
+ENSG00000134697	GNL2	H. sapiens	S000005336	NOG2	S. cerevisiae	least diverged orthologue
+ENSG00000134697	GNL2	H. sapiens	S000005336	NOG2	S. cerevisiae	orthologue
+ENSG00000134697	GNL2	H. sapiens	S000005336	NOG2	S. cerevisiae	orthologue
+ENSG00000134851	TMEM165	H. sapiens	S000000391	GDT1	S. cerevisiae	homologue
+ENSG00000134851	TMEM165	H. sapiens	S000000391	GDT1	S. cerevisiae	least diverged orthologue
+ENSG00000134851	TMEM165	H. sapiens	S000000391	GDT1	S. cerevisiae	orthologue
+ENSG00000134851	TMEM165	H. sapiens	S000000391	GDT1	S. cerevisiae	orthologue
+ENSG00000135002	RFK	H. sapiens	S000002644	FMN1	S. cerevisiae	homologue
+ENSG00000135002	RFK	H. sapiens	S000002644	FMN1	S. cerevisiae	least diverged orthologue
+ENSG00000135002	RFK	H. sapiens	S000002644	FMN1	S. cerevisiae	orthologue
+ENSG00000135002	RFK	H. sapiens	S000002644	FMN1	S. cerevisiae	orthologue
+ENSG00000135070	ISCA1	H. sapiens	S000003950	ISA1	S. cerevisiae	homologue
+ENSG00000135070	ISCA1	H. sapiens	S000003950	ISA1	S. cerevisiae	least diverged orthologue
+ENSG00000135070	ISCA1	H. sapiens	S000003950	ISA1	S. cerevisiae	orthologue
+ENSG00000135070	ISCA1	H. sapiens	S000006271	ISA2	S. cerevisiae	horizontal gene transfer
+ENSG00000135297	MTO1	H. sapiens	S000003205	MTO1	S. cerevisiae	homologue
+ENSG00000135297	MTO1	H. sapiens	S000003205	MTO1	S. cerevisiae	least diverged orthologue
+ENSG00000135297	MTO1	H. sapiens	S000003205	MTO1	S. cerevisiae	orthologue
+ENSG00000135297	MTO1	H. sapiens	S000003205	MTO1	S. cerevisiae	orthologue
+ENSG00000135372	NAT10	H. sapiens	S000005076	KRE33	S. cerevisiae	homologue
+ENSG00000135372	NAT10	H. sapiens	S000005076	KRE33	S. cerevisiae	least diverged orthologue
+ENSG00000135372	NAT10	H. sapiens	S000005076	KRE33	S. cerevisiae	orthologue
+ENSG00000135372	NAT10	H. sapiens	S000005076	KRE33	S. cerevisiae	orthologue
+ENSG00000135469	COQ10A	H. sapiens	S000005368	COQ10	S. cerevisiae	least diverged orthologue
+ENSG00000135821	GLUL	H. sapiens	S000006239	GLN1	S. cerevisiae	homologue
+ENSG00000135821	GLUL	H. sapiens	S000006239	GLN1	S. cerevisiae	least diverged orthologue
+ENSG00000135821	GLUL	H. sapiens	S000006239	GLN1	S. cerevisiae	orthologue
+ENSG00000135821	GLUL	H. sapiens	S000006239	GLN1	S. cerevisiae	orthologue
+ENSG00000135932	CAB39	H. sapiens	S000001672	HYM1	S. cerevisiae	homologue
+ENSG00000135932	CAB39	H. sapiens	S000001672	HYM1	S. cerevisiae	orthologue
+ENSG00000135932	CAB39	H. sapiens	S000001672	HYM1	S. cerevisiae	orthologue
+ENSG00000136167	LCP1	H. sapiens	S000002536	SAC6	S. cerevisiae	homologue
+ENSG00000136167	LCP1	H. sapiens	S000002536	SAC6	S. cerevisiae	orthologue
+ENSG00000136167	LCP1	H. sapiens	S000002536	SAC6	S. cerevisiae	orthologue
+ENSG00000136448	NMT1	H. sapiens	S000004185	NMT1	S. cerevisiae	homologue
+ENSG00000136448	NMT1	H. sapiens	S000004185	NMT1	S. cerevisiae	least diverged orthologue
+ENSG00000136448	NMT1	H. sapiens	S000004185	NMT1	S. cerevisiae	orthologue
+ENSG00000136758	YME1L1	H. sapiens	S000006228	YME1	S. cerevisiae	homologue
+ENSG00000136758	YME1L1	H. sapiens	S000006228	YME1	S. cerevisiae	least diverged orthologue
+ENSG00000136758	YME1L1	H. sapiens	S000006228	YME1	S. cerevisiae	orthologue
+ENSG00000136868	SLC31A1	H. sapiens	S000001218	CTR2	S. cerevisiae	homologue
+ENSG00000136868	SLC31A1	H. sapiens	S000001218	CTR2	S. cerevisiae	least diverged orthologue
+ENSG00000136868	SLC31A1	H. sapiens	S000001218	CTR2	S. cerevisiae	orthologue
+ENSG00000136868	SLC31A1	H. sapiens	S000004403	CTR3	S. cerevisiae	orthologue
+ENSG00000136868	SLC31A1	H. sapiens	S000006328	CTR1	S. cerevisiae	orthologue
+ENSG00000137411	VARS2	H. sapiens	S000003326	VAS1	S. cerevisiae	homologue
+ENSG00000137411	VARS2	H. sapiens	S000003326	VAS1	S. cerevisiae	orthologue
+ENSG00000137411	VARS2	H. sapiens	S000003403	MSM1	S. cerevisiae	horizontal gene transfer
+ENSG00000137955	RABGGTB	H. sapiens	S000006380	BET2	S. cerevisiae	homologue
+ENSG00000137955	RABGGTB	H. sapiens	S000006380	BET2	S. cerevisiae	least diverged orthologue
+ENSG00000137955	RABGGTB	H. sapiens	S000006380	BET2	S. cerevisiae	orthologue
+ENSG00000137955	RABGGTB	H. sapiens	S000006380	BET2	S. cerevisiae	orthologue
+ENSG00000138231	DBR1	H. sapiens	S000001632	DBR1	S. cerevisiae	homologue
+ENSG00000138231	DBR1	H. sapiens	S000001632	DBR1	S. cerevisiae	least diverged orthologue
+ENSG00000138231	DBR1	H. sapiens	S000001632	DBR1	S. cerevisiae	orthologue
+ENSG00000138346	DNA2	H. sapiens	S000001207	DNA2	S. cerevisiae	homologue
+ENSG00000138346	DNA2	H. sapiens	S000001207	DNA2	S. cerevisiae	orthologue
+ENSG00000140105	WARS	H. sapiens	S000005457	WRS1	S. cerevisiae	homologue
+ENSG00000140105	WARS	H. sapiens	S000005457	WRS1	S. cerevisiae	least diverged orthologue
+ENSG00000140105	WARS	H. sapiens	S000005457	WRS1	S. cerevisiae	orthologue
+ENSG00000140105	WARS	H. sapiens	S000005457	WRS1	S. cerevisiae	orthologue
+ENSG00000140284	SLC27A2	H. sapiens	S000000245	FAT1	S. cerevisiae	homologue
+ENSG00000140284	SLC27A2	H. sapiens	S000000245	FAT1	S. cerevisiae	orthologue
+ENSG00000140284	SLC27A2	H. sapiens	S000000245	FAT1	S. cerevisiae	orthologue
+ENSG00000140451	PIF1	H. sapiens	S000001073	RRM3	S. cerevisiae	homologue
+ENSG00000140451	PIF1	H. sapiens	S000001073	RRM3	S. cerevisiae	orthologue
+ENSG00000140451	PIF1	H. sapiens	S000004526	PIF1	S. cerevisiae	homologue
+ENSG00000140451	PIF1	H. sapiens	S000004526	PIF1	S. cerevisiae	orthologue
+ENSG00000140521	POLG	H. sapiens	S000005857	MIP1	S. cerevisiae	homologue
+ENSG00000140521	POLG	H. sapiens	S000005857	MIP1	S. cerevisiae	least diverged orthologue
+ENSG00000140521	POLG	H. sapiens	S000005857	MIP1	S. cerevisiae	orthologue
+ENSG00000140521	POLG	H. sapiens	S000005857	MIP1	S. cerevisiae	orthologue
+ENSG00000140612	SEC11A	H. sapiens	S000001461	SEC11	S. cerevisiae	homologue
+ENSG00000140612	SEC11A	H. sapiens	S000001461	SEC11	S. cerevisiae	orthologue
+ENSG00000140612	SEC11A	H. sapiens	S000001461	SEC11	S. cerevisiae	orthologue
+ENSG00000140829	DHX38	H. sapiens	S000001794	PRP16	S. cerevisiae	homologue
+ENSG00000140829	DHX38	H. sapiens	S000001794	PRP16	S. cerevisiae	least diverged orthologue
+ENSG00000140829	DHX38	H. sapiens	S000001794	PRP16	S. cerevisiae	orthologue
+ENSG00000140829	DHX38	H. sapiens	S000001794	PRP16	S. cerevisiae	orthologue
+ENSG00000140992	PDPK1	H. sapiens	S000002874	PKH3	S. cerevisiae	homologue
+ENSG00000140992	PDPK1	H. sapiens	S000002874	PKH3	S. cerevisiae	orthologue
+ENSG00000140992	PDPK1	H. sapiens	S000002898	PKH1	S. cerevisiae	homologue
+ENSG00000140992	PDPK1	H. sapiens	S000002898	PKH1	S. cerevisiae	orthologue
+ENSG00000140992	PDPK1	H. sapiens	S000002898	PKH1	S. cerevisiae	orthologue
+ENSG00000140992	PDPK1	H. sapiens	S000005460	PKH2	S. cerevisiae	homologue
+ENSG00000140992	PDPK1	H. sapiens	S000005460	PKH2	S. cerevisiae	orthologue
+ENSG00000140992	PDPK1	H. sapiens	S000005460	PKH2	S. cerevisiae	orthologue
+ENSG00000141385	AFG3L2	H. sapiens	S000000819	AFG3	S. cerevisiae	homologue
+ENSG00000141385	AFG3L2	H. sapiens	S000000819	AFG3	S. cerevisiae	orthologue
+ENSG00000141385	AFG3L2	H. sapiens	S000000819	AFG3	S. cerevisiae	orthologue
+ENSG00000141385	AFG3L2	H. sapiens	S000000819	AFG3	S. cerevisiae	orthologue
+ENSG00000141385	AFG3L2	H. sapiens	S000004695	YTA12	S. cerevisiae	homologue
+ENSG00000141385	AFG3L2	H. sapiens	S000004695	YTA12	S. cerevisiae	least diverged orthologue
+ENSG00000141385	AFG3L2	H. sapiens	S000004695	YTA12	S. cerevisiae	orthologue
+ENSG00000141458	NPC1	H. sapiens	S000005927	NCR1	S. cerevisiae	homologue
+ENSG00000141458	NPC1	H. sapiens	S000005927	NCR1	S. cerevisiae	least diverged orthologue
+ENSG00000141458	NPC1	H. sapiens	S000005927	NCR1	S. cerevisiae	orthologue
+ENSG00000141458	NPC1	H. sapiens	S000005927	NCR1	S. cerevisiae	orthologue
+ENSG00000141543	EIF4A3	H. sapiens	S000002428	FAL1	S. cerevisiae	homologue
+ENSG00000141543	EIF4A3	H. sapiens	S000002428	FAL1	S. cerevisiae	least diverged orthologue
+ENSG00000141543	EIF4A3	H. sapiens	S000002428	FAL1	S. cerevisiae	orthologue
+ENSG00000141543	EIF4A3	H. sapiens	S000002428	FAL1	S. cerevisiae	orthologue
+ENSG00000142168	SOD1	H. sapiens	S000003865	SOD1	S. cerevisiae	homologue
+ENSG00000142168	SOD1	H. sapiens	S000003865	SOD1	S. cerevisiae	least diverged orthologue
+ENSG00000142168	SOD1	H. sapiens	S000003865	SOD1	S. cerevisiae	orthologue
+ENSG00000142168	SOD1	H. sapiens	S000003865	SOD1	S. cerevisiae	orthologue
+ENSG00000142892	PIGK	H. sapiens	S000002739	GPI8	S. cerevisiae	homologue
+ENSG00000142892	PIGK	H. sapiens	S000002739	GPI8	S. cerevisiae	least diverged orthologue
+ENSG00000142892	PIGK	H. sapiens	S000002739	GPI8	S. cerevisiae	orthologue
+ENSG00000142892	PIGK	H. sapiens	S000002739	GPI8	S. cerevisiae	orthologue
+ENSG00000143106	PSMA5	H. sapiens	S000003485	PUP2	S. cerevisiae	homologue
+ENSG00000143106	PSMA5	H. sapiens	S000003485	PUP2	S. cerevisiae	least diverged orthologue
+ENSG00000143106	PSMA5	H. sapiens	S000003485	PUP2	S. cerevisiae	orthologue
+ENSG00000143106	PSMA5	H. sapiens	S000003485	PUP2	S. cerevisiae	orthologue
+ENSG00000143228	NUF2	H. sapiens	S000005430	NUF2	S. cerevisiae	least diverged orthologue
+ENSG00000143333	RGS16	H. sapiens	S000004444	SST2	S. cerevisiae	orthologue
+ENSG00000143333	RGS16	H. sapiens	S000005633	RGS2	S. cerevisiae	orthologue
+ENSG00000143393	PI4KB	H. sapiens	S000005211	PIK1	S. cerevisiae	homologue
+ENSG00000143393	PI4KB	H. sapiens	S000005211	PIK1	S. cerevisiae	least diverged orthologue
+ENSG00000143393	PI4KB	H. sapiens	S000005211	PIK1	S. cerevisiae	orthologue
+ENSG00000143398	PIP5K1A	H. sapiens	S000002616	MSS4	S. cerevisiae	homologue
+ENSG00000143398	PIP5K1A	H. sapiens	S000002616	MSS4	S. cerevisiae	orthologue
+ENSG00000143398	PIP5K1A	H. sapiens	S000002616	MSS4	S. cerevisiae	orthologue
+ENSG00000143418	CERS2	H. sapiens	S000000995	LAG1	S. cerevisiae	orthologue
+ENSG00000143418	CERS2	H. sapiens	S000000995	LAG1	S. cerevisiae	orthologue
+ENSG00000143418	CERS2	H. sapiens	S000001491	LAC1	S. cerevisiae	orthologue
+ENSG00000143418	CERS2	H. sapiens	S000001491	LAC1	S. cerevisiae	orthologue
+ENSG00000143457	GOLPH3L	H. sapiens	S000002780	VPS74	S. cerevisiae	homologue
+ENSG00000143457	GOLPH3L	H. sapiens	S000002780	VPS74	S. cerevisiae	orthologue
+ENSG00000143457	GOLPH3L	H. sapiens	S000002780	VPS74	S. cerevisiae	orthologue
+ENSG00000143457	GOLPH3L	H. sapiens	S000002780	VPS74	S. cerevisiae	orthologue
+ENSG00000143761	ARF1	H. sapiens	S000002296	ARF2	S. cerevisiae	homologue
+ENSG00000143761	ARF1	H. sapiens	S000002296	ARF2	S. cerevisiae	orthologue
+ENSG00000143761	ARF1	H. sapiens	S000002351	ARF1	S. cerevisiae	homologue
+ENSG00000143761	ARF1	H. sapiens	S000002351	ARF1	S. cerevisiae	orthologue
+ENSG00000143774	GUK1	H. sapiens	S000002862	GUK1	S. cerevisiae	homologue
+ENSG00000143774	GUK1	H. sapiens	S000002862	GUK1	S. cerevisiae	least diverged orthologue
+ENSG00000143774	GUK1	H. sapiens	S000002862	GUK1	S. cerevisiae	orthologue
+ENSG00000143774	GUK1	H. sapiens	S000002862	GUK1	S. cerevisiae	orthologue
+ENSG00000143933	CALM2	H. sapiens	S000000313	CMD1	S. cerevisiae	homologue
+ENSG00000143947	RPS27A	H. sapiens	S000004157	RPS31	S. cerevisiae	homologue
+ENSG00000143947	RPS27A	H. sapiens	S000004157	RPS31	S. cerevisiae	orthologue
+ENSG00000143947	RPS27A	H. sapiens	S000004157	RPS31	S. cerevisiae	orthologue
+ENSG00000144381	HSPD1	H. sapiens	S000004249	HSP60	S. cerevisiae	homologue
+ENSG00000144381	HSPD1	H. sapiens	S000004249	HSP60	S. cerevisiae	least diverged orthologue
+ENSG00000144381	HSPD1	H. sapiens	S000004249	HSP60	S. cerevisiae	orthologue
+ENSG00000144381	HSPD1	H. sapiens	S000004249	HSP60	S. cerevisiae	orthologue
+ENSG00000144736	SHQ1	H. sapiens	S000001366	SHQ1	S. cerevisiae	homologue
+ENSG00000144736	SHQ1	H. sapiens	S000001366	SHQ1	S. cerevisiae	least diverged orthologue
+ENSG00000144736	SHQ1	H. sapiens	S000001366	SHQ1	S. cerevisiae	orthologue
+ENSG00000144736	SHQ1	H. sapiens	S000001366	SHQ1	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000000038	CLN3	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000002314	CLB3	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000003340	CLB1	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000003340	CLB1	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000003341	CLB6	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000003341	CLB6	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000004200	CLB4	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000004200	CLB4	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000004812	CLN1	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000006177	CLN2	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000006323	CLB2	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000006323	CLB2	S. cerevisiae	orthologue
+ENSG00000145386	CCNA2	H. sapiens	S000006324	CLB5	S. cerevisiae	homologue
+ENSG00000145386	CCNA2	H. sapiens	S000006324	CLB5	S. cerevisiae	orthologue
+ENSG00000145414	NAF1	H. sapiens	S000005068	NAF1	S. cerevisiae	homologue
+ENSG00000145414	NAF1	H. sapiens	S000005068	NAF1	S. cerevisiae	least diverged orthologue
+ENSG00000145439	CBR4	H. sapiens	S000001717	FOX2	S. cerevisiae	horizontal gene transfer
+ENSG00000145439	CBR4	H. sapiens	S000005146	SPS19	S. cerevisiae	homologue
+ENSG00000145817	YIPF5	H. sapiens	S000003404	YIP1	S. cerevisiae	homologue
+ENSG00000145817	YIPF5	H. sapiens	S000003404	YIP1	S. cerevisiae	orthologue
+ENSG00000145817	YIPF5	H. sapiens	S000003404	YIP1	S. cerevisiae	orthologue
+ENSG00000145817	YIPF5	H. sapiens	S000003404	YIP1	S. cerevisiae	orthologue
+ENSG00000145912	NHP2	H. sapiens	S000002367	NHP2	S. cerevisiae	homologue
+ENSG00000145912	NHP2	H. sapiens	S000002367	NHP2	S. cerevisiae	least diverged orthologue
+ENSG00000145912	NHP2	H. sapiens	S000002367	NHP2	S. cerevisiae	orthologue
+ENSG00000145912	NHP2	H. sapiens	S000002367	NHP2	S. cerevisiae	orthologue
+ENSG00000146282	RARS2	H. sapiens	S000001133	MSR1	S. cerevisiae	homologue
+ENSG00000146282	RARS2	H. sapiens	S000001133	MSR1	S. cerevisiae	orthologue
+ENSG00000146282	RARS2	H. sapiens	S000001133	MSR1	S. cerevisiae	orthologue
+ENSG00000146282	RARS2	H. sapiens	S000002749	""	S. cerevisiae	homologue
+ENSG00000146282	RARS2	H. sapiens	S000002749	""	S. cerevisiae	least diverged orthologue
+ENSG00000146282	RARS2	H. sapiens	S000002749	""	S. cerevisiae	orthologue
+ENSG00000146282	RARS2	H. sapiens	S000002749	""	S. cerevisiae	orthologue
+ENSG00000147383	NSDHL	H. sapiens	S000002969	ERG26	S. cerevisiae	homologue
+ENSG00000147383	NSDHL	H. sapiens	S000002969	ERG26	S. cerevisiae	least diverged orthologue
+ENSG00000147383	NSDHL	H. sapiens	S000002969	ERG26	S. cerevisiae	orthologue
+ENSG00000147383	NSDHL	H. sapiens	S000002969	ERG26	S. cerevisiae	orthologue
+ENSG00000147403	RPL10	H. sapiens	S000004065	RPL10	S. cerevisiae	homologue
+ENSG00000147403	RPL10	H. sapiens	S000004065	RPL10	S. cerevisiae	least diverged orthologue
+ENSG00000147403	RPL10	H. sapiens	S000004065	RPL10	S. cerevisiae	orthologue
+ENSG00000147669	POLR2K	H. sapiens	S000001185	RPC10	S. cerevisiae	least diverged orthologue
+ENSG00000147669	POLR2K	H. sapiens	S000001185	RPC10	S. cerevisiae	orthologue
+ENSG00000148218	ALAD	H. sapiens	S000003008	HEM2	S. cerevisiae	homologue
+ENSG00000148218	ALAD	H. sapiens	S000003008	HEM2	S. cerevisiae	least diverged orthologue
+ENSG00000148218	ALAD	H. sapiens	S000003008	HEM2	S. cerevisiae	orthologue
+ENSG00000148218	ALAD	H. sapiens	S000003008	HEM2	S. cerevisiae	orthologue
+ENSG00000148429	USP6NL	H. sapiens	S000005237	MSB3	S. cerevisiae	homologue
+ENSG00000148429	USP6NL	H. sapiens	S000005472	MSB4	S. cerevisiae	homologue
+ENSG00000149084	HSD17B12	H. sapiens	S000000363	IFA38	S. cerevisiae	homologue
+ENSG00000149084	HSD17B12	H. sapiens	S000000363	IFA38	S. cerevisiae	orthologue
+ENSG00000149084	HSD17B12	H. sapiens	S000000363	IFA38	S. cerevisiae	orthologue
+ENSG00000149084	HSD17B12	H. sapiens	S000000363	IFA38	S. cerevisiae	orthologue
+ENSG00000149084	HSD17B12	H. sapiens	S000001717	FOX2	S. cerevisiae	horizontal gene transfer
+ENSG00000149084	HSD17B12	H. sapiens	S000004090	ERG27	S. cerevisiae	orthologue
+ENSG00000149136	SSRP1	H. sapiens	S000004534	POB3	S. cerevisiae	homologue
+ENSG00000149136	SSRP1	H. sapiens	S000004534	POB3	S. cerevisiae	orthologue
+ENSG00000149716	ORAOV1	H. sapiens	S000005204	LTO1	S. cerevisiae	least diverged orthologue
+ENSG00000149716	ORAOV1	H. sapiens	S000005204	LTO1	S. cerevisiae	orthologue
+ENSG00000151093	OXSM	H. sapiens	S000000863	CEM1	S. cerevisiae	homologue
+ENSG00000151093	OXSM	H. sapiens	S000000863	CEM1	S. cerevisiae	horizontal gene transfer
+ENSG00000151093	OXSM	H. sapiens	S000000863	CEM1	S. cerevisiae	orthologue
+ENSG00000151465	CDC123	H. sapiens	S000004205	CDC123	S. cerevisiae	homologue
+ENSG00000151465	CDC123	H. sapiens	S000004205	CDC123	S. cerevisiae	least diverged orthologue
+ENSG00000151465	CDC123	H. sapiens	S000004205	CDC123	S. cerevisiae	orthologue
+ENSG00000151465	CDC123	H. sapiens	S000004205	CDC123	S. cerevisiae	orthologue
+ENSG00000151532	VTI1A	H. sapiens	S000004810	VTI1	S. cerevisiae	homologue
+ENSG00000151532	VTI1A	H. sapiens	S000004810	VTI1	S. cerevisiae	least diverged orthologue
+ENSG00000151532	VTI1A	H. sapiens	S000004810	VTI1	S. cerevisiae	orthologue
+ENSG00000151665	PIGF	H. sapiens	S000002710	GPI11	S. cerevisiae	least diverged orthologue
+ENSG00000151665	PIGF	H. sapiens	S000002710	GPI11	S. cerevisiae	orthologue
+ENSG00000151726	ACSL1	H. sapiens	S000000817	FAA2	S. cerevisiae	homologue
+ENSG00000151726	ACSL1	H. sapiens	S000000817	FAA2	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000126	PET9	S. cerevisiae	homologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000126	PET9	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000126	PET9	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000289	AAC3	S. cerevisiae	homologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000289	AAC3	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000000289	AAC3	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000004660	AAC1	S. cerevisiae	homologue
+ENSG00000151729	SLC25A4	H. sapiens	S000004660	AAC1	S. cerevisiae	orthologue
+ENSG00000151729	SLC25A4	H. sapiens	S000004660	AAC1	S. cerevisiae	orthologue
+ENSG00000151806	GUF1	H. sapiens	S000004280	GUF1	S. cerevisiae	homologue
+ENSG00000151806	GUF1	H. sapiens	S000004280	GUF1	S. cerevisiae	least diverged orthologue
+ENSG00000151806	GUF1	H. sapiens	S000004280	GUF1	S. cerevisiae	orthologue
+ENSG00000151806	GUF1	H. sapiens	S000004280	GUF1	S. cerevisiae	orthologue
+ENSG00000152556	PFKM	H. sapiens	S000003472	PFK1	S. cerevisiae	homologue
+ENSG00000152556	PFKM	H. sapiens	S000003472	PFK1	S. cerevisiae	orthologue
+ENSG00000152556	PFKM	H. sapiens	S000003472	PFK1	S. cerevisiae	orthologue
+ENSG00000152556	PFKM	H. sapiens	S000004818	PFK2	S. cerevisiae	homologue
+ENSG00000152556	PFKM	H. sapiens	S000004818	PFK2	S. cerevisiae	orthologue
+ENSG00000152556	PFKM	H. sapiens	S000004818	PFK2	S. cerevisiae	orthologue
+ENSG00000153574	RPIA	H. sapiens	S000005621	RKI1	S. cerevisiae	homologue
+ENSG00000153574	RPIA	H. sapiens	S000005621	RKI1	S. cerevisiae	least diverged orthologue
+ENSG00000153574	RPIA	H. sapiens	S000005621	RKI1	S. cerevisiae	orthologue
+ENSG00000153574	RPIA	H. sapiens	S000005621	RKI1	S. cerevisiae	orthologue
+ENSG00000153786	ZDHHC7	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000153786	ZDHHC7	H. sapiens	S000005270	PFA3	S. cerevisiae	orthologue
+ENSG00000153989	NUS1	H. sapiens	S000002352	NUS1	S. cerevisiae	homologue
+ENSG00000153989	NUS1	H. sapiens	S000002352	NUS1	S. cerevisiae	least diverged orthologue
+ENSG00000153989	NUS1	H. sapiens	S000002352	NUS1	S. cerevisiae	orthologue
+ENSG00000155229	MMS19	H. sapiens	S000001390	MET18	S. cerevisiae	homologue
+ENSG00000155229	MMS19	H. sapiens	S000001390	MET18	S. cerevisiae	least diverged orthologue
+ENSG00000155229	MMS19	H. sapiens	S000001390	MET18	S. cerevisiae	orthologue
+ENSG00000155229	MMS19	H. sapiens	S000001390	MET18	S. cerevisiae	orthologue
+ENSG00000155287	SLC25A28	H. sapiens	S000001760	MRS4	S. cerevisiae	homologue
+ENSG00000155287	SLC25A28	H. sapiens	S000001760	MRS4	S. cerevisiae	least diverged orthologue
+ENSG00000155287	SLC25A28	H. sapiens	S000001760	MRS4	S. cerevisiae	orthologue
+ENSG00000155287	SLC25A28	H. sapiens	S000003669	MRS3	S. cerevisiae	homologue
+ENSG00000155287	SLC25A28	H. sapiens	S000003669	MRS3	S. cerevisiae	orthologue
+ENSG00000155287	SLC25A28	H. sapiens	S000003669	MRS3	S. cerevisiae	orthologue
+ENSG00000155463	OXA1L	H. sapiens	S000000956	OXA1	S. cerevisiae	homologue
+ENSG00000155463	OXA1L	H. sapiens	S000000956	OXA1	S. cerevisiae	least diverged orthologue
+ENSG00000155463	OXA1L	H. sapiens	S000000956	OXA1	S. cerevisiae	orthologue
+ENSG00000155463	OXA1L	H. sapiens	S000000956	OXA1	S. cerevisiae	orthologue
+ENSG00000155876	RRAGA	H. sapiens	S000004590	GTR1	S. cerevisiae	homologue
+ENSG00000155876	RRAGA	H. sapiens	S000004590	GTR1	S. cerevisiae	least diverged orthologue
+ENSG00000155959	VBP1	H. sapiens	S000003310	PAC10	S. cerevisiae	homologue
+ENSG00000155959	VBP1	H. sapiens	S000003310	PAC10	S. cerevisiae	least diverged orthologue
+ENSG00000155959	VBP1	H. sapiens	S000003310	PAC10	S. cerevisiae	orthologue
+ENSG00000155959	VBP1	H. sapiens	S000003310	PAC10	S. cerevisiae	orthologue
+ENSG00000156482	RPL30	H. sapiens	S000002998	RPL30	S. cerevisiae	homologue
+ENSG00000156482	RPL30	H. sapiens	S000002998	RPL30	S. cerevisiae	least diverged orthologue
+ENSG00000156482	RPL30	H. sapiens	S000002998	RPL30	S. cerevisiae	orthologue
+ENSG00000156502	SUPV3L1	H. sapiens	S000005950	SUV3	S. cerevisiae	homologue
+ENSG00000156502	SUPV3L1	H. sapiens	S000005950	SUV3	S. cerevisiae	least diverged orthologue
+ENSG00000156502	SUPV3L1	H. sapiens	S000005950	SUV3	S. cerevisiae	orthologue
+ENSG00000156599	ZDHHC5	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000156958	GALK2	H. sapiens	S000000224	GAL1	S. cerevisiae	homologue
+ENSG00000156958	GALK2	H. sapiens	S000000224	GAL1	S. cerevisiae	least diverged orthologue
+ENSG00000156958	GALK2	H. sapiens	S000000224	GAL1	S. cerevisiae	orthologue
+ENSG00000156958	GALK2	H. sapiens	S000000224	GAL1	S. cerevisiae	orthologue
+ENSG00000156958	GALK2	H. sapiens	S000002416	GAL3	S. cerevisiae	homologue
+ENSG00000156958	GALK2	H. sapiens	S000002416	GAL3	S. cerevisiae	orthologue
+ENSG00000156958	GALK2	H. sapiens	S000002416	GAL3	S. cerevisiae	orthologue
+ENSG00000156958	GALK2	H. sapiens	S000002416	GAL3	S. cerevisiae	orthologue
+ENSG00000157020	SEC13	H. sapiens	S000004198	SEC13	S. cerevisiae	homologue
+ENSG00000157020	SEC13	H. sapiens	S000004198	SEC13	S. cerevisiae	least diverged orthologue
+ENSG00000157020	SEC13	H. sapiens	S000004198	SEC13	S. cerevisiae	orthologue
+ENSG00000157020	SEC13	H. sapiens	S000004198	SEC13	S. cerevisiae	orthologue
+ENSG00000157916	RER1	H. sapiens	S000000507	RER1	S. cerevisiae	homologue
+ENSG00000157916	RER1	H. sapiens	S000000507	RER1	S. cerevisiae	least diverged orthologue
+ENSG00000157916	RER1	H. sapiens	S000000507	RER1	S. cerevisiae	orthologue
+ENSG00000157916	RER1	H. sapiens	S000000507	RER1	S. cerevisiae	orthologue
+ENSG00000158417	EIF5B	H. sapiens	S000000033	FUN12	S. cerevisiae	homologue
+ENSG00000158417	EIF5B	H. sapiens	S000000033	FUN12	S. cerevisiae	least diverged orthologue
+ENSG00000158417	EIF5B	H. sapiens	S000000033	FUN12	S. cerevisiae	orthologue
+ENSG00000159063	ALG8	H. sapiens	S000005593	ALG8	S. cerevisiae	homologue
+ENSG00000159063	ALG8	H. sapiens	S000005593	ALG8	S. cerevisiae	least diverged orthologue
+ENSG00000159063	ALG8	H. sapiens	S000005593	ALG8	S. cerevisiae	orthologue
+ENSG00000159063	ALG8	H. sapiens	S000005593	ALG8	S. cerevisiae	orthologue
+ENSG00000159267	HLCS	H. sapiens	S000002300	BPL1	S. cerevisiae	homologue
+ENSG00000159267	HLCS	H. sapiens	S000002300	BPL1	S. cerevisiae	least diverged orthologue
+ENSG00000159267	HLCS	H. sapiens	S000002300	BPL1	S. cerevisiae	orthologue
+ENSG00000159423	ALDH4A1	H. sapiens	S000001079	PUT2	S. cerevisiae	homologue
+ENSG00000159423	ALDH4A1	H. sapiens	S000001079	PUT2	S. cerevisiae	least diverged orthologue
+ENSG00000159423	ALDH4A1	H. sapiens	S000001079	PUT2	S. cerevisiae	orthologue
+ENSG00000159423	ALDH4A1	H. sapiens	S000001079	PUT2	S. cerevisiae	orthologue
+ENSG00000159714	ZDHHC1	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000160014	CALM3	H. sapiens	S000000313	CMD1	S. cerevisiae	homologue
+ENSG00000160200	CBS	H. sapiens	S000001701	SRY1	S. cerevisiae	horizontal gene transfer
+ENSG00000160200	CBS	H. sapiens	S000003387	CYS4	S. cerevisiae	homologue
+ENSG00000160200	CBS	H. sapiens	S000003387	CYS4	S. cerevisiae	least diverged orthologue
+ENSG00000160200	CBS	H. sapiens	S000003387	CYS4	S. cerevisiae	orthologue
+ENSG00000160200	CBS	H. sapiens	S000003387	CYS4	S. cerevisiae	orthologue
+ENSG00000160211	G6PD	H. sapiens	S000005185	ZWF1	S. cerevisiae	homologue
+ENSG00000160211	G6PD	H. sapiens	S000005185	ZWF1	S. cerevisiae	least diverged orthologue
+ENSG00000160211	G6PD	H. sapiens	S000005185	ZWF1	S. cerevisiae	orthologue
+ENSG00000160211	G6PD	H. sapiens	S000005185	ZWF1	S. cerevisiae	orthologue
+ENSG00000160285	LSS	H. sapiens	S000001114	ERG7	S. cerevisiae	homologue
+ENSG00000160285	LSS	H. sapiens	S000001114	ERG7	S. cerevisiae	least diverged orthologue
+ENSG00000160285	LSS	H. sapiens	S000001114	ERG7	S. cerevisiae	orthologue
+ENSG00000160285	LSS	H. sapiens	S000001114	ERG7	S. cerevisiae	orthologue
+ENSG00000160446	ZDHHC12	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000160688	FLAD1	H. sapiens	S000002203	FAD1	S. cerevisiae	homologue
+ENSG00000160688	FLAD1	H. sapiens	S000002203	FAD1	S. cerevisiae	least diverged orthologue
+ENSG00000160688	FLAD1	H. sapiens	S000002203	FAD1	S. cerevisiae	orthologue
+ENSG00000160688	FLAD1	H. sapiens	S000002203	FAD1	S. cerevisiae	orthologue
+ENSG00000161057	PSMC2	H. sapiens	S000001628	RPT1	S. cerevisiae	homologue
+ENSG00000161057	PSMC2	H. sapiens	S000001628	RPT1	S. cerevisiae	least diverged orthologue
+ENSG00000161057	PSMC2	H. sapiens	S000001628	RPT1	S. cerevisiae	orthologue
+ENSG00000161057	PSMC2	H. sapiens	S000001628	RPT1	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000000038	CLN3	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000002314	CLB3	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000003340	CLB1	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000003341	CLB6	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000004200	CLB4	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000004812	CLN1	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000006177	CLN2	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000006323	CLB2	S. cerevisiae	orthologue
+ENSG00000162063	CCNF	H. sapiens	S000006324	CLB5	S. cerevisiae	orthologue
+ENSG00000162231	NXF1	H. sapiens	S000006090	MEX67	S. cerevisiae	least diverged orthologue
+ENSG00000162231	NXF1	H. sapiens	S000006090	MEX67	S. cerevisiae	orthologue
+ENSG00000162231	NXF1	H. sapiens	S000006090	MEX67	S. cerevisiae	orthologue
+ENSG00000162236	STX5	H. sapiens	S000004016	SED5	S. cerevisiae	homologue
+ENSG00000162236	STX5	H. sapiens	S000004016	SED5	S. cerevisiae	least diverged orthologue
+ENSG00000162236	STX5	H. sapiens	S000004016	SED5	S. cerevisiae	orthologue
+ENSG00000162236	STX5	H. sapiens	S000004016	SED5	S. cerevisiae	orthologue
+ENSG00000162368	CMPK1	H. sapiens	S000001507	URA6	S. cerevisiae	homologue
+ENSG00000162368	CMPK1	H. sapiens	S000001507	URA6	S. cerevisiae	least diverged orthologue
+ENSG00000162368	CMPK1	H. sapiens	S000001507	URA6	S. cerevisiae	orthologue
+ENSG00000162368	CMPK1	H. sapiens	S000001507	URA6	S. cerevisiae	orthologue
+ENSG00000162928	PEX13	H. sapiens	S000004181	PEX13	S. cerevisiae	homologue
+ENSG00000162928	PEX13	H. sapiens	S000004181	PEX13	S. cerevisiae	least diverged orthologue
+ENSG00000162928	PEX13	H. sapiens	S000004181	PEX13	S. cerevisiae	orthologue
+ENSG00000163050	ADCK3	H. sapiens	S000003087	COQ8	S. cerevisiae	homologue
+ENSG00000163050	ADCK3	H. sapiens	S000003087	COQ8	S. cerevisiae	orthologue
+ENSG00000163050	ADCK3	H. sapiens	S000003087	COQ8	S. cerevisiae	orthologue
+ENSG00000163050	ADCK3	H. sapiens	S000003087	COQ8	S. cerevisiae	orthologue
+ENSG00000163624	CDS1	H. sapiens	S000000233	CDS1	S. cerevisiae	homologue
+ENSG00000163624	CDS1	H. sapiens	S000000233	CDS1	S. cerevisiae	orthologue
+ENSG00000163624	CDS1	H. sapiens	S000000233	CDS1	S. cerevisiae	orthologue
+ENSG00000163624	CDS1	H. sapiens	S000000233	CDS1	S. cerevisiae	orthologue
+ENSG00000163635	ATXN7	H. sapiens	S000003034	SGF73	S. cerevisiae	least diverged orthologue
+ENSG00000163636	PSMD6	H. sapiens	S000001333	PCI8	S. cerevisiae	orthologue
+ENSG00000163636	PSMD6	H. sapiens	S000006312	RPN7	S. cerevisiae	homologue
+ENSG00000163636	PSMD6	H. sapiens	S000006312	RPN7	S. cerevisiae	least diverged orthologue
+ENSG00000163636	PSMD6	H. sapiens	S000006312	RPN7	S. cerevisiae	orthologue
+ENSG00000163812	ZDHHC3	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000163812	ZDHHC3	H. sapiens	S000005270	PFA3	S. cerevisiae	least diverged orthologue
+ENSG00000163882	POLR2H	H. sapiens	S000005750	RPB8	S. cerevisiae	homologue
+ENSG00000163882	POLR2H	H. sapiens	S000005750	RPB8	S. cerevisiae	least diverged orthologue
+ENSG00000163882	POLR2H	H. sapiens	S000005750	RPB8	S. cerevisiae	orthologue
+ENSG00000163902	RPN1	H. sapiens	S000003539	OST1	S. cerevisiae	homologue
+ENSG00000163902	RPN1	H. sapiens	S000003539	OST1	S. cerevisiae	least diverged orthologue
+ENSG00000163933	RFT1	H. sapiens	S000000116	RFT1	S. cerevisiae	homologue
+ENSG00000163933	RFT1	H. sapiens	S000000116	RFT1	S. cerevisiae	least diverged orthologue
+ENSG00000163933	RFT1	H. sapiens	S000000116	RFT1	S. cerevisiae	orthologue
+ENSG00000163933	RFT1	H. sapiens	S000000116	RFT1	S. cerevisiae	orthologue
+ENSG00000164024	METAP1	H. sapiens	S000000187	MAP2	S. cerevisiae	horizontal gene transfer
+ENSG00000164024	METAP1	H. sapiens	S000002508	ARX1	S. cerevisiae	horizontal gene transfer
+ENSG00000164024	METAP1	H. sapiens	S000003952	FRA1	S. cerevisiae	horizontal gene transfer
+ENSG00000164024	METAP1	H. sapiens	S000004234	MAP1	S. cerevisiae	homologue
+ENSG00000164024	METAP1	H. sapiens	S000004234	MAP1	S. cerevisiae	least diverged orthologue
+ENSG00000164024	METAP1	H. sapiens	S000004234	MAP1	S. cerevisiae	orthologue
+ENSG00000164024	METAP1	H. sapiens	S000004234	MAP1	S. cerevisiae	orthologue
+ENSG00000164134	NAA15	H. sapiens	S000002198	NAT1	S. cerevisiae	least diverged orthologue
+ENSG00000164134	NAA15	H. sapiens	S000005436	MDM20	S. cerevisiae	orthologue
+ENSG00000164181	ELOVL7	H. sapiens	S000000630	ELO2	S. cerevisiae	homologue
+ENSG00000164181	ELOVL7	H. sapiens	S000003732	ELO1	S. cerevisiae	homologue
+ENSG00000164181	ELOVL7	H. sapiens	S000004364	ELO3	S. cerevisiae	homologue
+ENSG00000164338	UTP15	H. sapiens	S000004699	UTP15	S. cerevisiae	homologue
+ENSG00000164338	UTP15	H. sapiens	S000004699	UTP15	S. cerevisiae	least diverged orthologue
+ENSG00000164338	UTP15	H. sapiens	S000004699	UTP15	S. cerevisiae	orthologue
+ENSG00000164338	UTP15	H. sapiens	S000004699	UTP15	S. cerevisiae	orthologue
+ENSG00000164398	ACSL6	H. sapiens	S000000817	FAA2	S. cerevisiae	orthologue
+ENSG00000164609	SLU7	H. sapiens	S000002495	SLU7	S. cerevisiae	least diverged orthologue
+ENSG00000164754	RAD21	H. sapiens	S000002161	MCD1	S. cerevisiae	orthologue
+ENSG00000164754	RAD21	H. sapiens	S000006211	REC8	S. cerevisiae	least diverged orthologue
+ENSG00000164933	SLC25A32	H. sapiens	S000000732	YEA6	S. cerevisiae	homologue
+ENSG00000164933	SLC25A32	H. sapiens	S000001268	YIA6	S. cerevisiae	homologue
+ENSG00000164933	SLC25A32	H. sapiens	S000001396	FLX1	S. cerevisiae	least diverged orthologue
+ENSG00000164933	SLC25A32	H. sapiens	S000001396	FLX1	S. cerevisiae	orthologue
+ENSG00000164933	SLC25A32	H. sapiens	S000001396	FLX1	S. cerevisiae	orthologue
+ENSG00000165060	FXN	H. sapiens	S000002278	YFH1	S. cerevisiae	homologue
+ENSG00000165060	FXN	H. sapiens	S000002278	YFH1	S. cerevisiae	least diverged orthologue
+ENSG00000165060	FXN	H. sapiens	S000002278	YFH1	S. cerevisiae	orthologue
+ENSG00000165240	ATP7A	H. sapiens	S000000499	PCA1	S. cerevisiae	orthologue
+ENSG00000165240	ATP7A	H. sapiens	S000002678	CCC2	S. cerevisiae	homologue
+ENSG00000165240	ATP7A	H. sapiens	S000002678	CCC2	S. cerevisiae	orthologue
+ENSG00000165240	ATP7A	H. sapiens	S000002678	CCC2	S. cerevisiae	orthologue
+ENSG00000165240	ATP7A	H. sapiens	S000002678	CCC2	S. cerevisiae	orthologue
+ENSG00000165271	NOL6	H. sapiens	S000003322	UTP22	S. cerevisiae	homologue
+ENSG00000165271	NOL6	H. sapiens	S000003322	UTP22	S. cerevisiae	least diverged orthologue
+ENSG00000165271	NOL6	H. sapiens	S000003322	UTP22	S. cerevisiae	orthologue
+ENSG00000165271	NOL6	H. sapiens	S000003322	UTP22	S. cerevisiae	orthologue
+ENSG00000165280	VCP	H. sapiens	S000002284	CDC48	S. cerevisiae	homologue
+ENSG00000165280	VCP	H. sapiens	S000002284	CDC48	S. cerevisiae	least diverged orthologue
+ENSG00000165280	VCP	H. sapiens	S000002284	CDC48	S. cerevisiae	orthologue
+ENSG00000165280	VCP	H. sapiens	S000002284	CDC48	S. cerevisiae	orthologue
+ENSG00000165282	PIGO	H. sapiens	S000003954	GPI13	S. cerevisiae	homologue
+ENSG00000165282	PIGO	H. sapiens	S000003954	GPI13	S. cerevisiae	least diverged orthologue
+ENSG00000165282	PIGO	H. sapiens	S000003954	GPI13	S. cerevisiae	orthologue
+ENSG00000165392	WRN	H. sapiens	S000004802	SGS1	S. cerevisiae	homologue
+ENSG00000165527	ARF6	H. sapiens	S000002296	ARF2	S. cerevisiae	homologue
+ENSG00000165527	ARF6	H. sapiens	S000002351	ARF1	S. cerevisiae	homologue
+ENSG00000165527	ARF6	H. sapiens	S000005620	ARF3	S. cerevisiae	least diverged orthologue
+ENSG00000165527	ARF6	H. sapiens	S000005620	ARF3	S. cerevisiae	orthologue
+ENSG00000165527	ARF6	H. sapiens	S000005620	ARF3	S. cerevisiae	orthologue
+ENSG00000165637	VDAC2	H. sapiens	S000001376	POR2	S. cerevisiae	homologue
+ENSG00000165637	VDAC2	H. sapiens	S000001376	POR2	S. cerevisiae	orthologue
+ENSG00000165637	VDAC2	H. sapiens	S000001376	POR2	S. cerevisiae	orthologue
+ENSG00000165637	VDAC2	H. sapiens	S000005000	POR1	S. cerevisiae	homologue
+ENSG00000165637	VDAC2	H. sapiens	S000005000	POR1	S. cerevisiae	least diverged orthologue
+ENSG00000165637	VDAC2	H. sapiens	S000005000	POR1	S. cerevisiae	orthologue
+ENSG00000165637	VDAC2	H. sapiens	S000005000	POR1	S. cerevisiae	orthologue
+ENSG00000165916	PSMC3	H. sapiens	S000005643	RPT5	S. cerevisiae	homologue
+ENSG00000165916	PSMC3	H. sapiens	S000005643	RPT5	S. cerevisiae	least diverged orthologue
+ENSG00000165916	PSMC3	H. sapiens	S000005643	RPT5	S. cerevisiae	orthologue
+ENSG00000165916	PSMC3	H. sapiens	S000005643	RPT5	S. cerevisiae	orthologue
+ENSG00000166166	TRMT61A	H. sapiens	S000003661	GCD14	S. cerevisiae	homologue
+ENSG00000166166	TRMT61A	H. sapiens	S000003661	GCD14	S. cerevisiae	least diverged orthologue
+ENSG00000166166	TRMT61A	H. sapiens	S000003661	GCD14	S. cerevisiae	orthologue
+ENSG00000166169	POLL	H. sapiens	S000000607	POL4	S. cerevisiae	orthologue
+ENSG00000166169	POLL	H. sapiens	S000000607	POL4	S. cerevisiae	orthologue
+ENSG00000166441	RPL27A	H. sapiens	S000003071	RPL28	S. cerevisiae	homologue
+ENSG00000166441	RPL27A	H. sapiens	S000003071	RPL28	S. cerevisiae	least diverged orthologue
+ENSG00000166441	RPL27A	H. sapiens	S000003071	RPL28	S. cerevisiae	orthologue
+ENSG00000166441	RPL27A	H. sapiens	S000003071	RPL28	S. cerevisiae	orthologue
+ENSG00000166851	PLK1	H. sapiens	S000004603	CDC5	S. cerevisiae	homologue
+ENSG00000166851	PLK1	H. sapiens	S000004603	CDC5	S. cerevisiae	least diverged orthologue
+ENSG00000166851	PLK1	H. sapiens	S000004603	CDC5	S. cerevisiae	orthologue
+ENSG00000166851	PLK1	H. sapiens	S000004603	CDC5	S. cerevisiae	orthologue
+ENSG00000167113	COQ4	H. sapiens	S000002612	COQ4	S. cerevisiae	homologue
+ENSG00000167113	COQ4	H. sapiens	S000002612	COQ4	S. cerevisiae	least diverged orthologue
+ENSG00000167113	COQ4	H. sapiens	S000002612	COQ4	S. cerevisiae	orthologue
+ENSG00000167113	COQ4	H. sapiens	S000002612	COQ4	S. cerevisiae	orthologue
+ENSG00000167114	SLC27A4	H. sapiens	S000000245	FAT1	S. cerevisiae	homologue
+ENSG00000167114	SLC27A4	H. sapiens	S000000245	FAT1	S. cerevisiae	orthologue
+ENSG00000167114	SLC27A4	H. sapiens	S000000245	FAT1	S. cerevisiae	orthologue
+ENSG00000167118	URM1	H. sapiens	S000001270	URM1	S. cerevisiae	homologue
+ENSG00000167118	URM1	H. sapiens	S000001270	URM1	S. cerevisiae	least diverged orthologue
+ENSG00000167118	URM1	H. sapiens	S000001270	URM1	S. cerevisiae	orthologue
+ENSG00000167264	DUS2	H. sapiens	S000005298	SMM1	S. cerevisiae	homologue
+ENSG00000167264	DUS2	H. sapiens	S000005298	SMM1	S. cerevisiae	least diverged orthologue
+ENSG00000167264	DUS2	H. sapiens	S000005298	SMM1	S. cerevisiae	orthologue
+ENSG00000167508	MVD	H. sapiens	S000005326	MVD1	S. cerevisiae	homologue
+ENSG00000167508	MVD	H. sapiens	S000005326	MVD1	S. cerevisiae	least diverged orthologue
+ENSG00000167508	MVD	H. sapiens	S000005326	MVD1	S. cerevisiae	orthologue
+ENSG00000167508	MVD	H. sapiens	S000005326	MVD1	S. cerevisiae	orthologue
+ENSG00000167965	MLST8	H. sapiens	S000004951	LST8	S. cerevisiae	homologue
+ENSG00000167965	MLST8	H. sapiens	S000004951	LST8	S. cerevisiae	least diverged orthologue
+ENSG00000167965	MLST8	H. sapiens	S000004951	LST8	S. cerevisiae	orthologue
+ENSG00000167965	MLST8	H. sapiens	S000004951	LST8	S. cerevisiae	orthologue
+ENSG00000168002	POLR2G	H. sapiens	S000002812	RPB7	S. cerevisiae	homologue
+ENSG00000168002	POLR2G	H. sapiens	S000002812	RPB7	S. cerevisiae	least diverged orthologue
+ENSG00000168002	POLR2G	H. sapiens	S000002812	RPB7	S. cerevisiae	orthologue
+ENSG00000168002	POLR2G	H. sapiens	S000002812	RPB7	S. cerevisiae	orthologue
+ENSG00000168374	ARF4	H. sapiens	S000002296	ARF2	S. cerevisiae	homologue
+ENSG00000168374	ARF4	H. sapiens	S000002296	ARF2	S. cerevisiae	orthologue
+ENSG00000168374	ARF4	H. sapiens	S000002351	ARF1	S. cerevisiae	homologue
+ENSG00000168374	ARF4	H. sapiens	S000002351	ARF1	S. cerevisiae	orthologue
+ENSG00000168393	DTYMK	H. sapiens	S000003818	CDC8	S. cerevisiae	homologue
+ENSG00000168393	DTYMK	H. sapiens	S000003818	CDC8	S. cerevisiae	least diverged orthologue
+ENSG00000168393	DTYMK	H. sapiens	S000003818	CDC8	S. cerevisiae	orthologue
+ENSG00000168393	DTYMK	H. sapiens	S000003818	CDC8	S. cerevisiae	orthologue
+ENSG00000168438	CDC40	H. sapiens	S000002772	CDC40	S. cerevisiae	homologue
+ENSG00000168438	CDC40	H. sapiens	S000002772	CDC40	S. cerevisiae	least diverged orthologue
+ENSG00000168438	CDC40	H. sapiens	S000002772	CDC40	S. cerevisiae	orthologue
+ENSG00000168438	CDC40	H. sapiens	S000005424	CRT10	S. cerevisiae	least diverged orthologue
+ENSG00000168495	POLR3D	H. sapiens	S000002309	RPC53	S. cerevisiae	least diverged orthologue
+ENSG00000168496	FEN1	H. sapiens	S000001596	RAD27	S. cerevisiae	homologue
+ENSG00000168496	FEN1	H. sapiens	S000001596	RAD27	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000168496	FEN1	H. sapiens	S000001596	RAD27	S. cerevisiae	orthologue
+ENSG00000168496	FEN1	H. sapiens	S000001596	RAD27	S. cerevisiae	orthologue
+ENSG00000168924	LETM1	H. sapiens	S000005387	MDM38	S. cerevisiae	homologue
+ENSG00000168924	LETM1	H. sapiens	S000005387	MDM38	S. cerevisiae	least diverged orthologue
+ENSG00000168924	LETM1	H. sapiens	S000005387	MDM38	S. cerevisiae	orthologue
+ENSG00000168924	LETM1	H. sapiens	S000006329	YLH47	S. cerevisiae	homologue
+ENSG00000168924	LETM1	H. sapiens	S000006329	YLH47	S. cerevisiae	orthologue
+ENSG00000168924	LETM1	H. sapiens	S000006329	YLH47	S. cerevisiae	orthologue
+ENSG00000168924	LETM1	H. sapiens	S000006329	YLH47	S. cerevisiae	orthologue
+ENSG00000169251	NMD3	H. sapiens	S000001213	NMD3	S. cerevisiae	homologue
+ENSG00000169251	NMD3	H. sapiens	S000001213	NMD3	S. cerevisiae	least diverged orthologue
+ENSG00000169251	NMD3	H. sapiens	S000001213	NMD3	S. cerevisiae	orthologue
+ENSG00000169251	NMD3	H. sapiens	S000001213	NMD3	S. cerevisiae	orthologue
+ENSG00000169567	HINT1	H. sapiens	S000002283	HNT1	S. cerevisiae	horizontal gene transfer
+ENSG00000169567	HINT1	H. sapiens	S000002283	HNT1	S. cerevisiae	orthologue
+ENSG00000169567	HINT1	H. sapiens	S000002713	HNT2	S. cerevisiae	horizontal gene transfer
+ENSG00000169764	UGP2	H. sapiens	S000001004	""	S. cerevisiae	orthologue
+ENSG00000169764	UGP2	H. sapiens	S000001004	""	S. cerevisiae	orthologue
+ENSG00000169764	UGP2	H. sapiens	S000001518	UGP1	S. cerevisiae	homologue
+ENSG00000169764	UGP2	H. sapiens	S000001518	UGP1	S. cerevisiae	least diverged orthologue
+ENSG00000169764	UGP2	H. sapiens	S000001518	UGP1	S. cerevisiae	orthologue
+ENSG00000169764	UGP2	H. sapiens	S000002261	QRI1	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000170043	TRAPPC1	H. sapiens	S000004542	BET5	S. cerevisiae	homologue
+ENSG00000170043	TRAPPC1	H. sapiens	S000004542	BET5	S. cerevisiae	least diverged orthologue
+ENSG00000170043	TRAPPC1	H. sapiens	S000004542	BET5	S. cerevisiae	orthologue
+ENSG00000170312	CDK1	H. sapiens	S000000364	CDC28	S. cerevisiae	homologue
+ENSG00000170312	CDK1	H. sapiens	S000000364	CDC28	S. cerevisiae	orthologue
+ENSG00000170445	HARS	H. sapiens	S000006237	HTS1	S. cerevisiae	homologue
+ENSG00000170445	HARS	H. sapiens	S000006237	HTS1	S. cerevisiae	least diverged orthologue
+ENSG00000170445	HARS	H. sapiens	S000006237	HTS1	S. cerevisiae	orthologue
+ENSG00000170445	HARS	H. sapiens	S000006237	HTS1	S. cerevisiae	orthologue
+ENSG00000170734	POLH	H. sapiens	S000002827	RAD30	S. cerevisiae	least diverged orthologue
+ENSG00000170734	POLH	H. sapiens	S000005873	REV1	S. cerevisiae	homologue
+ENSG00000171132	PRKCE	H. sapiens	S000000201	PKC1	S. cerevisiae	orthologue
+ENSG00000171132	PRKCE	H. sapiens	S000000201	PKC1	S. cerevisiae	orthologue
+ENSG00000171132	PRKCE	H. sapiens	S000001248	SCH9	S. cerevisiae	homologue
+ENSG00000171132	PRKCE	H. sapiens	S000001609	YPK1	S. cerevisiae	homologue
+ENSG00000171132	PRKCE	H. sapiens	S000004710	YPK2	S. cerevisiae	homologue
+ENSG00000171307	ZDHHC16	H. sapiens	S000005363	PFA4	S. cerevisiae	homologue
+ENSG00000171311	EXOSC1	H. sapiens	S000005176	CSL4	S. cerevisiae	homologue
+ENSG00000171311	EXOSC1	H. sapiens	S000005176	CSL4	S. cerevisiae	least diverged orthologue
+ENSG00000171311	EXOSC1	H. sapiens	S000005176	CSL4	S. cerevisiae	orthologue
+ENSG00000171311	EXOSC1	H. sapiens	S000005176	CSL4	S. cerevisiae	orthologue
+ENSG00000171793	CTPS1	H. sapiens	S000000135	URA7	S. cerevisiae	homologue
+ENSG00000171793	CTPS1	H. sapiens	S000000135	URA7	S. cerevisiae	orthologue
+ENSG00000171793	CTPS1	H. sapiens	S000000135	URA7	S. cerevisiae	orthologue
+ENSG00000171793	CTPS1	H. sapiens	S000003864	URA8	S. cerevisiae	homologue
+ENSG00000171793	CTPS1	H. sapiens	S000003864	URA8	S. cerevisiae	orthologue
+ENSG00000171793	CTPS1	H. sapiens	S000003864	URA8	S. cerevisiae	orthologue
+ENSG00000171793	CTPS1	H. sapiens	S000003864	URA8	S. cerevisiae	orthologue
+ENSG00000171953	ATPAF2	H. sapiens	S000003716	ATP12	S. cerevisiae	least diverged orthologue
+ENSG00000171953	ATPAF2	H. sapiens	S000003716	ATP12	S. cerevisiae	orthologue
+ENSG00000171953	ATPAF2	H. sapiens	S000003716	ATP12	S. cerevisiae	orthologue
+ENSG00000172053	QARS	H. sapiens	S000005694	GLN4	S. cerevisiae	homologue
+ENSG00000172053	QARS	H. sapiens	S000005694	GLN4	S. cerevisiae	least diverged orthologue
+ENSG00000172053	QARS	H. sapiens	S000005694	GLN4	S. cerevisiae	orthologue
+ENSG00000172053	QARS	H. sapiens	S000005694	GLN4	S. cerevisiae	orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000003270	ORM1	S. cerevisiae	homologue
+ENSG00000172057	ORMDL3	H. sapiens	S000003270	ORM1	S. cerevisiae	least diverged orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000003270	ORM1	S. cerevisiae	orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000003270	ORM1	S. cerevisiae	orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000004342	ORM2	S. cerevisiae	homologue
+ENSG00000172057	ORMDL3	H. sapiens	S000004342	ORM2	S. cerevisiae	orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000004342	ORM2	S. cerevisiae	orthologue
+ENSG00000172057	ORMDL3	H. sapiens	S000004342	ORM2	S. cerevisiae	orthologue
+ENSG00000172269	DPAGT1	H. sapiens	S000000447	ALG7	S. cerevisiae	homologue
+ENSG00000172269	DPAGT1	H. sapiens	S000000447	ALG7	S. cerevisiae	least diverged orthologue
+ENSG00000172269	DPAGT1	H. sapiens	S000000447	ALG7	S. cerevisiae	orthologue
+ENSG00000172269	DPAGT1	H. sapiens	S000000447	ALG7	S. cerevisiae	orthologue
+ENSG00000172315	TP53RK	H. sapiens	S000003494	BUD32	S. cerevisiae	homologue
+ENSG00000172315	TP53RK	H. sapiens	S000003494	BUD32	S. cerevisiae	least diverged orthologue
+ENSG00000172315	TP53RK	H. sapiens	S000003494	BUD32	S. cerevisiae	orthologue
+ENSG00000172315	TP53RK	H. sapiens	S000003494	BUD32	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000000604	ADP1	S. cerevisiae	homologue
+ENSG00000172350	ABCG4	H. sapiens	S000000604	ADP1	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000001275	PDR11	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000002418	SNQ2	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000002814	PDR15	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005353	PDR18	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005435	""	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005537	AUS1	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005679	PDR5	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005855	PDR10	S. cerevisiae	orthologue
+ENSG00000172350	ABCG4	H. sapiens	S000005979	PDR12	S. cerevisiae	orthologue
+ENSG00000172482	AGXT	H. sapiens	S000001864	AGX1	S. cerevisiae	homologue
+ENSG00000172482	AGXT	H. sapiens	S000001864	AGX1	S. cerevisiae	orthologue
+ENSG00000172482	AGXT	H. sapiens	S000001864	AGX1	S. cerevisiae	orthologue
+ENSG00000172531	PPP1CA	H. sapiens	S000000935	GLC7	S. cerevisiae	homologue
+ENSG00000172531	PPP1CA	H. sapiens	S000000935	GLC7	S. cerevisiae	orthologue
+ENSG00000172531	PPP1CA	H. sapiens	S000000935	GLC7	S. cerevisiae	orthologue
+ENSG00000172795	DCP2	H. sapiens	S000005062	DCP2	S. cerevisiae	homologue
+ENSG00000172795	DCP2	H. sapiens	S000005062	DCP2	S. cerevisiae	least diverged orthologue
+ENSG00000172795	DCP2	H. sapiens	S000005062	DCP2	S. cerevisiae	orthologue
+ENSG00000172977	KAT5	H. sapiens	S000004734	SAS2	S. cerevisiae	orthologue
+ENSG00000172977	KAT5	H. sapiens	S000005770	ESA1	S. cerevisiae	homologue
+ENSG00000172977	KAT5	H. sapiens	S000005770	ESA1	S. cerevisiae	least diverged orthologue
+ENSG00000172977	KAT5	H. sapiens	S000005770	ESA1	S. cerevisiae	orthologue
+ENSG00000172977	KAT5	H. sapiens	S000005770	ESA1	S. cerevisiae	orthologue
+ENSG00000172992	DCAKD	H. sapiens	S000002604	CAB5	S. cerevisiae	homologue
+ENSG00000172992	DCAKD	H. sapiens	S000002604	CAB5	S. cerevisiae	least diverged orthologue
+ENSG00000172992	DCAKD	H. sapiens	S000002604	CAB5	S. cerevisiae	orthologue
+ENSG00000172992	DCAKD	H. sapiens	S000002604	CAB5	S. cerevisiae	orthologue
+ENSG00000173085	COQ2	H. sapiens	S000005324	COQ2	S. cerevisiae	homologue
+ENSG00000173085	COQ2	H. sapiens	S000005324	COQ2	S. cerevisiae	least diverged orthologue
+ENSG00000173085	COQ2	H. sapiens	S000005324	COQ2	S. cerevisiae	orthologue
+ENSG00000173085	COQ2	H. sapiens	S000005324	COQ2	S. cerevisiae	orthologue
+ENSG00000173113	TRMT112	H. sapiens	S000005329	TRM112	S. cerevisiae	homologue
+ENSG00000173113	TRMT112	H. sapiens	S000005329	TRM112	S. cerevisiae	least diverged orthologue
+ENSG00000173113	TRMT112	H. sapiens	S000005329	TRM112	S. cerevisiae	orthologue
+ENSG00000173207	CKS1B	H. sapiens	S000000339	CKS1	S. cerevisiae	homologue
+ENSG00000173207	CKS1B	H. sapiens	S000000339	CKS1	S. cerevisiae	orthologue
+ENSG00000173208	ABCD2	H. sapiens	S000001671	PXA2	S. cerevisiae	least diverged orthologue
+ENSG00000173208	ABCD2	H. sapiens	S000001671	PXA2	S. cerevisiae	orthologue
+ENSG00000173208	ABCD2	H. sapiens	S000006068	PXA1	S. cerevisiae	homologue
+ENSG00000173208	ABCD2	H. sapiens	S000006068	PXA1	S. cerevisiae	orthologue
+ENSG00000173208	ABCD2	H. sapiens	S000006068	PXA1	S. cerevisiae	orthologue
+ENSG00000173409	ARV1	H. sapiens	S000004232	ARV1	S. cerevisiae	least diverged orthologue
+ENSG00000173409	ARV1	H. sapiens	S000004232	ARV1	S. cerevisiae	orthologue
+ENSG00000173486	FKBP2	H. sapiens	S000002927	FPR2	S. cerevisiae	homologue
+ENSG00000173486	FKBP2	H. sapiens	S000002927	FPR2	S. cerevisiae	orthologue
+ENSG00000173674	EIF1AX	H. sapiens	S000004873	TIF11	S. cerevisiae	homologue
+ENSG00000173674	EIF1AX	H. sapiens	S000004873	TIF11	S. cerevisiae	orthologue
+ENSG00000173674	EIF1AX	H. sapiens	S000004873	TIF11	S. cerevisiae	orthologue
+ENSG00000173674	EIF1AX	H. sapiens	S000004873	TIF11	S. cerevisiae	orthologue
+ENSG00000173692	PSMD1	H. sapiens	S000001337	RPN2	S. cerevisiae	homologue
+ENSG00000173692	PSMD1	H. sapiens	S000001337	RPN2	S. cerevisiae	least diverged orthologue
+ENSG00000173692	PSMD1	H. sapiens	S000001337	RPN2	S. cerevisiae	orthologue
+ENSG00000173692	PSMD1	H. sapiens	S000001337	RPN2	S. cerevisiae	orthologue
+ENSG00000173846	PLK3	H. sapiens	S000004603	CDC5	S. cerevisiae	homologue
+ENSG00000173846	PLK3	H. sapiens	S000004603	CDC5	S. cerevisiae	orthologue
+ENSG00000173846	PLK3	H. sapiens	S000004603	CDC5	S. cerevisiae	orthologue
+ENSG00000173992	CCS	H. sapiens	S000003865	SOD1	S. cerevisiae	homologue
+ENSG00000173992	CCS	H. sapiens	S000004641	CCS1	S. cerevisiae	least diverged orthologue
+ENSG00000173992	CCS	H. sapiens	S000004641	CCS1	S. cerevisiae	orthologue
+ENSG00000173992	CCS	H. sapiens	S000004641	CCS1	S. cerevisiae	orthologue
+ENSG00000174371	EXO1	H. sapiens	S000001596	RAD27	S. cerevisiae	horizontal gene transfer
+ENSG00000174371	EXO1	H. sapiens	S000002671	DIN7	S. cerevisiae	homologue
+ENSG00000174371	EXO1	H. sapiens	S000002671	DIN7	S. cerevisiae	orthologue
+ENSG00000174371	EXO1	H. sapiens	S000002671	DIN7	S. cerevisiae	orthologue
+ENSG00000174371	EXO1	H. sapiens	S000005559	EXO1	S. cerevisiae	homologue
+ENSG00000174371	EXO1	H. sapiens	S000005559	EXO1	S. cerevisiae	least diverged orthologue
+ENSG00000174371	EXO1	H. sapiens	S000005559	EXO1	S. cerevisiae	orthologue
+ENSG00000174775	HRAS	H. sapiens	S000005042	RAS2	S. cerevisiae	homologue
+ENSG00000174775	HRAS	H. sapiens	S000005042	RAS2	S. cerevisiae	orthologue
+ENSG00000174775	HRAS	H. sapiens	S000005627	RAS1	S. cerevisiae	homologue
+ENSG00000174775	HRAS	H. sapiens	S000005627	RAS1	S. cerevisiae	orthologue
+ENSG00000175048	ZDHHC14	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000175166	PSMD2	H. sapiens	S000001069	RPN1	S. cerevisiae	homologue
+ENSG00000175166	PSMD2	H. sapiens	S000001069	RPN1	S. cerevisiae	least diverged orthologue
+ENSG00000175166	PSMD2	H. sapiens	S000001069	RPN1	S. cerevisiae	orthologue
+ENSG00000175166	PSMD2	H. sapiens	S000001069	RPN1	S. cerevisiae	orthologue
+ENSG00000175193	PARL	H. sapiens	S000003333	PCP1	S. cerevisiae	homologue
+ENSG00000175193	PARL	H. sapiens	S000003333	PCP1	S. cerevisiae	least diverged orthologue
+ENSG00000175193	PARL	H. sapiens	S000003333	PCP1	S. cerevisiae	orthologue
+ENSG00000175283	DOLK	H. sapiens	S000004615	SEC59	S. cerevisiae	homologue
+ENSG00000175283	DOLK	H. sapiens	S000004615	SEC59	S. cerevisiae	least diverged orthologue
+ENSG00000175283	DOLK	H. sapiens	S000004615	SEC59	S. cerevisiae	orthologue
+ENSG00000175548	ALG10B	H. sapiens	S000003459	DIE2	S. cerevisiae	homologue
+ENSG00000175548	ALG10B	H. sapiens	S000003459	DIE2	S. cerevisiae	least diverged orthologue
+ENSG00000175548	ALG10B	H. sapiens	S000003459	DIE2	S. cerevisiae	orthologue
+ENSG00000175550	DRAP1	H. sapiens	S000000961	BUR6	S. cerevisiae	homologue
+ENSG00000175550	DRAP1	H. sapiens	S000000961	BUR6	S. cerevisiae	least diverged orthologue
+ENSG00000175893	ZDHHC21	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000177000	MTHFR	H. sapiens	S000000417	MET8	S. cerevisiae	orthologue
+ENSG00000177000	MTHFR	H. sapiens	S000003093	MET13	S. cerevisiae	homologue
+ENSG00000177000	MTHFR	H. sapiens	S000003093	MET13	S. cerevisiae	orthologue
+ENSG00000177000	MTHFR	H. sapiens	S000003093	MET13	S. cerevisiae	orthologue
+ENSG00000177000	MTHFR	H. sapiens	S000003093	MET13	S. cerevisiae	orthologue
+ENSG00000177000	MTHFR	H. sapiens	S000005944	MET12	S. cerevisiae	least diverged orthologue
+ENSG00000177000	MTHFR	H. sapiens	S000005944	MET12	S. cerevisiae	orthologue
+ENSG00000177556	ATOX1	H. sapiens	S000005203	ATX1	S. cerevisiae	least diverged orthologue
+ENSG00000177556	ATOX1	H. sapiens	S000005203	ATX1	S. cerevisiae	orthologue
+ENSG00000177700	POLR2L	H. sapiens	S000005736	RPB10	S. cerevisiae	homologue
+ENSG00000177700	POLR2L	H. sapiens	S000005736	RPB10	S. cerevisiae	least diverged orthologue
+ENSG00000177700	POLR2L	H. sapiens	S000005736	RPB10	S. cerevisiae	orthologue
+ENSG00000177700	POLR2L	H. sapiens	S000005736	RPB10	S. cerevisiae	orthologue
+ENSG00000178537	SLC25A20	H. sapiens	S000005626	CRC1	S. cerevisiae	homologue
+ENSG00000178537	SLC25A20	H. sapiens	S000005626	CRC1	S. cerevisiae	least diverged orthologue
+ENSG00000178537	SLC25A20	H. sapiens	S000005626	CRC1	S. cerevisiae	orthologue
+ENSG00000178537	SLC25A20	H. sapiens	S000005626	CRC1	S. cerevisiae	orthologue
+ENSG00000178896	EXOSC4	H. sapiens	S000003427	SKI6	S. cerevisiae	homologue
+ENSG00000178896	EXOSC4	H. sapiens	S000003427	SKI6	S. cerevisiae	least diverged orthologue
+ENSG00000178896	EXOSC4	H. sapiens	S000003427	SKI6	S. cerevisiae	orthologue
+ENSG00000178896	EXOSC4	H. sapiens	S000003427	SKI6	S. cerevisiae	orthologue
+ENSG00000179091	CYC1	H. sapiens	S000005591	CYT1	S. cerevisiae	homologue
+ENSG00000179091	CYC1	H. sapiens	S000005591	CYT1	S. cerevisiae	least diverged orthologue
+ENSG00000179091	CYC1	H. sapiens	S000005591	CYT1	S. cerevisiae	orthologue
+ENSG00000179091	CYC1	H. sapiens	S000005591	CYT1	S. cerevisiae	orthologue
+ENSG00000180198	RCC1	H. sapiens	S000003065	SRM1	S. cerevisiae	homologue
+ENSG00000180198	RCC1	H. sapiens	S000003065	SRM1	S. cerevisiae	orthologue
+ENSG00000180198	RCC1	H. sapiens	S000003065	SRM1	S. cerevisiae	orthologue
+ENSG00000180776	ZDHHC20	H. sapiens	S000005270	PFA3	S. cerevisiae	homologue
+ENSG00000180776	ZDHHC20	H. sapiens	S000005270	PFA3	S. cerevisiae	orthologue
+ENSG00000180776	ZDHHC20	H. sapiens	S000005363	PFA4	S. cerevisiae	orthologue
+ENSG00000181789	COPG1	H. sapiens	S000005231	SEC21	S. cerevisiae	homologue
+ENSG00000181789	COPG1	H. sapiens	S000005231	SEC21	S. cerevisiae	orthologue
+ENSG00000181789	COPG1	H. sapiens	S000005231	SEC21	S. cerevisiae	orthologue
+ENSG00000182093	WRB	H. sapiens	S000002988	GET1	S. cerevisiae	least diverged orthologue
+ENSG00000182117	NOP10	H. sapiens	S000007455	NOP10	S. cerevisiae	homologue
+ENSG00000182117	NOP10	H. sapiens	S000007455	NOP10	S. cerevisiae	least diverged orthologue
+ENSG00000182117	NOP10	H. sapiens	S000007455	NOP10	S. cerevisiae	orthologue
+ENSG00000182551	ADI1	H. sapiens	S000004611	ADI1	S. cerevisiae	homologue
+ENSG00000182551	ADI1	H. sapiens	S000004611	ADI1	S. cerevisiae	least diverged orthologue
+ENSG00000182934	SRPR	H. sapiens	S000002700	SRP101	S. cerevisiae	homologue
+ENSG00000182934	SRPR	H. sapiens	S000002700	SRP101	S. cerevisiae	least diverged orthologue
+ENSG00000182934	SRPR	H. sapiens	S000002700	SRP101	S. cerevisiae	orthologue
+ENSG00000183010	PYCR1	H. sapiens	S000000825	PRO3	S. cerevisiae	homologue
+ENSG00000183010	PYCR1	H. sapiens	S000000825	PRO3	S. cerevisiae	horizontal gene transfer
+ENSG00000183010	PYCR1	H. sapiens	S000000825	PRO3	S. cerevisiae	orthologue
+ENSG00000183765	CHEK2	H. sapiens	S000002259	DUN1	S. cerevisiae	homologue
+ENSG00000183765	CHEK2	H. sapiens	S000006074	RAD53	S. cerevisiae	orthologue
+ENSG00000185043	CIB1	H. sapiens	S000001673	CNB1	S. cerevisiae	homologue
+ENSG00000185043	CIB1	H. sapiens	S000001673	CNB1	S. cerevisiae	orthologue
+ENSG00000185122	HSF1	H. sapiens	S000001249	SKN7	S. cerevisiae	orthologue
+ENSG00000185122	HSF1	H. sapiens	S000003041	HSF1	S. cerevisiae	homologue
+ENSG00000185122	HSF1	H. sapiens	S000003041	HSF1	S. cerevisiae	orthologue
+ENSG00000185122	HSF1	H. sapiens	S000003041	HSF1	S. cerevisiae	orthologue
+ENSG00000185122	HSF1	H. sapiens	S000003908	HMS2	S. cerevisiae	orthologue
+ENSG00000185163	DDX51	H. sapiens	S000005321	DBP6	S. cerevisiae	homologue
+ENSG00000185163	DDX51	H. sapiens	S000005321	DBP6	S. cerevisiae	orthologue
+ENSG00000185532	PRKG1	H. sapiens	S000001649	TPK3	S. cerevisiae	homologue
+ENSG00000185532	PRKG1	H. sapiens	S000001649	TPK3	S. cerevisiae	horizontal gene transfer
+ENSG00000185532	PRKG1	H. sapiens	S000003700	TPK1	S. cerevisiae	homologue
+ENSG00000185532	PRKG1	H. sapiens	S000003700	TPK1	S. cerevisiae	horizontal gene transfer
+ENSG00000185532	PRKG1	H. sapiens	S000006124	TPK2	S. cerevisiae	homologue
+ENSG00000185532	PRKG1	H. sapiens	S000006124	TPK2	S. cerevisiae	horizontal gene transfer
+ENSG00000185627	PSMD13	H. sapiens	S000002835	RPN9	S. cerevisiae	homologue
+ENSG00000185627	PSMD13	H. sapiens	S000002835	RPN9	S. cerevisiae	least diverged orthologue
+ENSG00000185627	PSMD13	H. sapiens	S000002835	RPN9	S. cerevisiae	orthologue
+ENSG00000185627	PSMD13	H. sapiens	S000002835	RPN9	S. cerevisiae	orthologue
+ENSG00000186298	PPP1CC	H. sapiens	S000000935	GLC7	S. cerevisiae	homologue
+ENSG00000186298	PPP1CC	H. sapiens	S000000935	GLC7	S. cerevisiae	orthologue
+ENSG00000186298	PPP1CC	H. sapiens	S000000935	GLC7	S. cerevisiae	orthologue
+ENSG00000186687	LYRM7	H. sapiens	S000002901	MZM1	S. cerevisiae	least diverged orthologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000002672	AKR1	S. cerevisiae	homologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000002672	AKR1	S. cerevisiae	least diverged orthologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000002672	AKR1	S. cerevisiae	orthologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000002672	AKR1	S. cerevisiae	orthologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000005560	AKR2	S. cerevisiae	homologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000005560	AKR2	S. cerevisiae	orthologue
+ENSG00000186908	ZDHHC17	H. sapiens	S000005560	AKR2	S. cerevisiae	orthologue
+ENSG00000188566	NDOR1	H. sapiens	S000001084	NCP1	S. cerevisiae	least diverged orthologue
+ENSG00000188566	NDOR1	H. sapiens	S000006252	TAH18	S. cerevisiae	homologue
+ENSG00000188566	NDOR1	H. sapiens	S000006252	TAH18	S. cerevisiae	orthologue
+ENSG00000188566	NDOR1	H. sapiens	S000006252	TAH18	S. cerevisiae	orthologue
+ENSG00000188566	NDOR1	H. sapiens	S000006252	TAH18	S. cerevisiae	orthologue
+ENSG00000188603	CLN3	H. sapiens	S000003595	YHC3	S. cerevisiae	homologue
+ENSG00000188603	CLN3	H. sapiens	S000003595	YHC3	S. cerevisiae	homologue
+ENSG00000188603	CLN3	H. sapiens	S000003595	YHC3	S. cerevisiae	least diverged orthologue
+ENSG00000188603	CLN3	H. sapiens	S000003595	YHC3	S. cerevisiae	orthologue
+ENSG00000188603	CLN3	H. sapiens	S000003595	YHC3	S. cerevisiae	orthologue
+ENSG00000188706	ZDHHC9	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000188706	ZDHHC9	H. sapiens	S000004236	ERF2	S. cerevisiae	orthologue
+ENSG00000188818	ZDHHC11	H. sapiens	S000004236	ERF2	S. cerevisiae	homologue
+ENSG00000196459	TRAPPC2	H. sapiens	S000000458	TRS20	S. cerevisiae	homologue
+ENSG00000196459	TRAPPC2	H. sapiens	S000000458	TRS20	S. cerevisiae	least diverged orthologue
+ENSG00000196459	TRAPPC2	H. sapiens	S000000458	TRS20	S. cerevisiae	orthologue
+ENSG00000196459	TRAPPC2	H. sapiens	S000000458	TRS20	S. cerevisiae	orthologue
+ENSG00000196511	TPK1	H. sapiens	S000003903	""	S. cerevisiae	least diverged horizontal gene transfer
+ENSG00000196511	TPK1	H. sapiens	S000005669	THI80	S. cerevisiae	homologue
+ENSG00000196511	TPK1	H. sapiens	S000005669	THI80	S. cerevisiae	least diverged orthologue
+ENSG00000196511	TPK1	H. sapiens	S000005669	THI80	S. cerevisiae	orthologue
+ENSG00000196712	NF1	H. sapiens	S000000344	IRA1	S. cerevisiae	homologue
+ENSG00000196712	NF1	H. sapiens	S000005441	IRA2	S. cerevisiae	homologue
+ENSG00000197142	ACSL5	H. sapiens	S000000817	FAA2	S. cerevisiae	homologue
+ENSG00000197142	ACSL5	H. sapiens	S000000817	FAA2	S. cerevisiae	orthologue
+ENSG00000197299	BLM	H. sapiens	S000004802	SGS1	S. cerevisiae	homologue
+ENSG00000197299	BLM	H. sapiens	S000004802	SGS1	S. cerevisiae	least diverged orthologue
+ENSG00000197858	GPAA1	H. sapiens	S000004078	GAA1	S. cerevisiae	homologue
+ENSG00000197858	GPAA1	H. sapiens	S000004078	GAA1	S. cerevisiae	least diverged orthologue
+ENSG00000197858	GPAA1	H. sapiens	S000004078	GAA1	S. cerevisiae	orthologue
+ENSG00000197858	GPAA1	H. sapiens	S000004078	GAA1	S. cerevisiae	orthologue
+ENSG00000197912	SPG7	H. sapiens	S000000819	AFG3	S. cerevisiae	homologue
+ENSG00000197912	SPG7	H. sapiens	S000004695	YTA12	S. cerevisiae	homologue
+ENSG00000197930	ERO1A	H. sapiens	S000004599	ERO1	S. cerevisiae	homologue
+ENSG00000197930	ERO1A	H. sapiens	S000004599	ERO1	S. cerevisiae	least diverged orthologue
+ENSG00000197930	ERO1A	H. sapiens	S000004599	ERO1	S. cerevisiae	orthologue
+ENSG00000197930	ERO1A	H. sapiens	S000004599	ERO1	S. cerevisiae	orthologue
+ENSG00000198258	UBL5	H. sapiens	S000007251	HUB1	S. cerevisiae	homologue
+ENSG00000198258	UBL5	H. sapiens	S000007251	HUB1	S. cerevisiae	least diverged orthologue
+ENSG00000198258	UBL5	H. sapiens	S000007251	HUB1	S. cerevisiae	orthologue
+ENSG00000198258	UBL5	H. sapiens	S000007251	HUB1	S. cerevisiae	orthologue
+ENSG00000198492	YTHDF2	H. sapiens	S000002782	PHO92	S. cerevisiae	homologue
+ENSG00000198492	YTHDF2	H. sapiens	S000002782	PHO92	S. cerevisiae	least diverged orthologue
+ENSG00000198563	DDX39B	H. sapiens	S000002242	SUB2	S. cerevisiae	homologue
+ENSG00000198563	DDX39B	H. sapiens	S000002242	SUB2	S. cerevisiae	least diverged orthologue
+ENSG00000198563	DDX39B	H. sapiens	S000002242	SUB2	S. cerevisiae	orthologue
+ENSG00000198563	DDX39B	H. sapiens	S000002242	SUB2	S. cerevisiae	orthologue
+ENSG00000198668	CALM1	H. sapiens	S000000313	CMD1	S. cerevisiae	homologue
+ENSG00000198682	PAPSS2	H. sapiens	S000001484	MET14	S. cerevisiae	homologue
+ENSG00000198682	PAPSS2	H. sapiens	S000001484	MET14	S. cerevisiae	least diverged orthologue
+ENSG00000198836	OPA1	H. sapiens	S000001709	VPS1	S. cerevisiae	orthologue
+ENSG00000198836	OPA1	H. sapiens	S000003924	DNM1	S. cerevisiae	orthologue
+ENSG00000198836	OPA1	H. sapiens	S000005737	MGM1	S. cerevisiae	homologue
+ENSG00000198836	OPA1	H. sapiens	S000005737	MGM1	S. cerevisiae	orthologue
+ENSG00000198900	TOP1	H. sapiens	S000005366	TOP1	S. cerevisiae	homologue
+ENSG00000198900	TOP1	H. sapiens	S000005366	TOP1	S. cerevisiae	orthologue
+ENSG00000198900	TOP1	H. sapiens	S000005366	TOP1	S. cerevisiae	orthologue
+ENSG00000198900	TOP1	H. sapiens	S000005366	TOP1	S. cerevisiae	orthologue
+ENSG00000213246	SUPT4H1	H. sapiens	S000003295	SPT4	S. cerevisiae	homologue
+ENSG00000213246	SUPT4H1	H. sapiens	S000003295	SPT4	S. cerevisiae	least diverged orthologue
+ENSG00000213246	SUPT4H1	H. sapiens	S000003295	SPT4	S. cerevisiae	orthologue
+ENSG00000213585	VDAC1	H. sapiens	S000001376	POR2	S. cerevisiae	homologue
+ENSG00000213585	VDAC1	H. sapiens	S000001376	POR2	S. cerevisiae	orthologue
+ENSG00000213585	VDAC1	H. sapiens	S000001376	POR2	S. cerevisiae	orthologue
+ENSG00000213585	VDAC1	H. sapiens	S000005000	POR1	S. cerevisiae	homologue
+ENSG00000213585	VDAC1	H. sapiens	S000005000	POR1	S. cerevisiae	orthologue
+ENSG00000213585	VDAC1	H. sapiens	S000005000	POR1	S. cerevisiae	orthologue
+ENSG00000213639	PPP1CB	H. sapiens	S000000935	GLC7	S. cerevisiae	homologue
+ENSG00000214160	ALG3	H. sapiens	S000000178	ALG3	S. cerevisiae	homologue
+ENSG00000214160	ALG3	H. sapiens	S000000178	ALG3	S. cerevisiae	least diverged orthologue
+ENSG00000214160	ALG3	H. sapiens	S000000178	ALG3	S. cerevisiae	orthologue
+ENSG00000214160	ALG3	H. sapiens	S000000178	ALG3	S. cerevisiae	orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000002651	PRP28	S. cerevisiae	orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000002740	IRC3	S. cerevisiae	orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000005730	DED1	S. cerevisiae	homologue
+ENSG00000215301	DDX3X	H. sapiens	S000005730	DED1	S. cerevisiae	least diverged orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000005730	DED1	S. cerevisiae	orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000006040	DBP1	S. cerevisiae	homologue
+ENSG00000215301	DDX3X	H. sapiens	S000006040	DBP1	S. cerevisiae	least diverged orthologue
+ENSG00000215301	DDX3X	H. sapiens	S000006040	DBP1	S. cerevisiae	orthologue
+ENSG00000217930	PAM16	H. sapiens	S000003640	PAM16	S. cerevisiae	homologue
+ENSG00000217930	PAM16	H. sapiens	S000003640	PAM16	S. cerevisiae	least diverged orthologue
+ENSG00000217930	PAM16	H. sapiens	S000003640	PAM16	S. cerevisiae	orthologue
+ENSG00000228716	DHFR	H. sapiens	S000005762	DFR1	S. cerevisiae	homologue
+ENSG00000228716	DHFR	H. sapiens	S000005762	DFR1	S. cerevisiae	orthologue
+ENSG00000228716	DHFR	H. sapiens	S000005762	DFR1	S. cerevisiae	orthologue
+ENSG00000232995	RGS5	H. sapiens	S000004444	SST2	S. cerevisiae	orthologue
+ENSG00000232995	RGS5	H. sapiens	S000005633	RGS2	S. cerevisiae	orthologue
+ENSG00000239900	ADSL	H. sapiens	S000004351	ADE13	S. cerevisiae	homologue
+ENSG00000239900	ADSL	H. sapiens	S000004351	ADE13	S. cerevisiae	least diverged orthologue
+ENSG00000239900	ADSL	H. sapiens	S000004351	ADE13	S. cerevisiae	orthologue
+ENSG00000239900	ADSL	H. sapiens	S000004351	ADE13	S. cerevisiae	orthologue
+ENSG00000239900	ADSL	H. sapiens	S000006183	FUM1	S. cerevisiae	horizontal gene transfer
+ENSG00000241127	YAE1D1	H. sapiens	S000003828	YAE1	S. cerevisiae	least diverged orthologue
+ENSG00000241258	CRCP	H. sapiens	S000003548	RPC17	S. cerevisiae	least diverged orthologue
+ENSG00000242372	EIF6	H. sapiens	S000006220	TIF6	S. cerevisiae	homologue
+ENSG00000242372	EIF6	H. sapiens	S000006220	TIF6	S. cerevisiae	least diverged orthologue
+ENSG00000242372	EIF6	H. sapiens	S000006220	TIF6	S. cerevisiae	orthologue
+ENSG00000243725	TTC4	H. sapiens	S000000359	CNS1	S. cerevisiae	homologue
+ENSG00000243725	TTC4	H. sapiens	S000000359	CNS1	S. cerevisiae	orthologue
+ENSG00000244038	DDOST	H. sapiens	S000000728	WBP1	S. cerevisiae	homologue
+ENSG00000244038	DDOST	H. sapiens	S000000728	WBP1	S. cerevisiae	least diverged orthologue
+ENSG00000244687	UBE2V1	H. sapiens	S000003055	MMS2	S. cerevisiae	homologue
+ENSG00000244687	UBE2V1	H. sapiens	S000003055	MMS2	S. cerevisiae	orthologue
+ENSG00000244687	UBE2V1	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+ENSG00000254093	PINX1	H. sapiens	S000003512	PXR1	S. cerevisiae	homologue
+ENSG00000256060	TRAPPC2B	H. sapiens	S000000458	TRS20	S. cerevisiae	homologue
+ENSG00000256269	HMBS	H. sapiens	S000002364	HEM3	S. cerevisiae	homologue
+ENSG00000256269	HMBS	H. sapiens	S000002364	HEM3	S. cerevisiae	least diverged orthologue
+ENSG00000256269	HMBS	H. sapiens	S000002364	HEM3	S. cerevisiae	orthologue
+ENSG00000261408	CDK3	H. sapiens	S000000364	CDC28	S. cerevisiae	homologue
+ENSG00000261408	CDK3	H. sapiens	S000000364	CDC28	S. cerevisiae	homologue
+ENSG00000261408	CDK3	H. sapiens	S000000364	CDC28	S. cerevisiae	orthologue
+ENSG00000262814	MRPL12	H. sapiens	S000003036	MNP1	S. cerevisiae	homologue
+ENSG00000262814	MRPL12	H. sapiens	S000003036	MNP1	S. cerevisiae	orthologue
+ENSG00000262814	MRPL12	H. sapiens	S000003036	MNP1	S. cerevisiae	orthologue
+ENSG00000267673	FDX1L	H. sapiens	S000006173	YAH1	S. cerevisiae	homologue
+ENSG00000267673	FDX1L	H. sapiens	S000006173	YAH1	S. cerevisiae	orthologue
+ENSG00000267673	FDX1L	H. sapiens	S000006173	YAH1	S. cerevisiae	orthologue
+ENSG00000273841	TAF9	H. sapiens	S000004849	TAF9	S. cerevisiae	homologue
+ENSG00000273841	TAF9	H. sapiens	S000004849	TAF9	S. cerevisiae	orthologue
+ENSG00000273841	TAF9	H. sapiens	S000004849	TAF9	S. cerevisiae	orthologue
+ENSG00000277791	PSMB3	H. sapiens	S000000896	PUP3	S. cerevisiae	homologue
+ENSG00000277791	PSMB3	H. sapiens	S000000896	PUP3	S. cerevisiae	least diverged orthologue
+ENSG00000277791	PSMB3	H. sapiens	S000000896	PUP3	S. cerevisiae	orthologue
+ENSG00000277791	PSMB3	H. sapiens	S000000896	PUP3	S. cerevisiae	orthologue
+""	ABHD5	H. sapiens	S000002532	ECM18	S. cerevisiae	orthologue
+""	ABHD5	H. sapiens	S000003342	CLD1	S. cerevisiae	orthologue
+""	ABHD5	H. sapiens	S000003342	CLD1	S. cerevisiae	orthologue
+""	ABHD5	H. sapiens	S000004089	ICT1	S. cerevisiae	orthologue
+""	ACSL3	H. sapiens	S000001271	FAA3	S. cerevisiae	orthologue
+""	ACSL3	H. sapiens	S000004860	FAA4	S. cerevisiae	least diverged orthologue
+""	ACSL3	H. sapiens	S000005844	FAA1	S. cerevisiae	orthologue
+""	ALG12	H. sapiens	S000005313	ALG12	S. cerevisiae	least diverged orthologue
+""	ALG12	H. sapiens	S000005313	ALG12	S. cerevisiae	orthologue
+""	ALG14	H. sapiens	S000000274	ALG14	S. cerevisiae	least diverged orthologue
+""	ALG14	H. sapiens	S000000274	ALG14	S. cerevisiae	orthologue
+""	ARPC4	H. sapiens	S000001496	ARC19	S. cerevisiae	least diverged orthologue
+""	ARPC4	H. sapiens	S000001496	ARC19	S. cerevisiae	orthologue
+""	CDK5	H. sapiens	S000001644	KDX1	S. cerevisiae	orthologue
+""	CDK5	H. sapiens	S000005952	PHO85	S. cerevisiae	least diverged orthologue
+""	CDK5	H. sapiens	S000005952	PHO85	S. cerevisiae	orthologue
+""	CIAO1	H. sapiens	S000002675	CIA1	S. cerevisiae	least diverged orthologue
+""	CIAO1	H. sapiens	S000002675	CIA1	S. cerevisiae	orthologue
+""	CIAO1	H. sapiens	S000002675	CIA1	S. cerevisiae	orthologue
+""	CNBP	H. sapiens	S000005199	GIS2	S. cerevisiae	orthologue
+""	CNBP	H. sapiens	S000005199	GIS2	S. cerevisiae	orthologue
+""	COX17	H. sapiens	S000003932	COX17	S. cerevisiae	least diverged orthologue
+""	COX17	H. sapiens	S000003932	COX17	S. cerevisiae	orthologue
+""	COX18	H. sapiens	S000003294	COX18	S. cerevisiae	least diverged orthologue
+""	DIMT1	H. sapiens	S000004841	MTF1	S. cerevisiae	orthologue
+""	DIMT1	H. sapiens	S000006187	DIM1	S. cerevisiae	least diverged orthologue
+""	DIMT1	H. sapiens	S000006187	DIM1	S. cerevisiae	orthologue
+""	DIMT1	H. sapiens	S000006187	DIM1	S. cerevisiae	orthologue
+""	DR1	H. sapiens	S000000117	HAP3	S. cerevisiae	horizontal gene transfer
+""	DR1	H. sapiens	S000002528	DPB4	S. cerevisiae	horizontal gene transfer
+""	DR1	H. sapiens	S000002805	NCB2	S. cerevisiae	least diverged orthologue
+""	DR1	H. sapiens	S000002805	NCB2	S. cerevisiae	orthologue
+""	DR1	H. sapiens	S000002805	NCB2	S. cerevisiae	orthologue
+""	EIF2B1	H. sapiens	S000001734	GCN3	S. cerevisiae	least diverged orthologue
+""	EIF2B1	H. sapiens	S000001734	GCN3	S. cerevisiae	orthologue
+""	EIF2B1	H. sapiens	S000001734	GCN3	S. cerevisiae	orthologue
+""	EIF2B2	H. sapiens	S000004282	GCD7	S. cerevisiae	least diverged orthologue
+""	EIF2B2	H. sapiens	S000004282	GCD7	S. cerevisiae	orthologue
+""	EIF2B2	H. sapiens	S000004282	GCD7	S. cerevisiae	orthologue
+""	EIF2S3	H. sapiens	S000000827	GCD11	S. cerevisiae	least diverged orthologue
+""	EIF2S3	H. sapiens	S000000827	GCD11	S. cerevisiae	orthologue
+""	EIF4E	H. sapiens	S000005499	CDC33	S. cerevisiae	least diverged orthologue
+""	ELAC2	H. sapiens	S000001787	TRZ1	S. cerevisiae	least diverged orthologue
+""	ELAC2	H. sapiens	S000001787	TRZ1	S. cerevisiae	orthologue
+""	ELP4	H. sapiens	S000006022	ELP4	S. cerevisiae	least diverged orthologue
+""	EMG1	H. sapiens	S000004176	EMG1	S. cerevisiae	least diverged orthologue
+""	EMG1	H. sapiens	S000004176	EMG1	S. cerevisiae	orthologue
+""	EMG1	H. sapiens	S000004176	EMG1	S. cerevisiae	orthologue
+""	GTPBP4	H. sapiens	S000006014	NOG1	S. cerevisiae	least diverged orthologue
+""	GTPBP4	H. sapiens	S000006014	NOG1	S. cerevisiae	orthologue
+""	HACD1	H. sapiens	S000003633	PHS1	S. cerevisiae	orthologue
+""	HACD1	H. sapiens	S000003633	PHS1	S. cerevisiae	orthologue
+""	HACD1	H. sapiens	S000003633	PHS1	S. cerevisiae	orthologue
+""	HACD2	H. sapiens	S000003633	PHS1	S. cerevisiae	least diverged orthologue
+""	HACD2	H. sapiens	S000003633	PHS1	S. cerevisiae	orthologue
+""	ISCU	H. sapiens	S000005752	ISU2	S. cerevisiae	orthologue
+""	ISCU	H. sapiens	S000005752	ISU2	S. cerevisiae	orthologue
+""	ISCU	H. sapiens	S000005752	ISU2	S. cerevisiae	orthologue
+""	ISCU	H. sapiens	S000006056	ISU1	S. cerevisiae	least diverged orthologue
+""	ISCU	H. sapiens	S000006056	ISU1	S. cerevisiae	orthologue
+""	ISCU	H. sapiens	S000006056	ISU1	S. cerevisiae	orthologue
+""	KRR1	H. sapiens	S000000564	KRR1	S. cerevisiae	least diverged orthologue
+""	KRR1	H. sapiens	S000000564	KRR1	S. cerevisiae	orthologue
+""	KRR1	H. sapiens	S000000564	KRR1	S. cerevisiae	orthologue
+""	MGMT	H. sapiens	S000002359	MGT1	S. cerevisiae	least diverged orthologue
+""	MGMT	H. sapiens	S000002359	MGT1	S. cerevisiae	orthologue
+""	MOCS3	H. sapiens	S000001153	UBA4	S. cerevisiae	least diverged orthologue
+""	MOCS3	H. sapiens	S000001153	UBA4	S. cerevisiae	orthologue
+""	MOCS3	H. sapiens	S000001153	UBA4	S. cerevisiae	orthologue
+""	NAA10	H. sapiens	S000001055	ARD1	S. cerevisiae	least diverged orthologue
+""	NAA10	H. sapiens	S000001055	ARD1	S. cerevisiae	orthologue
+""	NFYA	H. sapiens	S000003206	HAP2	S. cerevisiae	least diverged orthologue
+""	NFYA	H. sapiens	S000003206	HAP2	S. cerevisiae	orthologue
+""	NUTF2	H. sapiens	S000000811	NTF2	S. cerevisiae	least diverged orthologue
+""	NUTF2	H. sapiens	S000000811	NTF2	S. cerevisiae	orthologue
+""	NUTF2	H. sapiens	S000000811	NTF2	S. cerevisiae	orthologue
+""	NUTF2	H. sapiens	S000001669	MTR2	S. cerevisiae	orthologue
+""	PCYT2	H. sapiens	S000003239	ECT1	S. cerevisiae	least diverged orthologue
+""	PCYT2	H. sapiens	S000003239	ECT1	S. cerevisiae	orthologue
+""	PDE7A	H. sapiens	S000005887	PDE2	S. cerevisiae	orthologue
+""	PDE7A	H. sapiens	S000005887	PDE2	S. cerevisiae	orthologue
+""	PGK1	H. sapiens	S000000605	PGK1	S. cerevisiae	least diverged orthologue
+""	PGK1	H. sapiens	S000000605	PGK1	S. cerevisiae	orthologue
+""	PGK1	H. sapiens	S000000605	PGK1	S. cerevisiae	orthologue
+""	PGK2	H. sapiens	S000000605	PGK1	S. cerevisiae	orthologue
+""	PGK2	H. sapiens	S000000605	PGK1	S. cerevisiae	orthologue
+""	PNP	H. sapiens	S000004007	MEU1	S. cerevisiae	horizontal gene transfer
+""	PNP	H. sapiens	S000004199	PNP1	S. cerevisiae	orthologue
+""	PNP	H. sapiens	S000004199	PNP1	S. cerevisiae	orthologue
+""	POLR3K	H. sapiens	S000002452	RPC11	S. cerevisiae	least diverged orthologue
+""	POLR3K	H. sapiens	S000002452	RPC11	S. cerevisiae	orthologue
+""	POLR3K	H. sapiens	S000002452	RPC11	S. cerevisiae	orthologue
+""	PPCS	H. sapiens	S000001345	CAB2	S. cerevisiae	least diverged orthologue
+""	PPCS	H. sapiens	S000001345	CAB2	S. cerevisiae	orthologue
+""	PPCS	H. sapiens	S000001345	CAB2	S. cerevisiae	orthologue
+""	PSMD12	H. sapiens	S000002306	RPN5	S. cerevisiae	least diverged orthologue
+""	PSMD12	H. sapiens	S000002306	RPN5	S. cerevisiae	orthologue
+""	PSMD12	H. sapiens	S000002306	RPN5	S. cerevisiae	orthologue
+""	RBX1	H. sapiens	S000005493	HRT1	S. cerevisiae	least diverged orthologue
+""	RBX1	H. sapiens	S000005493	HRT1	S. cerevisiae	orthologue
+""	RNF7	H. sapiens	S000005493	HRT1	S. cerevisiae	orthologue
+""	RPF1	H. sapiens	S000001130	RPF1	S. cerevisiae	least diverged orthologue
+""	RPF1	H. sapiens	S000001130	RPF1	S. cerevisiae	orthologue
+""	RPF1	H. sapiens	S000001130	RPF1	S. cerevisiae	orthologue
+""	RPF2	H. sapiens	S000001789	RPF2	S. cerevisiae	least diverged orthologue
+""	RPF2	H. sapiens	S000001789	RPF2	S. cerevisiae	orthologue
+""	RPF2	H. sapiens	S000001789	RPF2	S. cerevisiae	orthologue
+""	SC5D	H. sapiens	S000004046	ERG3	S. cerevisiae	least diverged orthologue
+""	SC5D	H. sapiens	S000004046	ERG3	S. cerevisiae	orthologue
+""	SC5D	H. sapiens	S000004046	ERG3	S. cerevisiae	orthologue
+""	SDHAF2	H. sapiens	S000005432	SDH5	S. cerevisiae	least diverged orthologue
+""	SDHAF2	H. sapiens	S000005432	SDH5	S. cerevisiae	orthologue
+""	SDHAF2	H. sapiens	S000005432	SDH5	S. cerevisiae	orthologue
+""	SHFM1	H. sapiens	S000007235	SEM1	S. cerevisiae	least diverged orthologue
+""	SKP1	H. sapiens	S000002736	SKP1	S. cerevisiae	least diverged orthologue
+""	SKP1	H. sapiens	S000002736	SKP1	S. cerevisiae	orthologue
+""	SKP1	H. sapiens	S000002736	SKP1	S. cerevisiae	orthologue
+""	SLC25A15	H. sapiens	S000005656	ORT1	S. cerevisiae	least diverged orthologue
+""	SLC25A16	H. sapiens	S000001044	LEU5	S. cerevisiae	least diverged orthologue
+""	SLC25A16	H. sapiens	S000001044	LEU5	S. cerevisiae	orthologue
+""	SLC25A16	H. sapiens	S000001044	LEU5	S. cerevisiae	orthologue
+""	SNRPD1	H. sapiens	S000003306	SMD1	S. cerevisiae	least diverged orthologue
+""	SNRPE	H. sapiens	S000005685	SME1	S. cerevisiae	least diverged orthologue
+""	SNRPE	H. sapiens	S000005685	SME1	S. cerevisiae	orthologue
+""	SNRPF	H. sapiens	S000006386	SMX3	S. cerevisiae	orthologue
+""	SNRPF	H. sapiens	S000006386	SMX3	S. cerevisiae	orthologue
+""	THG1L	H. sapiens	S000003256	THG1	S. cerevisiae	least diverged orthologue
+""	THG1L	H. sapiens	S000003256	THG1	S. cerevisiae	orthologue
+""	THG1L	H. sapiens	S000003256	THG1	S. cerevisiae	orthologue
+""	TIMM22	H. sapiens	S000002376	TIM22	S. cerevisiae	least diverged orthologue
+""	TIMM22	H. sapiens	S000002376	TIM22	S. cerevisiae	orthologue
+""	TXNL4A	H. sapiens	S000006286	DIB1	S. cerevisiae	least diverged orthologue
+""	TXNL4A	H. sapiens	S000006286	DIB1	S. cerevisiae	orthologue
+""	TXNL4A	H. sapiens	S000006286	DIB1	S. cerevisiae	orthologue
+""	UBE2V2	H. sapiens	S000003055	MMS2	S. cerevisiae	least diverged orthologue
+""	UBE2V2	H. sapiens	S000003055	MMS2	S. cerevisiae	orthologue
+""	UBE2V2	H. sapiens	S000003055	MMS2	S. cerevisiae	orthologue
+""	UBE2V2	H. sapiens	S000004297	UBC12	S. cerevisiae	horizontal gene transfer
+""	USP14	H. sapiens	S000001906	UBP6	S. cerevisiae	orthologue
+""	VPS35	H. sapiens	S000003690	VPS35	S. cerevisiae	least diverged orthologue
+""	VPS35	H. sapiens	S000003690	VPS35	S. cerevisiae	orthologue
+""	VPS35	H. sapiens	S000003690	VPS35	S. cerevisiae	orthologue
+""	ZDHHC2	H. sapiens	S000005270	PFA3	S. cerevisiae	orthologue
+""	ZDHHC2	H. sapiens	S000005363	PFA4	S. cerevisiae	orthologue
+""	ZPR1	H. sapiens	S000003443	ZPR1	S. cerevisiae	least diverged orthologue
+""	ZPR1	H. sapiens	S000003443	ZPR1	S. cerevisiae	orthologue
+""	ZPR1	H. sapiens	S000003443	ZPR1	S. cerevisiae	orthologue

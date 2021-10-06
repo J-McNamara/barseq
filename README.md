@@ -1,7 +1,7 @@
 # Barcode sequencing
-by Josh McNamara
-Johns Hopkins University
-Rong Li Lab
+by Josh McNamara  
+Johns Hopkins University  
+Rong Li Lab  
 
 ### Instructions
 - To reproduce this analysis, run the run_all.sh script. This calls ...

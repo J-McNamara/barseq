@@ -1,0 +1,19 @@
+---
+title: "Choosing mtDNA screen hits for validation screen"
+output: html_notebook
+---
+
+
+
+### Loading data and dependencies
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+library(ggthemes)
+library(ggpubr)
+theme_set(theme_pubr())
+
+df <- load('outputs/de_results.rdata')
+```
+

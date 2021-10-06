@@ -1046,3 +1046,19 @@ averaged <- aggregate(count ~ condition+gene, data = named_barcodes, FUN = 'mean
 averaged <- pivot_wider(data = averaged, names_from = condition, values_from = count)
 a <- 
 ```
+
+
+### Choosing mtDNA screen hits for validation screen
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+library(ggthemes)
+library(ggpubr)
+theme_set(theme_pubr())
+
+load('outputs/de_results.rdata')
+
+
+
+```

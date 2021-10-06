@@ -45,5 +45,5 @@ docs/
 po/*~
 
 # Custom ignore files
-*output*
+*.tsv
 *raw_data*

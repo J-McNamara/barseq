@@ -1,0 +1,10 @@
+
+====================
+BARSEQ pre-processing start
+====================
+
+Checking input file integrity
+----------
+md5sum hash should equal:
+cd85574cdc0b41cb02f798421d3f09b4
+Input file hash is:

@@ -14,6 +14,57 @@ library(ggthemes)
 library(ggpubr)
 theme_set(theme_pubr())
 
-df <- load('outputs/de_results.rdata')
+load('outputs/de_results.rdata')
+de_results <- de_results[de_results$condition =='m2',]
+
+# Subset mtDNA data
+de_results$sign <- sign(de_results$logFC)
+de_results$rank_metric <- -log2(de_results$PValue)*de_results$sign
+plot(de_results$logFC, de_results$rank_metric)
+cor(de_results$logFC, de_results$rank_metric, method = 'pearson')
+hist(-log2(de_results$PValue))
+hist(de_results$PValue)
+hist(de_results$rank_metric)
+      
+      
+      
+# Rank metric is signed negative log of the p-value
+      
+# Have some that are the negative signed? 
+      
+      
+      
 ```
+
+### Plot
+
+```{r}
+pval_cutoff <- 0.000000000001
+forplot <- de_results
+plot <- ggplot(data = forplot, aes()) +
+      geom_point(aes(x=logFC, y=rank_metric, color='blue')) +
+      geom_hline(yintercept=-log(pval_cutoff), color='red') + # Horizontal line for pval cutoff
+      geom_hline(yintercept=log(pval_cutoff), color='red') + # Horizontal line for pval cutoff
+      geom_hline(yintercept=300, color='red') + # Horizontal line for pval cutoff
+      theme(plot.title = element_text(hjust=0.5)) +
+      #theme(plot.subtitle  = element_text(hjust=0.5)) +
+          theme(legend.position = "none") +
+      xlab('log(Fold-chage)') +
+      ylab('log(P-value)') +
+      #xlim(-1,1) +
+      ggtitle(label = 'Differential Barcode Frequencies \n Proliferation Lacking mtDNA') +
+      geom_text_repel(
+          fontface = 'bold',
+          data=subset(forplot,
+                  abs(logFC) > log(75)),
+          aes(x=logFC, y=rank_metric,
+          label=common),
+          force = 20,
+          show.legend = FALSE)
+plot
+```
+
+
+
+
 

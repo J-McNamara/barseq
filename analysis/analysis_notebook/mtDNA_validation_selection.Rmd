@@ -8,6 +8,8 @@ output: html_notebook
 ### Loading data and dependencies
 
 ```{r}
+setwd("/Users/jtm/OneDrive - Johns Hopkins/li_lab/barseq/analysis/analysis_notebook")
+getwd()
 library(ggplot2)
 library(ggrepel)
 library(ggthemes)
@@ -19,14 +21,14 @@ de_results <- de_results[de_results$condition =='m2',]
 
 # Subset mtDNA data
 de_results$sign <- sign(de_results$logFC)
-de_results$rank_metric <- -log2(de_results$PValue)*de_results$sign
+de_results$rank_metric <- -log10(de_results$PValue)*de_results$sign
 plot(de_results$logFC, de_results$rank_metric)
 cor(de_results$logFC, de_results$rank_metric, method = 'pearson')
-hist(-log2(de_results$PValue))
+hist(-log10(de_results$PValue))
 hist(de_results$PValue)
 hist(de_results$rank_metric)
       
-      
+plot(de_results$logFC, -log10(de_results$PValue))
       
 # Rank metric is signed negative log of the p-value
       
@@ -39,7 +41,7 @@ hist(de_results$rank_metric)
 ### Plot
 
 ```{r}
-pval_cutoff <- 0.000000000001
+pval_cutoff <- 1e-9
 forplot <- de_results
 plot <- ggplot(data = forplot, aes()) +
       geom_point(aes(x=logFC, y=rank_metric, color='blue')) +
@@ -56,13 +58,129 @@ plot <- ggplot(data = forplot, aes()) +
       geom_text_repel(
           fontface = 'bold',
           data=subset(forplot,
-                  abs(logFC) > log(75)),
+                  abs(rank_metric) > 150),
           aes(x=logFC, y=rank_metric,
           label=common),
           force = 20,
           show.legend = FALSE)
 plot
 ```
+# Subset by rank metric and plot results 
+
+```{r}
+
+# Define validation set as 45 lowest on rank, 147 highest on rank metric
+de_results <- de_results[order(de_results$rank_metric,  decreasing = TRUE), ] 
+validation_set <- rbind(head(de_results, 147), tail(de_results, 45))
+
+
+# Sanity check plots 
+rejected_set <- de_results[150:3300,] #Define a rejected set to get bounds on it. Approximate.
+plot(1:100, runif(100,1,100))
+plot(validation_set$logFC, validation_set$rank_metric, xlim=c(-5,5), ylim=c(-300, 300))
+plot(rejected_set$logFC, rejected_set$rank_metric, xlim=c(-5,5), ylim=c(-300, 300))
+
+pval_cutoff <- 1e-9
+forplot <- validation_set
+plot <- ggplot(data = forplot, aes()) +
+      geom_point(aes(x=logFC, y=rank_metric, color='blue')) +
+      geom_hline(yintercept=-log(pval_cutoff), color='red') + # Horizontal line for pval cutoff
+      geom_hline(yintercept=log(pval_cutoff), color='red') + # Horizontal line for pval cutoff
+      theme(plot.title = element_text(hjust=0.5)) +
+      #theme(plot.subtitle  = element_text(hjust=0.5)) +
+          theme(legend.position = "none") +
+      xlab('log(Fold-chage)') +
+      ylab('log(P-value)') +
+      #xlim(-1,1) +
+      ggtitle(label = 'Differential Barcode Frequencies \n Proliferation Lacking mtDNA') +
+      geom_text_repel(
+          fontface = 'bold',
+          data=subset(forplot),
+          aes(x=logFC, y=rank_metric,
+          label=common),
+          force = 20,
+          show.legend = FALSE)
+plot
+
+# Jitter plot
+forplot$rand <- runif(dim(forplot)[1],1,10)
+plot <- ggplot(data = forplot, aes()) +
+      geom_point(aes(x=rank_metric, y=rand, color='blue')) +
+      #theme(plot.subtitle  = element_text(hjust=0.5)) +
+          theme(legend.position = "none") +
+      xlab('log(Fold-chage)') +
+      ylab('log(P-value)') +
+      #xlim(-1,1) +
+      ggtitle(label = 'Differential Barcode Frequencies \n Proliferation Lacking mtDNA') +
+      geom_text_repel(
+          fontface = 'bold',
+          data=subset(forplot),
+          aes(x = rank_metric, y = rand,
+          label=common),
+          force = 20,
+          show.legend = FALSE)
+plot
+
+```
+
+
+
+I should do rank metric on the other datasets too 
+
+
+# How to set up the plate 
+```{r}
+print('Available wells per Tecan plate, eliminating the perimeter and 1 WT well')
+wells <- 96 - 12 - 12 - 6 - 6 - 1
+wells
+
+```
+Let's do 1 plate of negative, 2 of positive
+Shall i include more control wells per plate? 
+
+No just do 50 lows and remainder highs and set plates for experiment later.
+
+I need to make the control plasmid empty or finish sequencing this one...
+
+
+
+### Output a list for pathway analysis and GSEA
+```{r} 
+# GSEA using BioGrid and bioconductor
+gene_ranks <- de_results[,c(1,9)]
+
+
+```
+
+
+### Output a list for pathway analysis and picking clones (first 2 plates)
+```{r}
+# Select gene name and rank metric (signed -log10(PValue)
+for_printer <- validation_set[,c(1,9)]
+plate_map <- read.csv(file = 'inputs/barcode_key.csv', header = TRUE)
+plate_map <- plate_map[, c(2, 3, 4)]
+well_factors <- as.vector(read.csv(file = 'inputs/well_factors.csv', header = FALSE))
+well_factors <- well_factors[,1]
+plate_factors <- read.csv(file = 'inputs/plate_factors.csv')
+plate_factors <- plate_factors[,1]
+# Add plate positions
+
+for_printer <- merge(x = for_printer, plate_map, by='gene')
+# a$dup <- !a$gene %in% a$gene[duplicated(a$gene)] # Look for duplicates in the df
+for_printer <- for_printer[-62,]
+for_printer$well <- factor(for_printer$well, levels = well_factors)
+for_printer$plate <- factor(for_printer$plate, levels = plate_factors)
+
+for_printer <- for_printer[order(for_printer$well, decreasing = FALSE),] 
+for_printer <- for_printer[order(for_printer$plate, decreasing = FALSE),] 
+
+write.csv(for_printer, file = 'outputs/mtDNA_validation_set_picking_map.csv')
+          
+```
+
+
+
+
 
 
 

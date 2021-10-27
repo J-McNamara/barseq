@@ -1,4 +1,4 @@
-Number,gene,rank_metric,plate,well,,Dest.Plate,Dest. Well 
+index,gene,rank_metric,plate,well,,dest_plate,dest_well
 1,YJR077C,-209.0837477,1NP,E1,,1,A1
 2,YDL055C,24.51125839,2EP,A9,,1,A2
 3,YDL084W,31.23578176,2EP,B1,,1,A3

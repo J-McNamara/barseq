@@ -1060,5 +1060,6 @@ theme_set(theme_pubr())
 load('outputs/de_results.rdata')
 
 
+dropout_logical <- (named_barcodes[named_barcodes$condition == 'control',]$gene %>% unique()) %in% (named_barcodes[named_barcodes$condition == 'mtDNA_t2',]$gene %>% unique())
 
 ```
